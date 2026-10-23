@@ -1,0 +1,45 @@
+{
+  "cel_a": "/Users/rushilkoundal/Documents/ChatGPT/Content strategy for YT Channel/output/stable-movement-smooth-2026-10-23/assets/cels/rk-react-05-right.png",
+  "cel_b": "/Users/rushilkoundal/Documents/ChatGPT/Content strategy for YT Channel/output/stable-movement-smooth-2026-10-23/assets/cels/rk-react-06-right.png",
+  "registration": [
+    [
+      144.65,
+      393.8
+    ],
+    [
+      134.75,
+      386.1
+    ]
+  ],
+  "silhouette_change": 0.2854,
+  "max_change": 0.35,
+  "model": "/Users/rushilkoundal/Documents/ChatGPT/Content strategy for YT Channel/tools/rife/rife-v4.6",
+  "limitation": "Model-generated candidates; inspect hands, shoes, face and emblem before use.",
+  "inbetweens": [
+    {
+      "file": "rk-react-05-to-06-00.png",
+      "t": 0.25,
+      "anchor": [
+        138.164,
+        389.855
+      ]
+    },
+    {
+      "file": "rk-react-05-to-06-01.png",
+      "t": 0.5,
+      "anchor": [
+        135.749,
+        387.923
+      ]
+    },
+    {
+      "file": "rk-react-05-to-06-02.png",
+      "t": 0.75,
+      "anchor": [
+        133.816,
+        385.507
+      ]
+    }
+  ],
+  "status": "candidates written; check hands, fingers and shoes closely"
+}

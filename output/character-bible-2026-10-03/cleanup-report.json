@@ -1,0 +1,56 @@
+{
+  "removed": [
+    {
+      "path": "/Users/rushilkoundal/Documents/ChatGPT/Content strategy for YT Channel/output/calm-to-chaos-scene01/sheets",
+      "files": 7,
+      "bytes": 10977628
+    },
+    {
+      "path": "/Users/rushilkoundal/Documents/ChatGPT/Content strategy for YT Channel/output/calm-to-chaos-scene01/exposures",
+      "files": 144,
+      "bytes": 47623712
+    },
+    {
+      "path": "/Users/rushilkoundal/Documents/ChatGPT/Content strategy for YT Channel/output/calm-to-chaos-scene01/frames",
+      "files": 72,
+      "bytes": 23880255
+    },
+    {
+      "path": "/Users/rushilkoundal/Documents/ChatGPT/Content strategy for YT Channel/output/calm-to-chaos-scene01/__pycache__",
+      "files": 1,
+      "bytes": 4070
+    },
+    {
+      "path": "/Users/rushilkoundal/Documents/ChatGPT/Content strategy for YT Channel/output/calm-to-chaos-scene01-v2/frames",
+      "files": 96,
+      "bytes": 25484800
+    },
+    {
+      "path": "/Users/rushilkoundal/Documents/ChatGPT/Content strategy for YT Channel/output/calm-to-chaos-scene01-v2/assets",
+      "files": 12,
+      "bytes": 2977605
+    },
+    {
+      "path": "/Users/rushilkoundal/Documents/ChatGPT/Content strategy for YT Channel/output/calm-to-chaos-scene01-v3/frames",
+      "files": 48,
+      "bytes": 58913631
+    },
+    {
+      "path": "/Users/rushilkoundal/Documents/ChatGPT/Content strategy for YT Channel/output/calm-to-chaos-scene01-v3/normalized",
+      "files": 48,
+      "bytes": 75247004
+    },
+    {
+      "path": "/Users/rushilkoundal/Documents/ChatGPT/Content strategy for YT Channel/output/calm-to-chaos-scene01-v3/render-sequence",
+      "files": 48,
+      "bytes": 58913631
+    },
+    {
+      "path": "/Users/rushilkoundal/Documents/ChatGPT/Content strategy for YT Channel/output/calm-to-chaos-scene01-v3/rejected",
+      "files": 0,
+      "bytes": 0
+    }
+  ],
+  "bytes_freed": 304022336,
+  "preserved": "Approved cast, original character references, final preview videos and production notes; unrelated projects untouched."
+}

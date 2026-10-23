@@ -1,0 +1,164 @@
+{
+  "walk_sequence": [
+    {
+      "frame": 0,
+      "drawing": "rk-walk-00",
+      "support": "right"
+    },
+    {
+      "frame": 3,
+      "drawing": "rk-walk-09",
+      "support": "right"
+    },
+    {
+      "frame": 5,
+      "drawing": "rk-walk-01",
+      "support": "right"
+    },
+    {
+      "frame": 7,
+      "drawing": "rk-walk-02",
+      "support": "left"
+    },
+    {
+      "frame": 9,
+      "drawing": "rk-walk-10",
+      "support": "left"
+    },
+    {
+      "frame": 11,
+      "drawing": "rk-walk-03",
+      "support": "left"
+    }
+  ],
+  "walk_row_calibration": [
+    1.0,
+    1.0160497023039088,
+    1.0328947368421053
+  ],
+  "walk_interpolation": "none: every walk gap exceeds the 0.35 RIFE gate",
+  "reaction_pairs": [
+    {
+      "pair": [
+        "assets/cels/rk-react-00-right.png",
+        "assets/cels/rk-react-01-right.png"
+      ],
+      "frames": [
+        40,
+        43
+      ],
+      "change": 0.1676,
+      "status": "candidates written; visual review pending",
+      "inbetweens": 2,
+      "rejected_after_review": []
+    },
+    {
+      "pair": [
+        "assets/cels/rk-react-01-right.png",
+        "assets/cels/rk-react-02-right.png"
+      ],
+      "frames": [
+        43,
+        45
+      ],
+      "change": 0.2231,
+      "status": "candidates written; check hands, fingers and shoes closely",
+      "inbetweens": 1,
+      "rejected_after_review": [
+        0
+      ]
+    },
+    {
+      "pair": [
+        "assets/cels/rk-react-02-right.png",
+        "assets/cels/rk-react-03-right.png"
+      ],
+      "frames": [
+        45,
+        47
+      ],
+      "change": 0.1862,
+      "status": "candidates written; visual review pending",
+      "inbetweens": 1,
+      "rejected_after_review": [
+        0
+      ]
+    },
+    {
+      "pair": [
+        "assets/cels/rk-react-03-right.png",
+        "assets/cels/rk-react-04-right.png"
+      ],
+      "frames": [
+        47,
+        49
+      ],
+      "change": 0.2993,
+      "status": "candidates written; check hands, fingers and shoes closely",
+      "inbetweens": 1,
+      "rejected_after_review": []
+    },
+    {
+      "pair": [
+        "assets/cels/rk-react-04-right.png",
+        "assets/cels/rk-react-05-right.png"
+      ],
+      "frames": [
+        49,
+        51
+      ],
+      "change": 0.0815,
+      "status": "candidates written; visual review pending",
+      "inbetweens": 1,
+      "rejected_after_review": []
+    },
+    {
+      "pair": [
+        "assets/cels/rk-react-05-right.png",
+        "assets/cels/rk-react-06-right.png"
+      ],
+      "frames": [
+        51,
+        55
+      ],
+      "change": 0.2854,
+      "status": "candidates written; check hands, fingers and shoes closely",
+      "inbetweens": 3,
+      "rejected_after_review": [
+        1
+      ]
+    },
+    {
+      "pair": [
+        "assets/cels/rk-react-06-right.png",
+        "assets/cels/rk-react-07-right.png"
+      ],
+      "frames": [
+        55,
+        58
+      ],
+      "change": 0.186,
+      "status": "candidates written; visual review pending",
+      "inbetweens": 2,
+      "rejected_after_review": []
+    },
+    {
+      "pair": [
+        "assets/cels/rk-react-07-right.png",
+        "assets/cels/rk-react-08-right.png"
+      ],
+      "frames": [
+        58,
+        61
+      ],
+      "change": 0.2385,
+      "status": "candidates written; check hands, fingers and shoes closely",
+      "inbetweens": 2,
+      "rejected_after_review": [
+        0,
+        1
+      ]
+    }
+  ],
+  "rife_frames": 8
+}

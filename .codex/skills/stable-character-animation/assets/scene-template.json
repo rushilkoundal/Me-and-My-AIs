@@ -1,0 +1,99 @@
+{
+  "size": [
+    1080,
+    1920
+  ],
+  "fps": 24,
+  "duration": 2.0,
+  "background": "#F3F1DF",
+  "safe_area": [
+    80,
+    180,
+    920,
+    1600
+  ],
+  "layers": [
+    {
+      "id": "pair",
+      "z": 30,
+      "scale": 1.85,
+      "position": [
+        380,
+        1530
+      ],
+      "check_alpha_bounds": true,
+      "cels": [
+        {
+          "start": 0.0,
+          "file": "example-pair-00.png",
+          "anchor": [
+            138.75,
+            521
+          ],
+          "subjects": {
+            "rk": [
+              44,
+              43,
+              221,
+              522
+            ],
+            "chad": [
+              224,
+              290,
+              382,
+              519
+            ]
+          },
+          "marks": {
+            "rk_left_sole": [
+              96.0,
+              521
+            ]
+          }
+        },
+        {
+          "start": 1.0,
+          "file": "example-pair-01.png",
+          "anchor": [
+            134.5,
+            521
+          ],
+          "subjects": {
+            "rk": [
+              40,
+              48,
+              221,
+              522
+            ],
+            "chad": [
+              221,
+              291,
+              378,
+              519
+            ]
+          },
+          "marks": {
+            "rk_left_sole": [
+              90.0,
+              521
+            ]
+          }
+        }
+      ]
+    }
+  ],
+  "contacts": [
+    {
+      "name": "RK left sole on floor",
+      "layer": "pair",
+      "mark": "rk_left_sole",
+      "world": [
+        301,
+        1530
+      ],
+      "start": 0,
+      "end": 2,
+      "tolerance": 4
+    }
+  ]
+}

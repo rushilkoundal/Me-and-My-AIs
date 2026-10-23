@@ -1,0 +1,1406 @@
+{
+  "size": [
+    1080,
+    1920
+  ],
+  "fps": 24,
+  "duration": 3.75,
+  "background": "#f5f2e9",
+  "safe_area": [
+    60,
+    180,
+    960,
+    1620
+  ],
+  "layers": [
+    {
+      "id": "fixed-stage",
+      "z": 0,
+      "file": "../stable-movement-smooth-2026-10-23/assets/stage.png",
+      "position": [
+        0,
+        0
+      ]
+    },
+    {
+      "id": "rk-ground-shadow",
+      "z": 1,
+      "file": "../stable-movement-smooth-2026-10-23/assets/rk-shadow.png",
+      "anchor": [
+        165,
+        25
+      ],
+      "position_keys": [
+        [
+          0,
+          260,
+          1577
+        ],
+        [
+          0.58,
+          433,
+          1577
+        ],
+        [
+          1.2,
+          500,
+          1577
+        ]
+      ]
+    },
+    {
+      "id": "chad-ground-shadow",
+      "z": 1,
+      "file": "../stable-movement-smooth-2026-10-23/assets/chad-shadow.png",
+      "anchor": [
+        142,
+        25
+      ],
+      "position": [
+        815,
+        1577
+      ]
+    },
+    {
+      "id": "rk",
+      "z": 2,
+      "scale": 2.07,
+      "position_keys": [
+        [
+          0,
+          370,
+          1570
+        ],
+        [
+          0.5416666666666666,
+          370,
+          1570
+        ],
+        [
+          0.5833333333333334,
+          601.8399999999999,
+          1570
+        ]
+      ],
+      "cels": [
+        {
+          "file": "../stable-movement-smooth-2026-10-23/assets/cels/rk-walk-00-right.png",
+          "anchor": [
+            152.0,
+            395.0
+          ],
+          "subjects": {
+            "rk": [
+              3,
+              3,
+              193,
+              396
+            ]
+          },
+          "marks": {
+            "support": [
+              152.0,
+              395.0
+            ],
+            "left_sole": [
+              40.0,
+              395.0
+            ],
+            "right_sole": [
+              144.0,
+              395.0
+            ]
+          },
+          "start": 0.0
+        },
+        {
+          "file": "../stable-movement-smooth-2026-10-23/assets/cels/rk-walk-09-right.png",
+          "anchor": [
+            127.0461,
+            394.5658
+          ],
+          "subjects": {
+            "rk": [
+              3,
+              3,
+              165,
+              396
+            ]
+          },
+          "marks": {
+            "support": [
+              127.0461,
+              394.5658
+            ],
+            "left_sole": [
+              44.9309,
+              394.5658
+            ],
+            "right_sole": [
+              127.0461,
+              394.5658
+            ]
+          },
+          "start": 0.125
+        },
+        {
+          "file": "../stable-movement-smooth-2026-10-23/assets/cels/rk-walk-01-right.png",
+          "anchor": [
+            91.5,
+            394.0
+          ],
+          "subjects": {
+            "rk": [
+              3,
+              3,
+              142,
+              395
+            ]
+          },
+          "marks": {
+            "support": [
+              91.5,
+              394.0
+            ],
+            "left_sole": [
+              41.0,
+              394.0
+            ],
+            "right_sole": [
+              91.5,
+              394.0
+            ]
+          },
+          "start": 0.20833333333333334
+        },
+        {
+          "file": "../stable-movement-smooth-2026-10-23/assets/cels/rk-walk-02-left.png",
+          "anchor": [
+            91.0,
+            394.0
+          ],
+          "subjects": {
+            "rk": [
+              3,
+              2,
+              147,
+              395
+            ]
+          },
+          "marks": {
+            "support": [
+              91.0,
+              394.0
+            ],
+            "left_sole": [
+              91.0,
+              394.0
+            ],
+            "right_sole": [
+              91.0,
+              394.0
+            ]
+          },
+          "start": 0.2916666666666667
+        },
+        {
+          "file": "../stable-movement-smooth-2026-10-23/assets/cels/rk-walk-10-left.png",
+          "anchor": [
+            58.3586,
+            396.6316
+          ],
+          "subjects": {
+            "rk": [
+              3,
+              2,
+              185,
+              398
+            ]
+          },
+          "marks": {
+            "support": [
+              58.3586,
+              396.6316
+            ],
+            "left_sole": [
+              58.3586,
+              396.6316
+            ],
+            "right_sole": [
+              58.3586,
+              396.6316
+            ]
+          },
+          "start": 0.375
+        },
+        {
+          "file": "../stable-movement-smooth-2026-10-23/assets/cels/rk-walk-03-left.png",
+          "anchor": [
+            38.0,
+            394.0
+          ],
+          "subjects": {
+            "rk": [
+              3,
+              3,
+              197,
+              396
+            ]
+          },
+          "marks": {
+            "support": [
+              38.0,
+              394.0
+            ],
+            "left_sole": [
+              38.0,
+              394.0
+            ],
+            "right_sole": [
+              150.0,
+              394.0
+            ]
+          },
+          "start": 0.4583333333333333
+        },
+        {
+          "file": "../stable-movement-smooth-2026-10-23/assets/cels/rk-brake-00-right.png",
+          "anchor": [
+            166.7065,
+            395.1957
+          ],
+          "subjects": {
+            "rk": [
+              2,
+              3,
+              215,
+              396
+            ]
+          },
+          "marks": {
+            "support": [
+              166.7065,
+              395.1957
+            ],
+            "left_sole": [
+              51.1304,
+              395.1957
+            ],
+            "right_sole": [
+              166.7065,
+              395.1957
+            ]
+          },
+          "start": 0.5833333333333334
+        },
+        {
+          "file": "../stable-movement-smooth-2026-10-23/assets/cels/rk-brake-01-right.png",
+          "anchor": [
+            145.4022,
+            394.1304
+          ],
+          "subjects": {
+            "rk": [
+              2,
+              3,
+              193,
+              395
+            ]
+          },
+          "marks": {
+            "support": [
+              145.4022,
+              394.1304
+            ],
+            "left_sole": [
+              45.8043,
+              394.1304
+            ],
+            "right_sole": [
+              145.4022,
+              394.1304
+            ]
+          },
+          "start": 0.6666666666666666
+        },
+        {
+          "file": "../stable-movement-smooth-2026-10-23/assets/cels/rk-brake-02-right.png",
+          "anchor": [
+            105.9891,
+            393.0652
+          ],
+          "subjects": {
+            "rk": [
+              3,
+              2,
+              176,
+              395
+            ]
+          },
+          "marks": {
+            "support": [
+              105.9891,
+              393.0652
+            ],
+            "left_sole": [
+              39.9457,
+              393.0652
+            ],
+            "right_sole": [
+              105.9891,
+              393.0652
+            ]
+          },
+          "start": 0.75
+        },
+        {
+          "file": "../stable-movement-smooth-2026-10-23/assets/cels/rk-brake-04-right.png",
+          "anchor": [
+            85.7043,
+            390.6783
+          ],
+          "subjects": {
+            "rk": [
+              3,
+              3,
+              153,
+              392
+            ]
+          },
+          "marks": {
+            "support": [
+              85.7043,
+              390.6783
+            ],
+            "left_sole": [
+              85.7043,
+              390.6783
+            ],
+            "right_sole": [
+              85.7043,
+              390.6783
+            ]
+          },
+          "start": 0.8333333333333334
+        },
+        {
+          "file": "../stable-movement-smooth-2026-10-23/assets/cels/rk-brake-05-right.png",
+          "anchor": [
+            89.0435,
+            388.4522
+          ],
+          "subjects": {
+            "rk": [
+              3,
+              4,
+              178,
+              392
+            ]
+          },
+          "marks": {
+            "support": [
+              89.0435,
+              388.4522
+            ],
+            "left_sole": [
+              89.0435,
+              388.4522
+            ],
+            "right_sole": [
+              89.0435,
+              388.4522
+            ]
+          },
+          "start": 0.9166666666666666
+        },
+        {
+          "file": "../stable-movement-smooth-2026-10-23/assets/cels/rk-brake-06-right.png",
+          "anchor": [
+            124.6609,
+            385.113
+          ],
+          "subjects": {
+            "rk": [
+              3,
+              2,
+              168,
+              387
+            ]
+          },
+          "marks": {
+            "support": [
+              124.6609,
+              385.113
+            ],
+            "left_sole": [
+              90.1565,
+              385.113
+            ],
+            "right_sole": [
+              90.1565,
+              385.113
+            ]
+          },
+          "start": 1.0
+        },
+        {
+          "file": "../stable-movement-smooth-2026-10-23/assets/cels/rk-brake-07-right.png",
+          "anchor": [
+            123.5478,
+            382.887
+          ],
+          "subjects": {
+            "rk": [
+              3,
+              2,
+              164,
+              384
+            ]
+          },
+          "marks": {
+            "support": [
+              123.5478,
+              382.887
+            ],
+            "left_sole": [
+              88.487,
+              382.887
+            ],
+            "right_sole": [
+              88.487,
+              382.887
+            ]
+          },
+          "start": 1.0833333333333333
+        },
+        {
+          "file": "../stable-movement-smooth-2026-10-23/assets/cels/rk-brake-08-right.png",
+          "anchor": [
+            123.2826,
+            392.8913
+          ],
+          "subjects": {
+            "rk": [
+              3,
+              3,
+              164,
+              395
+            ]
+          },
+          "marks": {
+            "support": [
+              123.2826,
+              392.8913
+            ],
+            "left_sole": [
+              53.0,
+              392.8913
+            ],
+            "right_sole": [
+              123.2826,
+              392.8913
+            ]
+          },
+          "start": 1.1666666666666667
+        },
+        {
+          "file": "../stable-movement-smooth-2026-10-23/assets/cels/rk-brake-09-right.png",
+          "anchor": [
+            125.0109,
+            397.5
+          ],
+          "subjects": {
+            "rk": [
+              3,
+              1,
+              167,
+              399
+            ]
+          },
+          "marks": {
+            "support": [
+              125.0109,
+              397.5
+            ],
+            "left_sole": [
+              50.6957,
+              397.5
+            ],
+            "right_sole": [
+              125.0109,
+              397.5
+            ]
+          },
+          "start": 1.2916666666666667
+        },
+        {
+          "file": "../stable-movement-smooth-2026-10-23/assets/cels/rk-brake-10-right.png",
+          "anchor": [
+            125.0109,
+            392.8913
+          ],
+          "subjects": {
+            "rk": [
+              2,
+              3,
+              164,
+              395
+            ]
+          },
+          "marks": {
+            "support": [
+              125.0109,
+              392.8913
+            ],
+            "left_sole": [
+              52.4239,
+              392.8913
+            ],
+            "right_sole": [
+              125.0109,
+              392.8913
+            ]
+          },
+          "start": 1.4166666666666667
+        },
+        {
+          "file": "../stable-movement-smooth-2026-10-23/assets/cels/rk-brake-11-right.png",
+          "anchor": [
+            132.5,
+            392.8913
+          ],
+          "subjects": {
+            "rk": [
+              3,
+              3,
+              168,
+              395
+            ]
+          },
+          "marks": {
+            "support": [
+              132.5,
+              392.8913
+            ],
+            "left_sole": [
+              52.4239,
+              392.8913
+            ],
+            "right_sole": [
+              132.5,
+              392.8913
+            ]
+          },
+          "start": 1.5416666666666667
+        },
+        {
+          "file": "../stable-movement-smooth-2026-10-23/assets/cels/rk-react-00-right.png",
+          "anchor": [
+            106.5217,
+            394.5652
+          ],
+          "subjects": {
+            "rk": [
+              3,
+              3,
+              142,
+              396
+            ]
+          },
+          "marks": {
+            "support": [
+              106.5217,
+              394.5652
+            ],
+            "left_sole": [
+              36.9565,
+              394.5652
+            ],
+            "right_sole": [
+              106.5217,
+              394.5652
+            ]
+          },
+          "start": 1.6666666666666667
+        },
+        {
+          "file": "../stable-movement-smooth-2026-10-23/assets/inbetweens/rk-react-00-to-01-00.png",
+          "anchor": [
+            105.314,
+            392.271
+          ],
+          "start": 1.7083333333333333,
+          "subjects": {
+            "rk": [
+              0,
+              0,
+              142,
+              394
+            ]
+          },
+          "marks": {
+            "support": [
+              105.314,
+              392.271
+            ]
+          }
+        },
+        {
+          "file": "../stable-movement-smooth-2026-10-23/assets/inbetweens/rk-react-00-to-01-01.png",
+          "anchor": [
+            107.729,
+            392.754
+          ],
+          "start": 1.75,
+          "subjects": {
+            "rk": [
+              0,
+              0,
+              143,
+              394
+            ]
+          },
+          "marks": {
+            "support": [
+              107.729,
+              392.754
+            ]
+          }
+        },
+        {
+          "file": "../stable-movement-smooth-2026-10-23/assets/cels/rk-react-01-right.png",
+          "anchor": [
+            112.5,
+            395.6522
+          ],
+          "subjects": {
+            "rk": [
+              3,
+              3,
+              148,
+              397
+            ]
+          },
+          "marks": {
+            "support": [
+              112.5,
+              395.6522
+            ],
+            "left_sole": [
+              40.7609,
+              395.6522
+            ],
+            "right_sole": [
+              112.5,
+              395.6522
+            ]
+          },
+          "start": 1.7916666666666667
+        },
+        {
+          "file": "../stable-movement-smooth-2026-10-23/assets/cels/rk-react-02-right.png",
+          "anchor": [
+            125.0,
+            385.8696
+          ],
+          "subjects": {
+            "rk": [
+              3,
+              3,
+              179,
+              387
+            ]
+          },
+          "marks": {
+            "support": [
+              125.0,
+              385.8696
+            ],
+            "left_sole": [
+              48.3696,
+              385.8696
+            ],
+            "right_sole": [
+              125.0,
+              385.8696
+            ]
+          },
+          "start": 1.875
+        },
+        {
+          "file": "../stable-movement-smooth-2026-10-23/assets/cels/rk-react-03-right.png",
+          "anchor": [
+            131.5217,
+            391.3043
+          ],
+          "subjects": {
+            "rk": [
+              3,
+              3,
+              176,
+              393
+            ]
+          },
+          "marks": {
+            "support": [
+              131.5217,
+              391.3043
+            ],
+            "left_sole": [
+              55.4348,
+              391.3043
+            ],
+            "right_sole": [
+              131.5217,
+              391.3043
+            ]
+          },
+          "start": 1.9583333333333333
+        },
+        {
+          "file": "../stable-movement-smooth-2026-10-23/assets/inbetweens/rk-react-03-to-04-00.png",
+          "anchor": [
+            134.3,
+            389.855
+          ],
+          "start": 2.0,
+          "subjects": {
+            "rk": [
+              0,
+              0,
+              181,
+              392
+            ]
+          },
+          "marks": {
+            "support": [
+              134.3,
+              389.855
+            ]
+          }
+        },
+        {
+          "file": "../stable-movement-smooth-2026-10-23/assets/cels/rk-react-04-right.png",
+          "anchor": [
+            148.5,
+            392.7
+          ],
+          "subjects": {
+            "rk": [
+              3,
+              3,
+              198,
+              394
+            ]
+          },
+          "marks": {
+            "support": [
+              148.5,
+              392.7
+            ],
+            "left_sole": [
+              63.25,
+              392.7
+            ],
+            "right_sole": [
+              148.5,
+              392.7
+            ]
+          },
+          "start": 2.0416666666666665
+        },
+        {
+          "file": "../stable-movement-smooth-2026-10-23/assets/inbetweens/rk-react-04-to-05-00.png",
+          "anchor": [
+            143.478,
+            390.821
+          ],
+          "start": 2.0833333333333335,
+          "subjects": {
+            "rk": [
+              0,
+              0,
+              189,
+              392
+            ]
+          },
+          "marks": {
+            "support": [
+              143.478,
+              390.821
+            ]
+          }
+        },
+        {
+          "file": "../stable-movement-smooth-2026-10-23/assets/cels/rk-react-05-right.png",
+          "anchor": [
+            144.65,
+            393.8
+          ],
+          "subjects": {
+            "rk": [
+              3,
+              3,
+              185,
+              395
+            ]
+          },
+          "marks": {
+            "support": [
+              144.65,
+              393.8
+            ],
+            "left_sole": [
+              61.6,
+              393.8
+            ],
+            "right_sole": [
+              144.65,
+              393.8
+            ]
+          },
+          "start": 2.125
+        },
+        {
+          "file": "../stable-movement-smooth-2026-10-23/assets/inbetweens/rk-react-05-to-06-00.png",
+          "anchor": [
+            138.164,
+            389.855
+          ],
+          "start": 2.1666666666666665,
+          "subjects": {
+            "rk": [
+              0,
+              0,
+              182,
+              391
+            ]
+          },
+          "marks": {
+            "support": [
+              138.164,
+              389.855
+            ]
+          }
+        },
+        {
+          "file": "../stable-movement-smooth-2026-10-23/assets/inbetweens/rk-react-05-to-06-02.png",
+          "anchor": [
+            133.816,
+            385.507
+          ],
+          "start": 2.25,
+          "subjects": {
+            "rk": [
+              0,
+              0,
+              185,
+              387
+            ]
+          },
+          "marks": {
+            "support": [
+              133.816,
+              385.507
+            ]
+          }
+        },
+        {
+          "file": "../stable-movement-smooth-2026-10-23/assets/cels/rk-react-06-right.png",
+          "anchor": [
+            134.75,
+            386.1
+          ],
+          "subjects": {
+            "rk": [
+              3,
+              2,
+              190,
+              388
+            ]
+          },
+          "marks": {
+            "support": [
+              134.75,
+              386.1
+            ],
+            "left_sole": [
+              55.0,
+              386.1
+            ],
+            "right_sole": [
+              134.75,
+              386.1
+            ]
+          },
+          "start": 2.2916666666666665
+        },
+        {
+          "file": "../stable-movement-smooth-2026-10-23/assets/inbetweens/rk-react-06-to-07-00.png",
+          "anchor": [
+            126.57,
+            383.092
+          ],
+          "start": 2.3333333333333335,
+          "subjects": {
+            "rk": [
+              0,
+              0,
+              184,
+              385
+            ]
+          },
+          "marks": {
+            "support": [
+              126.57,
+              383.092
+            ]
+          }
+        },
+        {
+          "file": "../stable-movement-smooth-2026-10-23/assets/inbetweens/rk-react-06-to-07-01.png",
+          "anchor": [
+            121.739,
+            382.126
+          ],
+          "start": 2.375,
+          "subjects": {
+            "rk": [
+              0,
+              0,
+              181,
+              384
+            ]
+          },
+          "marks": {
+            "support": [
+              121.739,
+              382.126
+            ]
+          }
+        },
+        {
+          "file": "../stable-movement-smooth-2026-10-23/assets/cels/rk-react-07-right.png",
+          "anchor": [
+            119.9,
+            385.0
+          ],
+          "subjects": {
+            "rk": [
+              3,
+              3,
+              181,
+              386
+            ]
+          },
+          "marks": {
+            "support": [
+              119.9,
+              385.0
+            ],
+            "left_sole": [
+              41.25,
+              385.0
+            ],
+            "right_sole": [
+              119.9,
+              385.0
+            ]
+          },
+          "start": 2.4166666666666665
+        },
+        {
+          "file": "../stable-movement-smooth-2026-10-23/assets/cels/rk-react-08-right.png",
+          "anchor": [
+            114.2087,
+            393.7043
+          ],
+          "subjects": {
+            "rk": [
+              3,
+              3,
+              153,
+              395
+            ]
+          },
+          "marks": {
+            "support": [
+              114.2087,
+              393.7043
+            ],
+            "left_sole": [
+              32.713,
+              393.7043
+            ],
+            "right_sole": [
+              114.2087,
+              393.7043
+            ]
+          },
+          "start": 2.5416666666666665
+        }
+      ],
+      "check_alpha_bounds": true
+    },
+    {
+      "id": "chad",
+      "z": 3,
+      "scale": 1.17,
+      "position": [
+        815,
+        1570
+      ],
+      "cels": [
+        {
+          "file": "../stable-movement-smooth-2026-10-23/assets/cels/chad-act-04-center.png",
+          "anchor": [
+            144.5,
+            352.0
+          ],
+          "subjects": {
+            "chad": [
+              3,
+              3,
+              259,
+              353
+            ]
+          },
+          "marks": {
+            "support": [
+              144.5,
+              352.0
+            ],
+            "left_sole": [
+              96.0,
+              352.0
+            ],
+            "right_sole": [
+              193.0,
+              352.0
+            ]
+          },
+          "start": 0.0
+        },
+        {
+          "file": "../stable-movement-smooth-2026-10-23/assets/cels/chad-act-05-center.png",
+          "anchor": [
+            144.5,
+            353.0
+          ],
+          "subjects": {
+            "chad": [
+              3,
+              3,
+              260,
+              354
+            ]
+          },
+          "marks": {
+            "support": [
+              144.5,
+              353.0
+            ],
+            "left_sole": [
+              96.0,
+              353.0
+            ],
+            "right_sole": [
+              193.0,
+              353.0
+            ]
+          },
+          "start": 1.7916666666666667
+        },
+        {
+          "file": "../stable-movement-smooth-2026-10-23/assets/cels/chad-act-06-center.png",
+          "anchor": [
+            151.5,
+            352.0
+          ],
+          "subjects": {
+            "chad": [
+              3,
+              2,
+              269,
+              354
+            ]
+          },
+          "marks": {
+            "support": [
+              151.5,
+              352.0
+            ],
+            "left_sole": [
+              102.0,
+              352.0
+            ],
+            "right_sole": [
+              201.0,
+              352.0
+            ]
+          },
+          "start": 1.9166666666666667
+        },
+        {
+          "file": "../stable-movement-smooth-2026-10-23/assets/cels/chad-act-07-center.png",
+          "anchor": [
+            145.0,
+            349.0
+          ],
+          "subjects": {
+            "chad": [
+              3,
+              3,
+              258,
+              350
+            ]
+          },
+          "marks": {
+            "support": [
+              145.0,
+              349.0
+            ],
+            "left_sole": [
+              96.5,
+              349.0
+            ],
+            "right_sole": [
+              193.5,
+              349.0
+            ]
+          },
+          "start": 2.0
+        },
+        {
+          "file": "../stable-movement-smooth-2026-10-23/assets/cels/chad-act-06-center.png",
+          "anchor": [
+            151.5,
+            352.0
+          ],
+          "subjects": {
+            "chad": [
+              3,
+              2,
+              269,
+              354
+            ]
+          },
+          "marks": {
+            "support": [
+              151.5,
+              352.0
+            ],
+            "left_sole": [
+              102.0,
+              352.0
+            ],
+            "right_sole": [
+              201.0,
+              352.0
+            ]
+          },
+          "start": 2.0833333333333335
+        },
+        {
+          "file": "../stable-movement-smooth-2026-10-23/assets/cels/chad-act-05-center.png",
+          "anchor": [
+            144.5,
+            353.0
+          ],
+          "subjects": {
+            "chad": [
+              3,
+              3,
+              260,
+              354
+            ]
+          },
+          "marks": {
+            "support": [
+              144.5,
+              353.0
+            ],
+            "left_sole": [
+              96.0,
+              353.0
+            ],
+            "right_sole": [
+              193.0,
+              353.0
+            ]
+          },
+          "start": 2.1666666666666665
+        },
+        {
+          "file": "../stable-movement-smooth-2026-10-23/assets/cels/chad-act-04-center.png",
+          "anchor": [
+            144.5,
+            352.0
+          ],
+          "subjects": {
+            "chad": [
+              3,
+              3,
+              259,
+              353
+            ]
+          },
+          "marks": {
+            "support": [
+              144.5,
+              352.0
+            ],
+            "left_sole": [
+              96.0,
+              352.0
+            ],
+            "right_sole": [
+              193.0,
+              352.0
+            ]
+          },
+          "start": 2.2916666666666665
+        }
+      ],
+      "check_alpha_bounds": true
+    }
+  ],
+  "contacts": [
+    {
+      "name": "first planted support",
+      "layer": "rk",
+      "mark": "support",
+      "world": [
+        370,
+        1570
+      ],
+      "start": 0,
+      "end": 0.5833333333333334,
+      "tolerance": 1
+    },
+    {
+      "name": "second planted support and stop",
+      "layer": "rk",
+      "mark": "support",
+      "world": [
+        601.8399999999999,
+        1570
+      ],
+      "start": 0.5833333333333334,
+      "end": 3.75,
+      "tolerance": 1
+    },
+    {
+      "name": "Chad floor",
+      "layer": "chad",
+      "mark": "support",
+      "world": [
+        815,
+        1570
+      ],
+      "tolerance": 1
+    }
+  ],
+  "source_note": "Smoothed from stable-movement-test-2026-10-23 by build_smooth.py",
+  "effects": [
+    {
+      "type": "speed_lines",
+      "start": 1.8333333333333333,
+      "end": 2.0,
+      "mode": "radial",
+      "center": [
+        560,
+        1250
+      ],
+      "count": 34,
+      "inner": 380,
+      "color": "#3A3F3A"
+    },
+    {
+      "type": "impact",
+      "start": 1.9583333333333333,
+      "end": 2.0416666666666665,
+      "hold": 1,
+      "threshold": 200
+    },
+    {
+      "type": "shake",
+      "start": 2.0416666666666665,
+      "end": 2.3333333333333335,
+      "amplitude": 16,
+      "decay": 3.5
+    }
+  ],
+  "sound": {
+    "cues": [
+      {
+        "file": "../../tools/sfx/kenney/impact-sounds/Audio/footstep_concrete_000.ogg",
+        "frame": 0,
+        "gain_db": -6,
+        "credit": "Kenney (www.kenney.nl), CC0"
+      },
+      {
+        "file": "../../tools/sfx/kenney/impact-sounds/Audio/footstep_concrete_001.ogg",
+        "frame": 11,
+        "gain_db": -6,
+        "credit": "Kenney (www.kenney.nl), CC0"
+      },
+      {
+        "file": "../../tools/sfx/kenney/impact-sounds/Audio/footstep_concrete_003.ogg",
+        "frame": 14,
+        "gain_db": -2,
+        "credit": "Kenney (www.kenney.nl), CC0"
+      },
+      {
+        "file": "../../tools/sfx/kenney/interface-sounds/Audio/question_001.ogg",
+        "frame": 40,
+        "gain_db": -10,
+        "credit": "Kenney (www.kenney.nl), CC0"
+      },
+      {
+        "file": "../../tools/sfx/kenney/rpg-audio/Audio/cloth1.ogg",
+        "frame": 41,
+        "gain_db": -4,
+        "credit": "Kenney (www.kenney.nl), CC0"
+      },
+      {
+        "file": "../../tools/sfx/kenney/impact-sounds/Audio/impactPunch_heavy_000.ogg",
+        "frame": 47,
+        "gain_db": 0,
+        "credit": "Kenney (www.kenney.nl), CC0"
+      },
+      {
+        "file": "../../tools/sfx/kenney/interface-sounds/Audio/error_006.ogg",
+        "frame": 61,
+        "gain_db": -6,
+        "credit": "Kenney (www.kenney.nl), CC0"
+      },
+      {
+        "file": "../../tools/sfx/kenney/interface-sounds/Audio/tick_001.ogg",
+        "frame": 52,
+        "gain_db": -6,
+        "credit": "Kenney (www.kenney.nl), CC0"
+      },
+      {
+        "file": "../../tools/sfx/kenney/interface-sounds/Audio/tick_002.ogg",
+        "frame": 55,
+        "gain_db": -9,
+        "credit": "Kenney (www.kenney.nl), CC0"
+      },
+      {
+        "file": "audio/room-tone.wav",
+        "at": 0,
+        "gain_db": -22
+      }
+    ],
+    "silence": [
+      {
+        "start": 2.2916666666666665,
+        "end": 2.7916666666666665
+      }
+    ],
+    "target_lufs": -14,
+    "true_peak": -1
+  },
+  "audio": "audio/mix.wav"
+}

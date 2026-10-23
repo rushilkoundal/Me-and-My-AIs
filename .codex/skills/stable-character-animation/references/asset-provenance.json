@@ -1,0 +1,21 @@
+{
+  "created": "2026-10-23",
+  "mode": "built-in image_gen",
+  "model_training": false,
+  "identity_authority": "assets/approved-cast-reference.png",
+  "presentation_status": "requested generated candidate, not a user-approved replacement master",
+  "generated": [
+    {
+      "file": "assets/simplified-cast-candidate.png",
+      "source": "/Users/rushilkoundal/.codex/generated_images/01a148db-3bdd-7d90-a64c-19e6b7426e91/exec-c5dff49b-9719-484f-8b65-9543ae2eb98d.png",
+      "prompt": "references/generation-prompts.txt"
+    },
+    {
+      "file": "assets/scene-style-anchor.png",
+      "source": "/Users/rushilkoundal/.codex/generated_images/01a148db-3bdd-7d90-a64c-19e6b7426e91/exec-a8fa1ffa-23e1-4ee2-a562-aeb44ae203c6.png",
+      "prompt": "references/scene-anchor-prompt.txt"
+    }
+  ],
+  "example_assets": "Two earlier approved project interaction cels with exact vector badge overlay; technical assembly example, not redesigned-style animation.",
+  "benchmark": "Public references listed in references/benchmark-evidence.md; no benchmark footage or audio included"
+}

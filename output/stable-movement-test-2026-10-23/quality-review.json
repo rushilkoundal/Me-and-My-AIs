@@ -1,0 +1,30 @@
+{
+  "duration_seconds": 3.75,
+  "dimensions": [
+    1080,
+    1920
+  ],
+  "fps": 24,
+  "frames": 90,
+  "encoded_output_inspected": true,
+  "review_images": [
+    "render/encoded-contact-sheet.jpg",
+    "render/encoded-reaction.png"
+  ],
+  "geometry_checks": "passed",
+  "full_body_safe_area": [
+    60,
+    180,
+    960,
+    1620
+  ],
+  "fixed_scales": {
+    "RK": 2.07,
+    "Chad": 1.17
+  },
+  "prop": "red mug resting on visible table",
+  "background": "one fixed faded room layer",
+  "animation": "complete body drawings with authored exposures and held ending",
+  "sound": "quiet original footstep and cloth foley; no speech",
+  "limits": "This is a movement test using the previously preferred cel artwork, not a final episode or a newly trained animation model."
+}

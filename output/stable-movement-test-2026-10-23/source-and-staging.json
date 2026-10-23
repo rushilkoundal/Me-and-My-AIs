@@ -1,0 +1,573 @@
+{
+  "whole_body_cels": true,
+  "source": "/Users/rushilkoundal/Documents/ChatGPT/Content strategy for YT Channel/output/movement-test-2026-10-22",
+  "actor_scales": {
+    "rk": 2.07,
+    "chad": 1.17
+  },
+  "preparation": [
+    {
+      "source": "/Users/rushilkoundal/Documents/ChatGPT/Content strategy for YT Channel/output/movement-test-2026-10-22/cels/rk-walk/rk-walk-00.png",
+      "source_bbox": [
+        108,
+        37,
+        298,
+        430
+      ],
+      "crop": [
+        105,
+        34,
+        301,
+        433
+      ],
+      "file": "assets/cels/rk-walk-00-right.png",
+      "row_calibration": 1.0,
+      "actor_scale": 2.07,
+      "discarded_exterior_pixels": 0
+    },
+    {
+      "source": "/Users/rushilkoundal/Documents/ChatGPT/Content strategy for YT Channel/output/movement-test-2026-10-22/cels/rk-walk/rk-walk-01.png",
+      "source_bbox": [
+        115,
+        39,
+        254,
+        431
+      ],
+      "crop": [
+        112,
+        36,
+        257,
+        434
+      ],
+      "file": "assets/cels/rk-walk-01-right.png",
+      "row_calibration": 1.0,
+      "actor_scale": 2.07,
+      "discarded_exterior_pixels": 0
+    },
+    {
+      "source": "/Users/rushilkoundal/Documents/ChatGPT/Content strategy for YT Channel/output/movement-test-2026-10-22/cels/rk-walk/rk-walk-02.png",
+      "source_bbox": [
+        107,
+        39,
+        250,
+        431
+      ],
+      "crop": [
+        104,
+        36,
+        253,
+        434
+      ],
+      "file": "assets/cels/rk-walk-02-right.png",
+      "row_calibration": 1.0,
+      "actor_scale": 2.07,
+      "discarded_exterior_pixels": 0
+    },
+    {
+      "source": "/Users/rushilkoundal/Documents/ChatGPT/Content strategy for YT Channel/output/movement-test-2026-10-22/cels/rk-walk/rk-walk-04.png",
+      "source_bbox": [
+        121,
+        29,
+        298,
+        420
+      ],
+      "crop": [
+        118,
+        26,
+        301,
+        423
+      ],
+      "file": "assets/cels/rk-walk-04-right.png",
+      "row_calibration": 1.0,
+      "actor_scale": 2.07,
+      "discarded_exterior_pixels": 0
+    },
+    {
+      "source": "/Users/rushilkoundal/Documents/ChatGPT/Content strategy for YT Channel/output/movement-test-2026-10-22/cels/rk-walk/rk-walk-03.png",
+      "source_bbox": [
+        92,
+        38,
+        286,
+        430
+      ],
+      "crop": [
+        89,
+        35,
+        289,
+        433
+      ],
+      "file": "assets/cels/rk-walk-03-left.png",
+      "row_calibration": 1.0,
+      "actor_scale": 2.07,
+      "discarded_exterior_pixels": 0
+    },
+    {
+      "source": "/Users/rushilkoundal/Documents/ChatGPT/Content strategy for YT Channel/output/movement-test-2026-10-22/cels/rk-brake/rk-brake-00.png",
+      "source_bbox": [
+        209,
+        77,
+        408,
+        446
+      ],
+      "crop": [
+        206,
+        74,
+        411,
+        449
+      ],
+      "file": "assets/cels/rk-brake-00-right.png",
+      "row_calibration": 1.065217391304348,
+      "actor_scale": 2.07,
+      "discarded_exterior_pixels": 0
+    },
+    {
+      "source": "/Users/rushilkoundal/Documents/ChatGPT/Content strategy for YT Channel/output/movement-test-2026-10-22/cels/rk-brake/rk-brake-01.png",
+      "source_bbox": [
+        169,
+        78,
+        347,
+        446
+      ],
+      "crop": [
+        166,
+        75,
+        350,
+        449
+      ],
+      "file": "assets/cels/rk-brake-01-right.png",
+      "row_calibration": 1.065217391304348,
+      "actor_scale": 2.07,
+      "discarded_exterior_pixels": 0
+    },
+    {
+      "source": "/Users/rushilkoundal/Documents/ChatGPT/Content strategy for YT Channel/output/movement-test-2026-10-22/cels/rk-brake/rk-brake-02.png",
+      "source_bbox": [
+        151,
+        79,
+        313,
+        446
+      ],
+      "crop": [
+        148,
+        76,
+        316,
+        449
+      ],
+      "file": "assets/cels/rk-brake-02-right.png",
+      "row_calibration": 1.065217391304348,
+      "actor_scale": 2.07,
+      "discarded_exterior_pixels": 0
+    },
+    {
+      "source": "/Users/rushilkoundal/Documents/ChatGPT/Content strategy for YT Channel/output/movement-test-2026-10-22/cels/rk-brake/rk-brake-04.png",
+      "source_bbox": [
+        239,
+        90,
+        373,
+        439
+      ],
+      "crop": [
+        236,
+        87,
+        376,
+        442
+      ],
+      "file": "assets/cels/rk-brake-04-right.png",
+      "row_calibration": 1.1130434782608696,
+      "actor_scale": 2.07,
+      "discarded_exterior_pixels": 0
+    },
+    {
+      "source": "/Users/rushilkoundal/Documents/ChatGPT/Content strategy for YT Channel/output/movement-test-2026-10-22/cels/rk-brake/rk-brake-05.png",
+      "source_bbox": [
+        181,
+        92,
+        338,
+        439
+      ],
+      "crop": [
+        178,
+        89,
+        341,
+        442
+      ],
+      "file": "assets/cels/rk-brake-05-right.png",
+      "row_calibration": 1.1130434782608696,
+      "actor_scale": 2.07,
+      "discarded_exterior_pixels": 0
+    },
+    {
+      "source": "/Users/rushilkoundal/Documents/ChatGPT/Content strategy for YT Channel/output/movement-test-2026-10-22/cels/rk-brake/rk-brake-06.png",
+      "source_bbox": [
+        160,
+        95,
+        308,
+        439
+      ],
+      "crop": [
+        157,
+        92,
+        311,
+        442
+      ],
+      "file": "assets/cels/rk-brake-06-right.png",
+      "row_calibration": 1.1130434782608696,
+      "actor_scale": 2.07,
+      "discarded_exterior_pixels": 0
+    },
+    {
+      "source": "/Users/rushilkoundal/Documents/ChatGPT/Content strategy for YT Channel/output/movement-test-2026-10-22/cels/rk-brake/rk-brake-07.png",
+      "source_bbox": [
+        145,
+        96,
+        288,
+        438
+      ],
+      "crop": [
+        142,
+        93,
+        291,
+        441
+      ],
+      "file": "assets/cels/rk-brake-07-right.png",
+      "row_calibration": 1.1130434782608696,
+      "actor_scale": 2.07,
+      "discarded_exterior_pixels": 0
+    },
+    {
+      "source": "/Users/rushilkoundal/Documents/ChatGPT/Content strategy for YT Channel/output/movement-test-2026-10-22/cels/rk-brake/rk-brake-08.png",
+      "source_bbox": [
+        233,
+        83,
+        372,
+        422
+      ],
+      "crop": [
+        230,
+        80,
+        375,
+        425
+      ],
+      "file": "assets/cels/rk-brake-08-right.png",
+      "row_calibration": 1.1521739130434783,
+      "actor_scale": 2.07,
+      "discarded_exterior_pixels": 0
+    },
+    {
+      "source": "/Users/rushilkoundal/Documents/ChatGPT/Content strategy for YT Channel/output/movement-test-2026-10-22/cels/rk-brake/rk-brake-09.png",
+      "source_bbox": [
+        202,
+        79,
+        344,
+        422
+      ],
+      "crop": [
+        199,
+        76,
+        347,
+        425
+      ],
+      "file": "assets/cels/rk-brake-09-right.png",
+      "row_calibration": 1.1521739130434783,
+      "actor_scale": 2.07,
+      "discarded_exterior_pixels": 0
+    },
+    {
+      "source": "/Users/rushilkoundal/Documents/ChatGPT/Content strategy for YT Channel/output/movement-test-2026-10-22/cels/rk-brake/rk-brake-10.png",
+      "source_bbox": [
+        166,
+        83,
+        306,
+        422
+      ],
+      "crop": [
+        163,
+        80,
+        309,
+        425
+      ],
+      "file": "assets/cels/rk-brake-10-right.png",
+      "row_calibration": 1.1521739130434783,
+      "actor_scale": 2.07,
+      "discarded_exterior_pixels": 0
+    },
+    {
+      "source": "/Users/rushilkoundal/Documents/ChatGPT/Content strategy for YT Channel/output/movement-test-2026-10-22/cels/rk-brake/rk-brake-11.png",
+      "source_bbox": [
+        147,
+        84,
+        290,
+        423
+      ],
+      "crop": [
+        144,
+        81,
+        293,
+        426
+      ],
+      "file": "assets/cels/rk-brake-11-right.png",
+      "row_calibration": 1.1521739130434783,
+      "actor_scale": 2.07,
+      "discarded_exterior_pixels": 0
+    },
+    {
+      "source": "/Users/rushilkoundal/Documents/ChatGPT/Content strategy for YT Channel/output/movement-test-2026-10-22/cels/rk-react/rk-react-00.png",
+      "source_bbox": [
+        238,
+        74,
+        365,
+        435
+      ],
+      "crop": [
+        235,
+        71,
+        368,
+        438
+      ],
+      "file": "assets/cels/rk-react-00-right.png",
+      "row_calibration": 1.0869565217391306,
+      "actor_scale": 2.07,
+      "discarded_exterior_pixels": 0
+    },
+    {
+      "source": "/Users/rushilkoundal/Documents/ChatGPT/Content strategy for YT Channel/output/movement-test-2026-10-22/cels/rk-react/rk-react-01.png",
+      "source_bbox": [
+        204,
+        73,
+        337,
+        435
+      ],
+      "crop": [
+        201,
+        70,
+        340,
+        438
+      ],
+      "file": "assets/cels/rk-react-01-right.png",
+      "row_calibration": 1.0869565217391306,
+      "actor_scale": 2.07,
+      "discarded_exterior_pixels": 0
+    },
+    {
+      "source": "/Users/rushilkoundal/Documents/ChatGPT/Content strategy for YT Channel/output/movement-test-2026-10-22/cels/rk-react/rk-react-02.png",
+      "source_bbox": [
+        170,
+        82,
+        331,
+        435
+      ],
+      "crop": [
+        167,
+        79,
+        334,
+        438
+      ],
+      "file": "assets/cels/rk-react-02-right.png",
+      "row_calibration": 1.0869565217391306,
+      "actor_scale": 2.07,
+      "discarded_exterior_pixels": 0
+    },
+    {
+      "source": "/Users/rushilkoundal/Documents/ChatGPT/Content strategy for YT Channel/output/movement-test-2026-10-22/cels/rk-react/rk-react-03.png",
+      "source_bbox": [
+        150,
+        78,
+        309,
+        436
+      ],
+      "crop": [
+        147,
+        75,
+        312,
+        439
+      ],
+      "file": "assets/cels/rk-react-03-right.png",
+      "row_calibration": 1.0869565217391306,
+      "actor_scale": 2.07,
+      "discarded_exterior_pixels": 0
+    },
+    {
+      "source": "/Users/rushilkoundal/Documents/ChatGPT/Content strategy for YT Channel/output/movement-test-2026-10-22/cels/rk-react/rk-react-04.png",
+      "source_bbox": [
+        237,
+        82,
+        414,
+        437
+      ],
+      "crop": [
+        234,
+        79,
+        417,
+        440
+      ],
+      "file": "assets/cels/rk-react-04-right.png",
+      "row_calibration": 1.1,
+      "actor_scale": 2.07,
+      "discarded_exterior_pixels": 0
+    },
+    {
+      "source": "/Users/rushilkoundal/Documents/ChatGPT/Content strategy for YT Channel/output/movement-test-2026-10-22/cels/rk-react/rk-react-05.png",
+      "source_bbox": [
+        207,
+        81,
+        372,
+        437
+      ],
+      "crop": [
+        204,
+        78,
+        375,
+        440
+      ],
+      "file": "assets/cels/rk-react-05-right.png",
+      "row_calibration": 1.1,
+      "actor_scale": 2.07,
+      "discarded_exterior_pixels": 0
+    },
+    {
+      "source": "/Users/rushilkoundal/Documents/ChatGPT/Content strategy for YT Channel/output/movement-test-2026-10-22/cels/rk-react/rk-react-06.png",
+      "source_bbox": [
+        169,
+        87,
+        338,
+        436
+      ],
+      "crop": [
+        166,
+        84,
+        341,
+        439
+      ],
+      "file": "assets/cels/rk-react-06-right.png",
+      "row_calibration": 1.1,
+      "actor_scale": 2.07,
+      "discarded_exterior_pixels": 0
+    },
+    {
+      "source": "/Users/rushilkoundal/Documents/ChatGPT/Content strategy for YT Channel/output/movement-test-2026-10-22/cels/rk-react/rk-react-07.png",
+      "source_bbox": [
+        165,
+        89,
+        326,
+        437
+      ],
+      "crop": [
+        162,
+        86,
+        329,
+        440
+      ],
+      "file": "assets/cels/rk-react-07-right.png",
+      "row_calibration": 1.1,
+      "actor_scale": 2.07,
+      "discarded_exterior_pixels": 0
+    },
+    {
+      "source": "/Users/rushilkoundal/Documents/ChatGPT/Content strategy for YT Channel/output/movement-test-2026-10-22/cels/rk-react/rk-react-08.png",
+      "source_bbox": [
+        239,
+        82,
+        369,
+        423
+      ],
+      "crop": [
+        236,
+        79,
+        372,
+        426
+      ],
+      "file": "assets/cels/rk-react-08-right.png",
+      "row_calibration": 1.1478260869565218,
+      "actor_scale": 2.07,
+      "discarded_exterior_pixels": 0
+    },
+    {
+      "source": "/Users/rushilkoundal/Documents/ChatGPT/Content strategy for YT Channel/output/movement-test-2026-10-22/cels/chad-act/chad-act-04.png",
+      "source_bbox": [
+        60,
+        53,
+        316,
+        403
+      ],
+      "crop": [
+        57,
+        50,
+        319,
+        406
+      ],
+      "file": "assets/cels/chad-act-04-center.png",
+      "row_calibration": 1.0,
+      "actor_scale": 1.17,
+      "discarded_exterior_pixels": 0
+    },
+    {
+      "source": "/Users/rushilkoundal/Documents/ChatGPT/Content strategy for YT Channel/output/movement-test-2026-10-22/cels/chad-act/chad-act-05.png",
+      "source_bbox": [
+        60,
+        52,
+        317,
+        403
+      ],
+      "crop": [
+        57,
+        49,
+        320,
+        406
+      ],
+      "file": "assets/cels/chad-act-05-center.png",
+      "row_calibration": 1.0,
+      "actor_scale": 1.17,
+      "discarded_exterior_pixels": 0
+    },
+    {
+      "source": "/Users/rushilkoundal/Documents/ChatGPT/Content strategy for YT Channel/output/movement-test-2026-10-22/cels/chad-act/chad-act-06.png",
+      "source_bbox": [
+        47,
+        53,
+        313,
+        403
+      ],
+      "crop": [
+        44,
+        50,
+        316,
+        406
+      ],
+      "file": "assets/cels/chad-act-06-center.png",
+      "row_calibration": 1.0,
+      "actor_scale": 1.17,
+      "discarded_exterior_pixels": 0
+    },
+    {
+      "source": "/Users/rushilkoundal/Documents/ChatGPT/Content strategy for YT Channel/output/movement-test-2026-10-22/cels/chad-act/chad-act-07.png",
+      "source_bbox": [
+        53,
+        56,
+        308,
+        403
+      ],
+      "crop": [
+        50,
+        53,
+        311,
+        406
+      ],
+      "file": "assets/cels/chad-act-07-center.png",
+      "row_calibration": 1.0,
+      "actor_scale": 1.17,
+      "discarded_exterior_pixels": 0
+    }
+  ],
+  "grounding": {
+    "mug_base_y": 1100,
+    "tabletop_plane_y": [
+      1087,
+      1121
+    ],
+    "mug_state": "resting on tabletop",
+    "stage_is_fixed": true
+  },
+  "final_hold_from": 2.5416666666666665,
+  "transform_limit": "translation only, fixed actor scale",
+  "visual_review_required": true
+}

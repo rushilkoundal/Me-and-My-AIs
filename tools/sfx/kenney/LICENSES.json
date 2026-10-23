@@ -1,0 +1,54 @@
+{
+  "impact-sounds": {
+    "source_page": "https://kenney.nl/assets/impact-sounds",
+    "download": "https://kenney.nl/media/pages/assets/impact-sounds/87b4ddecda-1677589768/kenney_impact-sounds.zip",
+    "licence": "CC0 1.0 Universal (public domain dedication)",
+    "licence_url": "http://creativecommons.org/publicdomain/zero/1.0/",
+    "commercial_use": true,
+    "attribution_required": false,
+    "credit_text": "Sound effects by Kenney (www.kenney.nl), CC0",
+    "licence_file": "impact-sounds/License.txt",
+    "zip_sha256": "029d734af1582474edf3a694d1b0cebc97c1c152f2f39fa34d4c2bafc5de77f8",
+    "files": 130,
+    "downloaded": "2026-10-23"
+  },
+  "interface-sounds": {
+    "source_page": "https://kenney.nl/assets/interface-sounds",
+    "download": "https://kenney.nl/media/pages/assets/interface-sounds/fa43c1dd4d-1677589452/kenney_interface-sounds.zip",
+    "licence": "CC0 1.0 Universal (public domain dedication)",
+    "licence_url": "http://creativecommons.org/publicdomain/zero/1.0/",
+    "commercial_use": true,
+    "attribution_required": false,
+    "credit_text": "Sound effects by Kenney (www.kenney.nl), CC0",
+    "licence_file": "interface-sounds/License.txt",
+    "zip_sha256": "f2193d072726d6758a5f7871b2dcc54dcce0d5c35c6f0a62f92549b327c81232",
+    "files": 100,
+    "downloaded": "2026-10-23"
+  },
+  "ui-audio": {
+    "source_page": "https://kenney.nl/assets/ui-audio",
+    "download": "https://kenney.nl/media/pages/assets/ui-audio/490d233f68-1677590494/kenney_ui-audio.zip",
+    "licence": "CC0 1.0 Universal (public domain dedication)",
+    "licence_url": "http://creativecommons.org/publicdomain/zero/1.0/",
+    "commercial_use": true,
+    "attribution_required": false,
+    "credit_text": "Sound effects by Kenney (www.kenney.nl), CC0",
+    "licence_file": "ui-audio/License.txt",
+    "zip_sha256": "946fc23a63d535d693eb31b2eabb80c8c28d6351e2186b344ceb71b2cb1d5eb6",
+    "files": 52,
+    "downloaded": "2026-10-23"
+  },
+  "rpg-audio": {
+    "source_page": "https://kenney.nl/assets/rpg-audio",
+    "download": "https://kenney.nl/media/pages/assets/rpg-audio/8e99002d76-1677590336/kenney_rpg-audio.zip",
+    "licence": "CC0 1.0 Universal (public domain dedication)",
+    "licence_url": "http://creativecommons.org/publicdomain/zero/1.0/",
+    "commercial_use": true,
+    "attribution_required": false,
+    "credit_text": "Sound effects by Kenney (www.kenney.nl), CC0",
+    "licence_file": "rpg-audio/License.txt",
+    "zip_sha256": "6dbeaf8544da958d8f2adcb4a4a4b76c1ade34a05f8ab9edccd327da7375f38b",
+    "files": 52,
+    "downloaded": "2026-10-23"
+  }
+}

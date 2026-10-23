@@ -1,0 +1,4 @@
+interface:
+  display_name: "Stable Character Animation"
+  short_description: "Stable line-art animation for the approved AI cast"
+  default_prompt: "Use $stable-character-animation to plan and render a stable minimal line-art scene with our approved characters."

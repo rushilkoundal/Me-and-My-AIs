@@ -1,0 +1,54 @@
+APPROVED CAST REFERENCE — 3 October 2026
+
+Master: approved-cast-reference.png (exact user-supplied image).
+The master and individual sheets are approved visual references. The user
+approved the individual sheets as perfect before requesting scene-one anchors.
+
+STYLE
+Hand-inked 2D cartoon appearance, clean thin organic black contours, mostly flat
+colors, white backgrounds. No 3D, realistic lighting, gradients, elaborate texture
+or unexplained costume changes. AI mascots have bald white round heads, compact
+white bodies, mitten hands and integrated rounded feet. No trousers or hair.
+
+RK
+Slim human young adult, curly black hair, thick brows, light stubble, peach skin.
+White T-shirt with centered red heart, charcoal trousers, white sneakers.
+Headphones are optional scene props; once present, keep them across that shot.
+Preserve the peach tone from the master. Shirt is white, not the pale-grey
+swatch shown beside the shirt label in the new RK sheet.
+
+CHAD
+White round mascot, grey circular cheek marks, expressive brows and sly baseline
+eyes. Teal GREEN open short-sleeve collared shirt. White ChatGPT knot on character's
+left chest. Never drift toward blue. Coffee mug is a removable story prop.
+
+CLAUDE
+White round mascot with thin black circular glasses. Orange open short-sleeve
+collared shirt. White left-chest CLAUDE badge with orange radial emblem.
+Glasses remain consistent through expressions. Notebook and napkin are props.
+
+GROK
+White round mascot, slightly stockier. Black open lapel jacket, black wraparound
+sunglasses, silver chain, silver hoop on character's left ear. White GROK chest
+wordmark on character's left. Sunglasses stay on; phone is an optional prop.
+
+BRANDING AND CONSISTENCY
+Keep chest marks attached to the same garment side through changes of view.
+Backs of garments are plain. Small generated logos can vary; use master/detail
+callouts as identity guidance and check marks on final shot anchors.
+Turnarounds are visual guides, not precision orthographic construction drawings.
+Do not feed a whole multi-pose sheet as the first video frame. Use it to create
+one clean scene composition, then use that composition as the animation input.
+
+PRODUCTION DECISION
+No voiceover or spoken dialogue for this video. Animate with Grok Imagine using
+approved shot anchor images, first/last frames where supported, and an optional
+middle pose for difficult action. Add sound design and music afterward.
+Stop the sequential-image-edit frame-production workflow. Do not recreate
+dozens of individual frames or return to code-drawn rigs without a new request.
+
+CLEANUP
+Abandoned scene01 v1/v2/v3 frame, sheet, extracted-asset and render-intermediate
+directories removed; see cleanup-report.json for exact paths and byte counts.
+Preview MP4s and production notes retained. Old render scripts cannot rerun
+without regenerating their deleted inputs. Unrelated projects were preserved.

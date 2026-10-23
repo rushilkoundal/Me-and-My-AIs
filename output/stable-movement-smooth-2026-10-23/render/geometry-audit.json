@@ -1,0 +1,7094 @@
+{
+  "duration": 3.75,
+  "fps": 24,
+  "frames": 90,
+  "size": [
+    1080,
+    1920
+  ],
+  "source_sha256": {
+    "assets/stage.png": "ec5e547875b4378c7d86c12e3a57a739fc896a9318ed5d9049e2306bce11bb4a",
+    "assets/rk-shadow.png": "5cd839005e12d1c48ae566a6c41789df965f03f24be17ce80df5f1c0aea78455",
+    "assets/chad-shadow.png": "45fccb002c3b0b1e81f88af2e7ad8418bc128e3853cb1b2f6131f024e9ffb6d4",
+    "assets/cels/rk-walk-00-right.png": "2f04271e4a9fafaa82c5edf19c924aef1606e11bd6c93c2d3ceb386006853d34",
+    "assets/cels/rk-walk-09-right.png": "54f4dbc029879efdb67513b629c6e71999a30885a47ec7442f3060ee9424e330",
+    "assets/cels/rk-walk-01-right.png": "8bee3b305f94d84135d031d62fd91bb1fcc2263498479e9bd46e3cda1c5f29a8",
+    "assets/cels/rk-walk-02-left.png": "660583d59f583aeaf81efd07539060b2775e9b87b11a45865e928f09dd23e13e",
+    "assets/cels/rk-walk-10-left.png": "64ea0281fb999d49fe83f235077f12007dc4e61d583c8caeaf23a28bc5f6ece6",
+    "assets/cels/rk-walk-03-left.png": "7cabebbe9bcf7facafa7b12ec1d11848076350a3effdc9ca5eedae60d5c24c7e",
+    "assets/cels/rk-brake-00-right.png": "349956e49613127d74d4c96aa9f1b00877cd8bca6a022b228ecd2784fdbd043a",
+    "assets/cels/rk-brake-01-right.png": "22f7a63d92bd49913e463d3e7ca8c253e93e6cd45ed964551db6cc412894153b",
+    "assets/cels/rk-brake-02-right.png": "4984e923b5f4bdc6b71374dadc8745cc6081fdcefa05040719b141c3644ade2d",
+    "assets/cels/rk-brake-04-right.png": "9fcfb3b423c409ec5d5735b9993c62c9992e0e54abf330f953ade69c6a7fca5b",
+    "assets/cels/rk-brake-05-right.png": "b11a5be4ea688a8b7e01bedb6459a8577040eb3797eeea758efd1585de560620",
+    "assets/cels/rk-brake-06-right.png": "2ff45759bdc211341b11c9490b2582418997a9492d51f935dbfaa8f8ee4f6d8b",
+    "assets/cels/rk-brake-07-right.png": "95a9516a624eab2b3148561c57b25b5c4998d309977d67477f29ceaa3c16625f",
+    "assets/cels/rk-brake-08-right.png": "d35a3c50c456206c15657ee394603bc124056fcdd179ea57ca91f58a1b6bac33",
+    "assets/cels/rk-brake-09-right.png": "3280f3d59f8edbc74781702e8093a0cabec0d432b2e4482a9dd17006f895379b",
+    "assets/cels/rk-brake-10-right.png": "1b4a69c863b134d728796b71a1c74dd4dc2388537ef3e4ca4694b560a853eebc",
+    "assets/cels/rk-brake-11-right.png": "55fe53819548f110c48b17bb1cfaa4f2fa08523593f3c8b67a54b84859c780e0",
+    "assets/cels/rk-react-00-right.png": "277bc864bb33dfb1d25e9e8bfae6a4fdb18d86c3d3b08b7a694dd16fc64336e9",
+    "assets/inbetweens/rk-react-00-to-01-00.png": "6106e01906cb0dd1cba295f90d0aca0afe4763d4cfb5fe9ce115288dd01b5632",
+    "assets/inbetweens/rk-react-00-to-01-01.png": "9f36e5a44f3076b81ffa6b8fa2ec5c93886297cd8787aec9412e3afab4d4ffa6",
+    "assets/cels/rk-react-01-right.png": "c40ed2c943006e6601c0fae43276770d5365d2e94c053be7bb750a629e225e8f",
+    "assets/cels/rk-react-02-right.png": "92525e89f9cdfff068e4e2a7e0711d4d206deea26ccd8e749bda8a285ceb0864",
+    "assets/cels/rk-react-03-right.png": "f537e8646d49d50bdf4dbce3cb325ae208c21db104b5e543998ea07fdcf973b1",
+    "assets/inbetweens/rk-react-03-to-04-00.png": "970ca4a761bb1a5b80aa4ab99ca619e307b5a96c925c176aa23c18e2ada7ac6a",
+    "assets/cels/rk-react-04-right.png": "a2fc0526bd3e9fc6dfb69923bf49a3e97bde6102595016204cfcdb2c90acbf3a",
+    "assets/inbetweens/rk-react-04-to-05-00.png": "d57f811c922e73d24959c307deb69cb85e3449fe8315610b371e1d0011e4ea72",
+    "assets/cels/rk-react-05-right.png": "82802674703de1c18ecf790105f24ca7cf6b1d33503fb5d10447bdc20d24164f",
+    "assets/inbetweens/rk-react-05-to-06-00.png": "c0c74efc150ee52d3c2b090ca5b33c3185bc28046c8b49802c0f2ac8d2c2f270",
+    "assets/inbetweens/rk-react-05-to-06-02.png": "b8207815858a5aaa6956598b259805fcf0cca9d5228b7e632a533a6ae5abb48f",
+    "assets/cels/rk-react-06-right.png": "3d61c624d39913c27970e8a8b6297daa5b5ea87b55afc2efbf4ff65f012fdd23",
+    "assets/inbetweens/rk-react-06-to-07-00.png": "3812de8c906fb1ebc0415a591fe25b076692c69cf2e88842791ccad083a30a21",
+    "assets/inbetweens/rk-react-06-to-07-01.png": "c5d15abbb468503640338a5cb851df424bad5377793aebc53185a4f611c288e5",
+    "assets/cels/rk-react-07-right.png": "0779442a03072918219a1a793b13bcfc6de9251a2ea6a46d30afa3845e385d8e",
+    "assets/cels/rk-react-08-right.png": "613f2cc3bb69ea578d7c625cad8959643a3a868c7811e49aadc1fa696986b886",
+    "assets/cels/chad-act-04-center.png": "4ee8bdcd5fa2bd3edca0e597e21aaaa983591b5dafd4ad63833eb75758184c06",
+    "assets/cels/chad-act-05-center.png": "15864bd38fb063865d906125bc1c3ebb1e05a7056f9a8f74014a341ba170139e",
+    "assets/cels/chad-act-06-center.png": "100c598fb37509ff74bec5b53f1b403e0ef57ec795387a6376d449b8157372a1",
+    "assets/cels/chad-act-07-center.png": "84f9dcab63647316af204376cac044d95503fb9271617a63b40f7fbae5041b6d"
+  },
+  "geometry_checks": "passed",
+  "limitation": "Declared geometry only; inspect actual anatomy, identity, contacts and timing visually.",
+  "frame_audit": [
+    {
+      "frame": 0,
+      "time": 0.0,
+      "boxes": [
+        {
+          "layer": "rk",
+          "subject": "rk",
+          "bbox": [
+            61.21,
+            758.21,
+            454.51,
+            1571.7199999999998
+          ]
+        },
+        {
+          "layer": "rk",
+          "subject": "rk_alpha",
+          "bbox": [
+            60.0,
+            757.0,
+            456.0,
+            1572.0
+          ]
+        },
+        {
+          "layer": "chad",
+          "subject": "chad",
+          "bbox": [
+            649.51,
+            1161.51,
+            949.03,
+            1571.01
+          ]
+        },
+        {
+          "layer": "chad",
+          "subject": "chad_alpha",
+          "bbox": [
+            649.0,
+            1162.0,
+            950.0,
+            1572.0
+          ]
+        }
+      ],
+      "marks": {
+        "fixed-stage": {},
+        "rk-ground-shadow": {},
+        "chad-ground-shadow": {},
+        "rk": {
+          "support": [
+            369.64,
+            1569.65
+          ],
+          "left_sole": [
+            137.8,
+            1569.65
+          ],
+          "right_sole": [
+            353.08,
+            1569.65
+          ]
+        },
+        "chad": {
+          "support": [
+            815.065,
+            1569.84
+          ],
+          "left_sole": [
+            758.3199999999999,
+            1569.84
+          ],
+          "right_sole": [
+            871.81,
+            1569.84
+          ]
+        }
+      }
+    },
+    {
+      "frame": 1,
+      "time": 0.041666666666666664,
+      "boxes": [
+        {
+          "layer": "rk",
+          "subject": "rk",
+          "bbox": [
+            61.21,
+            758.21,
+            454.51,
+            1571.7199999999998
+          ]
+        },
+        {
+          "layer": "rk",
+          "subject": "rk_alpha",
+          "bbox": [
+            60.0,
+            757.0,
+            456.0,
+            1572.0
+          ]
+        },
+        {
+          "layer": "chad",
+          "subject": "chad",
+          "bbox": [
+            649.51,
+            1161.51,
+            949.03,
+            1571.01
+          ]
+        },
+        {
+          "layer": "chad",
+          "subject": "chad_alpha",
+          "bbox": [
+            649.0,
+            1162.0,
+            950.0,
+            1572.0
+          ]
+        }
+      ],
+      "marks": {
+        "fixed-stage": {},
+        "rk-ground-shadow": {},
+        "chad-ground-shadow": {},
+        "rk": {
+          "support": [
+            369.64,
+            1569.65
+          ],
+          "left_sole": [
+            137.8,
+            1569.65
+          ],
+          "right_sole": [
+            353.08,
+            1569.65
+          ]
+        },
+        "chad": {
+          "support": [
+            815.065,
+            1569.84
+          ],
+          "left_sole": [
+            758.3199999999999,
+            1569.84
+          ],
+          "right_sole": [
+            871.81,
+            1569.84
+          ]
+        }
+      }
+    },
+    {
+      "frame": 2,
+      "time": 0.08333333333333333,
+      "boxes": [
+        {
+          "layer": "rk",
+          "subject": "rk",
+          "bbox": [
+            61.21,
+            758.21,
+            454.51,
+            1571.7199999999998
+          ]
+        },
+        {
+          "layer": "rk",
+          "subject": "rk_alpha",
+          "bbox": [
+            60.0,
+            757.0,
+            456.0,
+            1572.0
+          ]
+        },
+        {
+          "layer": "chad",
+          "subject": "chad",
+          "bbox": [
+            649.51,
+            1161.51,
+            949.03,
+            1571.01
+          ]
+        },
+        {
+          "layer": "chad",
+          "subject": "chad_alpha",
+          "bbox": [
+            649.0,
+            1162.0,
+            950.0,
+            1572.0
+          ]
+        }
+      ],
+      "marks": {
+        "fixed-stage": {},
+        "rk-ground-shadow": {},
+        "chad-ground-shadow": {},
+        "rk": {
+          "support": [
+            369.64,
+            1569.65
+          ],
+          "left_sole": [
+            137.8,
+            1569.65
+          ],
+          "right_sole": [
+            353.08,
+            1569.65
+          ]
+        },
+        "chad": {
+          "support": [
+            815.065,
+            1569.84
+          ],
+          "left_sole": [
+            758.3199999999999,
+            1569.84
+          ],
+          "right_sole": [
+            871.81,
+            1569.84
+          ]
+        }
+      }
+    },
+    {
+      "frame": 3,
+      "time": 0.125,
+      "boxes": [
+        {
+          "layer": "rk",
+          "subject": "rk",
+          "bbox": [
+            113.21,
+            759.21,
+            448.54999999999995,
+            1572.7199999999998
+          ]
+        },
+        {
+          "layer": "rk",
+          "subject": "rk_alpha",
+          "bbox": [
+            113.0,
+            759.0,
+            449.0,
+            1573.0
+          ]
+        },
+        {
+          "layer": "chad",
+          "subject": "chad",
+          "bbox": [
+            649.51,
+            1161.51,
+            949.03,
+            1571.01
+          ]
+        },
+        {
+          "layer": "chad",
+          "subject": "chad_alpha",
+          "bbox": [
+            649.0,
+            1162.0,
+            950.0,
+            1572.0
+          ]
+        }
+      ],
+      "marks": {
+        "fixed-stage": {},
+        "rk-ground-shadow": {},
+        "chad-ground-shadow": {},
+        "rk": {
+          "support": [
+            369.98542699999996,
+            1569.751206
+          ],
+          "left_sole": [
+            200.00696299999998,
+            1569.751206
+          ],
+          "right_sole": [
+            369.98542699999996,
+            1569.751206
+          ]
+        },
+        "chad": {
+          "support": [
+            815.065,
+            1569.84
+          ],
+          "left_sole": [
+            758.3199999999999,
+            1569.84
+          ],
+          "right_sole": [
+            871.81,
+            1569.84
+          ]
+        }
+      }
+    },
+    {
+      "frame": 4,
+      "time": 0.16666666666666666,
+      "boxes": [
+        {
+          "layer": "rk",
+          "subject": "rk",
+          "bbox": [
+            113.21,
+            759.21,
+            448.54999999999995,
+            1572.7199999999998
+          ]
+        },
+        {
+          "layer": "rk",
+          "subject": "rk_alpha",
+          "bbox": [
+            113.0,
+            759.0,
+            449.0,
+            1573.0
+          ]
+        },
+        {
+          "layer": "chad",
+          "subject": "chad",
+          "bbox": [
+            649.51,
+            1161.51,
+            949.03,
+            1571.01
+          ]
+        },
+        {
+          "layer": "chad",
+          "subject": "chad_alpha",
+          "bbox": [
+            649.0,
+            1162.0,
+            950.0,
+            1572.0
+          ]
+        }
+      ],
+      "marks": {
+        "fixed-stage": {},
+        "rk-ground-shadow": {},
+        "chad-ground-shadow": {},
+        "rk": {
+          "support": [
+            369.98542699999996,
+            1569.751206
+          ],
+          "left_sole": [
+            200.00696299999998,
+            1569.751206
+          ],
+          "right_sole": [
+            369.98542699999996,
+            1569.751206
+          ]
+        },
+        "chad": {
+          "support": [
+            815.065,
+            1569.84
+          ],
+          "left_sole": [
+            758.3199999999999,
+            1569.84
+          ],
+          "right_sole": [
+            871.81,
+            1569.84
+          ]
+        }
+      }
+    },
+    {
+      "frame": 5,
+      "time": 0.20833333333333334,
+      "boxes": [
+        {
+          "layer": "rk",
+          "subject": "rk",
+          "bbox": [
+            187.21,
+            760.21,
+            474.94,
+            1571.65
+          ]
+        },
+        {
+          "layer": "rk",
+          "subject": "rk_alpha",
+          "bbox": [
+            187.0,
+            760.0,
+            475.0,
+            1572.0
+          ]
+        },
+        {
+          "layer": "chad",
+          "subject": "chad",
+          "bbox": [
+            649.51,
+            1161.51,
+            949.03,
+            1571.01
+          ]
+        },
+        {
+          "layer": "chad",
+          "subject": "chad_alpha",
+          "bbox": [
+            649.0,
+            1162.0,
+            950.0,
+            1572.0
+          ]
+        }
+      ],
+      "marks": {
+        "fixed-stage": {},
+        "rk-ground-shadow": {},
+        "chad-ground-shadow": {},
+        "rk": {
+          "support": [
+            370.405,
+            1569.58
+          ],
+          "left_sole": [
+            265.87,
+            1569.58
+          ],
+          "right_sole": [
+            370.405,
+            1569.58
+          ]
+        },
+        "chad": {
+          "support": [
+            815.065,
+            1569.84
+          ],
+          "left_sole": [
+            758.3199999999999,
+            1569.84
+          ],
+          "right_sole": [
+            871.81,
+            1569.84
+          ]
+        }
+      }
+    },
+    {
+      "frame": 6,
+      "time": 0.25,
+      "boxes": [
+        {
+          "layer": "rk",
+          "subject": "rk",
+          "bbox": [
+            187.21,
+            760.21,
+            474.94,
+            1571.65
+          ]
+        },
+        {
+          "layer": "rk",
+          "subject": "rk_alpha",
+          "bbox": [
+            187.0,
+            760.0,
+            475.0,
+            1572.0
+          ]
+        },
+        {
+          "layer": "chad",
+          "subject": "chad",
+          "bbox": [
+            649.51,
+            1161.51,
+            949.03,
+            1571.01
+          ]
+        },
+        {
+          "layer": "chad",
+          "subject": "chad_alpha",
+          "bbox": [
+            649.0,
+            1162.0,
+            950.0,
+            1572.0
+          ]
+        }
+      ],
+      "marks": {
+        "fixed-stage": {},
+        "rk-ground-shadow": {},
+        "chad-ground-shadow": {},
+        "rk": {
+          "support": [
+            370.405,
+            1569.58
+          ],
+          "left_sole": [
+            265.87,
+            1569.58
+          ],
+          "right_sole": [
+            370.405,
+            1569.58
+          ]
+        },
+        "chad": {
+          "support": [
+            815.065,
+            1569.84
+          ],
+          "left_sole": [
+            758.3199999999999,
+            1569.84
+          ],
+          "right_sole": [
+            871.81,
+            1569.84
+          ]
+        }
+      }
+    },
+    {
+      "frame": 7,
+      "time": 0.2916666666666667,
+      "boxes": [
+        {
+          "layer": "rk",
+          "subject": "rk",
+          "bbox": [
+            188.21,
+            758.14,
+            486.28999999999996,
+            1571.65
+          ]
+        },
+        {
+          "layer": "rk",
+          "subject": "rk_alpha",
+          "bbox": [
+            189.0,
+            759.0,
+            485.0,
+            1572.0
+          ]
+        },
+        {
+          "layer": "chad",
+          "subject": "chad",
+          "bbox": [
+            649.51,
+            1161.51,
+            949.03,
+            1571.01
+          ]
+        },
+        {
+          "layer": "chad",
+          "subject": "chad_alpha",
+          "bbox": [
+            649.0,
+            1162.0,
+            950.0,
+            1572.0
+          ]
+        }
+      ],
+      "marks": {
+        "fixed-stage": {},
+        "rk-ground-shadow": {},
+        "chad-ground-shadow": {},
+        "rk": {
+          "support": [
+            370.37,
+            1569.58
+          ],
+          "left_sole": [
+            370.37,
+            1569.58
+          ],
+          "right_sole": [
+            370.37,
+            1569.58
+          ]
+        },
+        "chad": {
+          "support": [
+            815.065,
+            1569.84
+          ],
+          "left_sole": [
+            758.3199999999999,
+            1569.84
+          ],
+          "right_sole": [
+            871.81,
+            1569.84
+          ]
+        }
+      }
+    },
+    {
+      "frame": 8,
+      "time": 0.3333333333333333,
+      "boxes": [
+        {
+          "layer": "rk",
+          "subject": "rk",
+          "bbox": [
+            188.21,
+            758.14,
+            486.28999999999996,
+            1571.65
+          ]
+        },
+        {
+          "layer": "rk",
+          "subject": "rk_alpha",
+          "bbox": [
+            189.0,
+            759.0,
+            485.0,
+            1572.0
+          ]
+        },
+        {
+          "layer": "chad",
+          "subject": "chad",
+          "bbox": [
+            649.51,
+            1161.51,
+            949.03,
+            1571.01
+          ]
+        },
+        {
+          "layer": "chad",
+          "subject": "chad_alpha",
+          "bbox": [
+            649.0,
+            1162.0,
+            950.0,
+            1572.0
+          ]
+        }
+      ],
+      "marks": {
+        "fixed-stage": {},
+        "rk-ground-shadow": {},
+        "chad-ground-shadow": {},
+        "rk": {
+          "support": [
+            370.37,
+            1569.58
+          ],
+          "left_sole": [
+            370.37,
+            1569.58
+          ],
+          "right_sole": [
+            370.37,
+            1569.58
+          ]
+        },
+        "chad": {
+          "support": [
+            815.065,
+            1569.84
+          ],
+          "left_sole": [
+            758.3199999999999,
+            1569.84
+          ],
+          "right_sole": [
+            871.81,
+            1569.84
+          ]
+        }
+      }
+    },
+    {
+      "frame": 9,
+      "time": 0.375,
+      "boxes": [
+        {
+          "layer": "rk",
+          "subject": "rk",
+          "bbox": [
+            255.21,
+            753.14,
+            631.95,
+            1572.86
+          ]
+        },
+        {
+          "layer": "rk",
+          "subject": "rk_alpha",
+          "bbox": [
+            255.0,
+            754.0,
+            631.0,
+            1573.0
+          ]
+        },
+        {
+          "layer": "chad",
+          "subject": "chad",
+          "bbox": [
+            649.51,
+            1161.51,
+            949.03,
+            1571.01
+          ]
+        },
+        {
+          "layer": "chad",
+          "subject": "chad_alpha",
+          "bbox": [
+            649.0,
+            1162.0,
+            950.0,
+            1572.0
+          ]
+        }
+      ],
+      "marks": {
+        "fixed-stage": {},
+        "rk-ground-shadow": {},
+        "chad-ground-shadow": {},
+        "rk": {
+          "support": [
+            369.802302,
+            1570.027412
+          ],
+          "left_sole": [
+            369.802302,
+            1570.027412
+          ],
+          "right_sole": [
+            369.802302,
+            1570.027412
+          ]
+        },
+        "chad": {
+          "support": [
+            815.065,
+            1569.84
+          ],
+          "left_sole": [
+            758.3199999999999,
+            1569.84
+          ],
+          "right_sole": [
+            871.81,
+            1569.84
+          ]
+        }
+      }
+    },
+    {
+      "frame": 10,
+      "time": 0.4166666666666667,
+      "boxes": [
+        {
+          "layer": "rk",
+          "subject": "rk",
+          "bbox": [
+            255.21,
+            753.14,
+            631.95,
+            1572.86
+          ]
+        },
+        {
+          "layer": "rk",
+          "subject": "rk_alpha",
+          "bbox": [
+            255.0,
+            754.0,
+            631.0,
+            1573.0
+          ]
+        },
+        {
+          "layer": "chad",
+          "subject": "chad",
+          "bbox": [
+            649.51,
+            1161.51,
+            949.03,
+            1571.01
+          ]
+        },
+        {
+          "layer": "chad",
+          "subject": "chad_alpha",
+          "bbox": [
+            649.0,
+            1162.0,
+            950.0,
+            1572.0
+          ]
+        }
+      ],
+      "marks": {
+        "fixed-stage": {},
+        "rk-ground-shadow": {},
+        "chad-ground-shadow": {},
+        "rk": {
+          "support": [
+            369.802302,
+            1570.027412
+          ],
+          "left_sole": [
+            369.802302,
+            1570.027412
+          ],
+          "right_sole": [
+            369.802302,
+            1570.027412
+          ]
+        },
+        "chad": {
+          "support": [
+            815.065,
+            1569.84
+          ],
+          "left_sole": [
+            758.3199999999999,
+            1569.84
+          ],
+          "right_sole": [
+            871.81,
+            1569.84
+          ]
+        }
+      }
+    },
+    {
+      "frame": 11,
+      "time": 0.4583333333333333,
+      "boxes": [
+        {
+          "layer": "rk",
+          "subject": "rk",
+          "bbox": [
+            297.21,
+            760.21,
+            698.79,
+            1573.7199999999998
+          ]
+        },
+        {
+          "layer": "rk",
+          "subject": "rk_alpha",
+          "bbox": [
+            296.0,
+            759.0,
+            700.0,
+            1573.0
+          ]
+        },
+        {
+          "layer": "chad",
+          "subject": "chad",
+          "bbox": [
+            649.51,
+            1161.51,
+            949.03,
+            1571.01
+          ]
+        },
+        {
+          "layer": "chad",
+          "subject": "chad_alpha",
+          "bbox": [
+            649.0,
+            1162.0,
+            950.0,
+            1572.0
+          ]
+        }
+      ],
+      "marks": {
+        "fixed-stage": {},
+        "rk-ground-shadow": {},
+        "chad-ground-shadow": {},
+        "rk": {
+          "support": [
+            369.65999999999997,
+            1569.58
+          ],
+          "left_sole": [
+            369.65999999999997,
+            1569.58
+          ],
+          "right_sole": [
+            601.5,
+            1569.58
+          ]
+        },
+        "chad": {
+          "support": [
+            815.065,
+            1569.84
+          ],
+          "left_sole": [
+            758.3199999999999,
+            1569.84
+          ],
+          "right_sole": [
+            871.81,
+            1569.84
+          ]
+        }
+      }
+    },
+    {
+      "frame": 12,
+      "time": 0.5,
+      "boxes": [
+        {
+          "layer": "rk",
+          "subject": "rk",
+          "bbox": [
+            297.21,
+            760.21,
+            698.79,
+            1573.7199999999998
+          ]
+        },
+        {
+          "layer": "rk",
+          "subject": "rk_alpha",
+          "bbox": [
+            296.0,
+            759.0,
+            700.0,
+            1573.0
+          ]
+        },
+        {
+          "layer": "chad",
+          "subject": "chad",
+          "bbox": [
+            649.51,
+            1161.51,
+            949.03,
+            1571.01
+          ]
+        },
+        {
+          "layer": "chad",
+          "subject": "chad_alpha",
+          "bbox": [
+            649.0,
+            1162.0,
+            950.0,
+            1572.0
+          ]
+        }
+      ],
+      "marks": {
+        "fixed-stage": {},
+        "rk-ground-shadow": {},
+        "chad-ground-shadow": {},
+        "rk": {
+          "support": [
+            369.65999999999997,
+            1569.58
+          ],
+          "left_sole": [
+            369.65999999999997,
+            1569.58
+          ],
+          "right_sole": [
+            601.5,
+            1569.58
+          ]
+        },
+        "chad": {
+          "support": [
+            815.065,
+            1569.84
+          ],
+          "left_sole": [
+            758.3199999999999,
+            1569.84
+          ],
+          "right_sole": [
+            871.81,
+            1569.84
+          ]
+        }
+      }
+    },
+    {
+      "frame": 13,
+      "time": 0.5416666666666666,
+      "boxes": [
+        {
+          "layer": "rk",
+          "subject": "rk",
+          "bbox": [
+            297.21,
+            760.21,
+            698.79,
+            1573.7199999999998
+          ]
+        },
+        {
+          "layer": "rk",
+          "subject": "rk_alpha",
+          "bbox": [
+            296.0,
+            759.0,
+            700.0,
+            1573.0
+          ]
+        },
+        {
+          "layer": "chad",
+          "subject": "chad",
+          "bbox": [
+            649.51,
+            1161.51,
+            949.03,
+            1571.01
+          ]
+        },
+        {
+          "layer": "chad",
+          "subject": "chad_alpha",
+          "bbox": [
+            649.0,
+            1162.0,
+            950.0,
+            1572.0
+          ]
+        }
+      ],
+      "marks": {
+        "fixed-stage": {},
+        "rk-ground-shadow": {},
+        "chad-ground-shadow": {},
+        "rk": {
+          "support": [
+            369.65999999999997,
+            1569.58
+          ],
+          "left_sole": [
+            369.65999999999997,
+            1569.58
+          ],
+          "right_sole": [
+            601.5,
+            1569.58
+          ]
+        },
+        "chad": {
+          "support": [
+            815.065,
+            1569.84
+          ],
+          "left_sole": [
+            758.3199999999999,
+            1569.84
+          ],
+          "right_sole": [
+            871.81,
+            1569.84
+          ]
+        }
+      }
+    },
+    {
+      "frame": 14,
+      "time": 0.5833333333333334,
+      "boxes": [
+        {
+          "layer": "rk",
+          "subject": "rk",
+          "bbox": [
+            261.14,
+            758.21,
+            702.05,
+            1571.7199999999998
+          ]
+        },
+        {
+          "layer": "rk",
+          "subject": "rk_alpha",
+          "bbox": [
+            262.0,
+            758.0,
+            703.0,
+            1573.0
+          ]
+        },
+        {
+          "layer": "chad",
+          "subject": "chad",
+          "bbox": [
+            649.51,
+            1161.51,
+            949.03,
+            1571.01
+          ]
+        },
+        {
+          "layer": "chad",
+          "subject": "chad_alpha",
+          "bbox": [
+            649.0,
+            1162.0,
+            950.0,
+            1572.0
+          ]
+        }
+      ],
+      "marks": {
+        "fixed-stage": {},
+        "rk-ground-shadow": {},
+        "chad-ground-shadow": {},
+        "rk": {
+          "support": [
+            602.082455,
+            1570.055099
+          ],
+          "left_sole": [
+            362.839928,
+            1570.055099
+          ],
+          "right_sole": [
+            602.082455,
+            1570.055099
+          ]
+        },
+        "chad": {
+          "support": [
+            815.065,
+            1569.84
+          ],
+          "left_sole": [
+            758.3199999999999,
+            1569.84
+          ],
+          "right_sole": [
+            871.81,
+            1569.84
+          ]
+        }
+      }
+    },
+    {
+      "frame": 15,
+      "time": 0.625,
+      "boxes": [
+        {
+          "layer": "rk",
+          "subject": "rk",
+          "bbox": [
+            261.14,
+            758.21,
+            702.05,
+            1571.7199999999998
+          ]
+        },
+        {
+          "layer": "rk",
+          "subject": "rk_alpha",
+          "bbox": [
+            262.0,
+            758.0,
+            703.0,
+            1573.0
+          ]
+        },
+        {
+          "layer": "chad",
+          "subject": "chad",
+          "bbox": [
+            649.51,
+            1161.51,
+            949.03,
+            1571.01
+          ]
+        },
+        {
+          "layer": "chad",
+          "subject": "chad_alpha",
+          "bbox": [
+            649.0,
+            1162.0,
+            950.0,
+            1572.0
+          ]
+        }
+      ],
+      "marks": {
+        "fixed-stage": {},
+        "rk-ground-shadow": {},
+        "chad-ground-shadow": {},
+        "rk": {
+          "support": [
+            602.082455,
+            1570.055099
+          ],
+          "left_sole": [
+            362.839928,
+            1570.055099
+          ],
+          "right_sole": [
+            602.082455,
+            1570.055099
+          ]
+        },
+        "chad": {
+          "support": [
+            815.065,
+            1569.84
+          ],
+          "left_sole": [
+            758.3199999999999,
+            1569.84
+          ],
+          "right_sole": [
+            871.81,
+            1569.84
+          ]
+        }
+      }
+    },
+    {
+      "frame": 16,
+      "time": 0.6666666666666666,
+      "boxes": [
+        {
+          "layer": "rk",
+          "subject": "rk",
+          "bbox": [
+            305.14,
+            760.21,
+            700.51,
+            1571.65
+          ]
+        },
+        {
+          "layer": "rk",
+          "subject": "rk_alpha",
+          "bbox": [
+            306.0,
+            759.0,
+            701.0,
+            1573.0
+          ]
+        },
+        {
+          "layer": "chad",
+          "subject": "chad",
+          "bbox": [
+            649.51,
+            1161.51,
+            949.03,
+            1571.01
+          ]
+        },
+        {
+          "layer": "chad",
+          "subject": "chad_alpha",
+          "bbox": [
+            649.0,
+            1162.0,
+            950.0,
+            1572.0
+          ]
+        }
+      ],
+      "marks": {
+        "fixed-stage": {},
+        "rk-ground-shadow": {},
+        "chad-ground-shadow": {},
+        "rk": {
+          "support": [
+            601.9825539999999,
+            1569.849928
+          ],
+          "left_sole": [
+            395.81490099999996,
+            1569.849928
+          ],
+          "right_sole": [
+            601.9825539999999,
+            1569.849928
+          ]
+        },
+        "chad": {
+          "support": [
+            815.065,
+            1569.84
+          ],
+          "left_sole": [
+            758.3199999999999,
+            1569.84
+          ],
+          "right_sole": [
+            871.81,
+            1569.84
+          ]
+        }
+      }
+    },
+    {
+      "frame": 17,
+      "time": 0.7083333333333334,
+      "boxes": [
+        {
+          "layer": "rk",
+          "subject": "rk",
+          "bbox": [
+            305.14,
+            760.21,
+            700.51,
+            1571.65
+          ]
+        },
+        {
+          "layer": "rk",
+          "subject": "rk_alpha",
+          "bbox": [
+            306.0,
+            759.0,
+            701.0,
+            1573.0
+          ]
+        },
+        {
+          "layer": "chad",
+          "subject": "chad",
+          "bbox": [
+            649.51,
+            1161.51,
+            949.03,
+            1571.01
+          ]
+        },
+        {
+          "layer": "chad",
+          "subject": "chad_alpha",
+          "bbox": [
+            649.0,
+            1162.0,
+            950.0,
+            1572.0
+          ]
+        }
+      ],
+      "marks": {
+        "fixed-stage": {},
+        "rk-ground-shadow": {},
+        "chad-ground-shadow": {},
+        "rk": {
+          "support": [
+            601.9825539999999,
+            1569.849928
+          ],
+          "left_sole": [
+            395.81490099999996,
+            1569.849928
+          ],
+          "right_sole": [
+            601.9825539999999,
+            1569.849928
+          ]
+        },
+        "chad": {
+          "support": [
+            815.065,
+            1569.84
+          ],
+          "left_sole": [
+            758.3199999999999,
+            1569.84
+          ],
+          "right_sole": [
+            871.81,
+            1569.84
+          ]
+        }
+      }
+    },
+    {
+      "frame": 18,
+      "time": 0.75,
+      "boxes": [
+        {
+          "layer": "rk",
+          "subject": "rk",
+          "bbox": [
+            388.21,
+            760.14,
+            746.3199999999999,
+            1573.65
+          ]
+        },
+        {
+          "layer": "rk",
+          "subject": "rk_alpha",
+          "bbox": [
+            388.0,
+            761.0,
+            746.0,
+            1573.0
+          ]
+        },
+        {
+          "layer": "chad",
+          "subject": "chad",
+          "bbox": [
+            649.51,
+            1161.51,
+            949.03,
+            1571.01
+          ]
+        },
+        {
+          "layer": "chad",
+          "subject": "chad_alpha",
+          "bbox": [
+            649.0,
+            1162.0,
+            950.0,
+            1572.0
+          ]
+        }
+      ],
+      "marks": {
+        "fixed-stage": {},
+        "rk-ground-shadow": {},
+        "chad-ground-shadow": {},
+        "rk": {
+          "support": [
+            601.397437,
+            1569.644964
+          ],
+          "left_sole": [
+            464.687599,
+            1569.644964
+          ],
+          "right_sole": [
+            601.397437,
+            1569.644964
+          ]
+        },
+        "chad": {
+          "support": [
+            815.065,
+            1569.84
+          ],
+          "left_sole": [
+            758.3199999999999,
+            1569.84
+          ],
+          "right_sole": [
+            871.81,
+            1569.84
+          ]
+        }
+      }
+    },
+    {
+      "frame": 19,
+      "time": 0.7916666666666666,
+      "boxes": [
+        {
+          "layer": "rk",
+          "subject": "rk",
+          "bbox": [
+            388.21,
+            760.14,
+            746.3199999999999,
+            1573.65
+          ]
+        },
+        {
+          "layer": "rk",
+          "subject": "rk_alpha",
+          "bbox": [
+            388.0,
+            761.0,
+            746.0,
+            1573.0
+          ]
+        },
+        {
+          "layer": "chad",
+          "subject": "chad",
+          "bbox": [
+            649.51,
+            1161.51,
+            949.03,
+            1571.01
+          ]
+        },
+        {
+          "layer": "chad",
+          "subject": "chad_alpha",
+          "bbox": [
+            649.0,
+            1162.0,
+            950.0,
+            1572.0
+          ]
+        }
+      ],
+      "marks": {
+        "fixed-stage": {},
+        "rk-ground-shadow": {},
+        "chad-ground-shadow": {},
+        "rk": {
+          "support": [
+            601.397437,
+            1569.644964
+          ],
+          "left_sole": [
+            464.687599,
+            1569.644964
+          ],
+          "right_sole": [
+            601.397437,
+            1569.644964
+          ]
+        },
+        "chad": {
+          "support": [
+            815.065,
+            1569.84
+          ],
+          "left_sole": [
+            758.3199999999999,
+            1569.84
+          ],
+          "right_sole": [
+            871.81,
+            1569.84
+          ]
+        }
+      }
+    },
+    {
+      "frame": 20,
+      "time": 0.8333333333333334,
+      "boxes": [
+        {
+          "layer": "rk",
+          "subject": "rk",
+          "bbox": [
+            430.21,
+            767.21,
+            740.71,
+            1572.44
+          ]
+        },
+        {
+          "layer": "rk",
+          "subject": "rk_alpha",
+          "bbox": [
+            429.0,
+            768.0,
+            741.0,
+            1573.0
+          ]
+        },
+        {
+          "layer": "chad",
+          "subject": "chad",
+          "bbox": [
+            649.51,
+            1161.51,
+            949.03,
+            1571.01
+          ]
+        },
+        {
+          "layer": "chad",
+          "subject": "chad_alpha",
+          "bbox": [
+            649.0,
+            1162.0,
+            950.0,
+            1572.0
+          ]
+        }
+      ],
+      "marks": {
+        "fixed-stage": {},
+        "rk-ground-shadow": {},
+        "chad-ground-shadow": {},
+        "rk": {
+          "support": [
+            601.407901,
+            1569.7040809999999
+          ],
+          "left_sole": [
+            601.407901,
+            1569.7040809999999
+          ],
+          "right_sole": [
+            601.407901,
+            1569.7040809999999
+          ]
+        },
+        "chad": {
+          "support": [
+            815.065,
+            1569.84
+          ],
+          "left_sole": [
+            758.3199999999999,
+            1569.84
+          ],
+          "right_sole": [
+            871.81,
+            1569.84
+          ]
+        }
+      }
+    },
+    {
+      "frame": 21,
+      "time": 0.875,
+      "boxes": [
+        {
+          "layer": "rk",
+          "subject": "rk",
+          "bbox": [
+            430.21,
+            767.21,
+            740.71,
+            1572.44
+          ]
+        },
+        {
+          "layer": "rk",
+          "subject": "rk_alpha",
+          "bbox": [
+            429.0,
+            768.0,
+            741.0,
+            1573.0
+          ]
+        },
+        {
+          "layer": "chad",
+          "subject": "chad",
+          "bbox": [
+            649.51,
+            1161.51,
+            949.03,
+            1571.01
+          ]
+        },
+        {
+          "layer": "chad",
+          "subject": "chad_alpha",
+          "bbox": [
+            649.0,
+            1162.0,
+            950.0,
+            1572.0
+          ]
+        }
+      ],
+      "marks": {
+        "fixed-stage": {},
+        "rk-ground-shadow": {},
+        "chad-ground-shadow": {},
+        "rk": {
+          "support": [
+            601.407901,
+            1569.7040809999999
+          ],
+          "left_sole": [
+            601.407901,
+            1569.7040809999999
+          ],
+          "right_sole": [
+            601.407901,
+            1569.7040809999999
+          ]
+        },
+        "chad": {
+          "support": [
+            815.065,
+            1569.84
+          ],
+          "left_sole": [
+            758.3199999999999,
+            1569.84
+          ],
+          "right_sole": [
+            871.81,
+            1569.84
+          ]
+        }
+      }
+    },
+    {
+      "frame": 22,
+      "time": 0.9166666666666666,
+      "boxes": [
+        {
+          "layer": "rk",
+          "subject": "rk",
+          "bbox": [
+            424.21,
+            774.28,
+            786.46,
+            1577.44
+          ]
+        },
+        {
+          "layer": "rk",
+          "subject": "rk_alpha",
+          "bbox": [
+            425.0,
+            773.0,
+            787.0,
+            1578.0
+          ]
+        },
+        {
+          "layer": "chad",
+          "subject": "chad",
+          "bbox": [
+            649.51,
+            1161.51,
+            949.03,
+            1571.01
+          ]
+        },
+        {
+          "layer": "chad",
+          "subject": "chad_alpha",
+          "bbox": [
+            649.0,
+            1162.0,
+            950.0,
+            1572.0
+          ]
+        }
+      ],
+      "marks": {
+        "fixed-stage": {},
+        "rk-ground-shadow": {},
+        "chad-ground-shadow": {},
+        "rk": {
+          "support": [
+            602.3200449999999,
+            1570.096054
+          ],
+          "left_sole": [
+            602.3200449999999,
+            1570.096054
+          ],
+          "right_sole": [
+            602.3200449999999,
+            1570.096054
+          ]
+        },
+        "chad": {
+          "support": [
+            815.065,
+            1569.84
+          ],
+          "left_sole": [
+            758.3199999999999,
+            1569.84
+          ],
+          "right_sole": [
+            871.81,
+            1569.84
+          ]
+        }
+      }
+    },
+    {
+      "frame": 23,
+      "time": 0.9583333333333334,
+      "boxes": [
+        {
+          "layer": "rk",
+          "subject": "rk",
+          "bbox": [
+            424.21,
+            774.28,
+            786.46,
+            1577.44
+          ]
+        },
+        {
+          "layer": "rk",
+          "subject": "rk_alpha",
+          "bbox": [
+            425.0,
+            773.0,
+            787.0,
+            1578.0
+          ]
+        },
+        {
+          "layer": "chad",
+          "subject": "chad",
+          "bbox": [
+            649.51,
+            1161.51,
+            949.03,
+            1571.01
+          ]
+        },
+        {
+          "layer": "chad",
+          "subject": "chad_alpha",
+          "bbox": [
+            649.0,
+            1162.0,
+            950.0,
+            1572.0
+          ]
+        }
+      ],
+      "marks": {
+        "fixed-stage": {},
+        "rk-ground-shadow": {},
+        "chad-ground-shadow": {},
+        "rk": {
+          "support": [
+            602.3200449999999,
+            1570.096054
+          ],
+          "left_sole": [
+            602.3200449999999,
+            1570.096054
+          ],
+          "right_sole": [
+            602.3200449999999,
+            1570.096054
+          ]
+        },
+        "chad": {
+          "support": [
+            815.065,
+            1569.84
+          ],
+          "left_sole": [
+            758.3199999999999,
+            1569.84
+          ],
+          "right_sole": [
+            871.81,
+            1569.84
+          ]
+        }
+      }
+    },
+    {
+      "frame": 24,
+      "time": 1.0,
+      "boxes": [
+        {
+          "layer": "rk",
+          "subject": "rk",
+          "bbox": [
+            350.21,
+            777.14,
+            691.76,
+            1574.09
+          ]
+        },
+        {
+          "layer": "rk",
+          "subject": "rk_alpha",
+          "bbox": [
+            350.0,
+            778.0,
+            693.0,
+            1574.0
+          ]
+        },
+        {
+          "layer": "chad",
+          "subject": "chad",
+          "bbox": [
+            649.51,
+            1161.51,
+            949.03,
+            1571.01
+          ]
+        },
+        {
+          "layer": "chad",
+          "subject": "chad_alpha",
+          "bbox": [
+            649.0,
+            1162.0,
+            950.0,
+            1572.0
+          ]
+        }
+      ],
+      "marks": {
+        "fixed-stage": {},
+        "rk-ground-shadow": {},
+        "chad-ground-shadow": {},
+        "rk": {
+          "support": [
+            602.048063,
+            1570.18391
+          ],
+          "left_sole": [
+            530.623955,
+            1570.18391
+          ],
+          "right_sole": [
+            530.623955,
+            1570.18391
+          ]
+        },
+        "chad": {
+          "support": [
+            815.065,
+            1569.84
+          ],
+          "left_sole": [
+            758.3199999999999,
+            1569.84
+          ],
+          "right_sole": [
+            871.81,
+            1569.84
+          ]
+        }
+      }
+    },
+    {
+      "frame": 25,
+      "time": 1.0416666666666667,
+      "boxes": [
+        {
+          "layer": "rk",
+          "subject": "rk",
+          "bbox": [
+            350.21,
+            777.14,
+            691.76,
+            1574.09
+          ]
+        },
+        {
+          "layer": "rk",
+          "subject": "rk_alpha",
+          "bbox": [
+            350.0,
+            778.0,
+            693.0,
+            1574.0
+          ]
+        },
+        {
+          "layer": "chad",
+          "subject": "chad",
+          "bbox": [
+            649.51,
+            1161.51,
+            949.03,
+            1571.01
+          ]
+        },
+        {
+          "layer": "chad",
+          "subject": "chad_alpha",
+          "bbox": [
+            649.0,
+            1162.0,
+            950.0,
+            1572.0
+          ]
+        }
+      ],
+      "marks": {
+        "fixed-stage": {},
+        "rk-ground-shadow": {},
+        "chad-ground-shadow": {},
+        "rk": {
+          "support": [
+            602.048063,
+            1570.18391
+          ],
+          "left_sole": [
+            530.623955,
+            1570.18391
+          ],
+          "right_sole": [
+            530.623955,
+            1570.18391
+          ]
+        },
+        "chad": {
+          "support": [
+            815.065,
+            1569.84
+          ],
+          "left_sole": [
+            758.3199999999999,
+            1569.84
+          ],
+          "right_sole": [
+            871.81,
+            1569.84
+          ]
+        }
+      }
+    },
+    {
+      "frame": 26,
+      "time": 1.0833333333333333,
+      "boxes": [
+        {
+          "layer": "rk",
+          "subject": "rk",
+          "bbox": [
+            352.21,
+            781.14,
+            685.48,
+            1571.8799999999999
+          ]
+        },
+        {
+          "layer": "rk",
+          "subject": "rk_alpha",
+          "bbox": [
+            352.0,
+            782.0,
+            685.0,
+            1572.0
+          ]
+        },
+        {
+          "layer": "chad",
+          "subject": "chad",
+          "bbox": [
+            649.51,
+            1161.51,
+            949.03,
+            1571.01
+          ]
+        },
+        {
+          "layer": "chad",
+          "subject": "chad_alpha",
+          "bbox": [
+            649.0,
+            1162.0,
+            950.0,
+            1572.0
+          ]
+        }
+      ],
+      "marks": {
+        "fixed-stage": {},
+        "rk-ground-shadow": {},
+        "chad-ground-shadow": {},
+        "rk": {
+          "support": [
+            601.7439459999999,
+            1569.57609
+          ],
+          "left_sole": [
+            529.16809,
+            1569.57609
+          ],
+          "right_sole": [
+            529.16809,
+            1569.57609
+          ]
+        },
+        "chad": {
+          "support": [
+            815.065,
+            1569.84
+          ],
+          "left_sole": [
+            758.3199999999999,
+            1569.84
+          ],
+          "right_sole": [
+            871.81,
+            1569.84
+          ]
+        }
+      }
+    },
+    {
+      "frame": 27,
+      "time": 1.125,
+      "boxes": [
+        {
+          "layer": "rk",
+          "subject": "rk",
+          "bbox": [
+            352.21,
+            781.14,
+            685.48,
+            1571.8799999999999
+          ]
+        },
+        {
+          "layer": "rk",
+          "subject": "rk_alpha",
+          "bbox": [
+            352.0,
+            782.0,
+            685.0,
+            1572.0
+          ]
+        },
+        {
+          "layer": "chad",
+          "subject": "chad",
+          "bbox": [
+            649.51,
+            1161.51,
+            949.03,
+            1571.01
+          ]
+        },
+        {
+          "layer": "chad",
+          "subject": "chad_alpha",
+          "bbox": [
+            649.0,
+            1162.0,
+            950.0,
+            1572.0
+          ]
+        }
+      ],
+      "marks": {
+        "fixed-stage": {},
+        "rk-ground-shadow": {},
+        "chad-ground-shadow": {},
+        "rk": {
+          "support": [
+            601.7439459999999,
+            1569.57609
+          ],
+          "left_sole": [
+            529.16809,
+            1569.57609
+          ],
+          "right_sole": [
+            529.16809,
+            1569.57609
+          ]
+        },
+        "chad": {
+          "support": [
+            815.065,
+            1569.84
+          ],
+          "left_sole": [
+            758.3199999999999,
+            1569.84
+          ],
+          "right_sole": [
+            871.81,
+            1569.84
+          ]
+        }
+      }
+    },
+    {
+      "frame": 28,
+      "time": 1.1666666666666667,
+      "boxes": [
+        {
+          "layer": "rk",
+          "subject": "rk",
+          "bbox": [
+            353.21,
+            763.21,
+            686.48,
+            1574.65
+          ]
+        },
+        {
+          "layer": "rk",
+          "subject": "rk_alpha",
+          "bbox": [
+            352.0,
+            764.0,
+            686.0,
+            1576.0
+          ]
+        },
+        {
+          "layer": "chad",
+          "subject": "chad",
+          "bbox": [
+            649.51,
+            1161.51,
+            949.03,
+            1571.01
+          ]
+        },
+        {
+          "layer": "chad",
+          "subject": "chad_alpha",
+          "bbox": [
+            649.0,
+            1162.0,
+            950.0,
+            1572.0
+          ]
+        }
+      ],
+      "marks": {
+        "fixed-stage": {},
+        "rk-ground-shadow": {},
+        "chad-ground-shadow": {},
+        "rk": {
+          "support": [
+            602.194982,
+            1570.284991
+          ],
+          "left_sole": [
+            456.71,
+            1570.284991
+          ],
+          "right_sole": [
+            602.194982,
+            1570.284991
+          ]
+        },
+        "chad": {
+          "support": [
+            815.065,
+            1569.84
+          ],
+          "left_sole": [
+            758.3199999999999,
+            1569.84
+          ],
+          "right_sole": [
+            871.81,
+            1569.84
+          ]
+        }
+      }
+    },
+    {
+      "frame": 29,
+      "time": 1.2083333333333333,
+      "boxes": [
+        {
+          "layer": "rk",
+          "subject": "rk",
+          "bbox": [
+            353.21,
+            763.21,
+            686.48,
+            1574.65
+          ]
+        },
+        {
+          "layer": "rk",
+          "subject": "rk_alpha",
+          "bbox": [
+            352.0,
+            764.0,
+            686.0,
+            1576.0
+          ]
+        },
+        {
+          "layer": "chad",
+          "subject": "chad",
+          "bbox": [
+            649.51,
+            1161.51,
+            949.03,
+            1571.01
+          ]
+        },
+        {
+          "layer": "chad",
+          "subject": "chad_alpha",
+          "bbox": [
+            649.0,
+            1162.0,
+            950.0,
+            1572.0
+          ]
+        }
+      ],
+      "marks": {
+        "fixed-stage": {},
+        "rk-ground-shadow": {},
+        "chad-ground-shadow": {},
+        "rk": {
+          "support": [
+            602.194982,
+            1570.284991
+          ],
+          "left_sole": [
+            456.71,
+            1570.284991
+          ],
+          "right_sole": [
+            602.194982,
+            1570.284991
+          ]
+        },
+        "chad": {
+          "support": [
+            815.065,
+            1569.84
+          ],
+          "left_sole": [
+            758.3199999999999,
+            1569.84
+          ],
+          "right_sole": [
+            871.81,
+            1569.84
+          ]
+        }
+      }
+    },
+    {
+      "frame": 30,
+      "time": 1.25,
+      "boxes": [
+        {
+          "layer": "rk",
+          "subject": "rk",
+          "bbox": [
+            353.21,
+            763.21,
+            686.48,
+            1574.65
+          ]
+        },
+        {
+          "layer": "rk",
+          "subject": "rk_alpha",
+          "bbox": [
+            352.0,
+            764.0,
+            686.0,
+            1576.0
+          ]
+        },
+        {
+          "layer": "chad",
+          "subject": "chad",
+          "bbox": [
+            649.51,
+            1161.51,
+            949.03,
+            1571.01
+          ]
+        },
+        {
+          "layer": "chad",
+          "subject": "chad_alpha",
+          "bbox": [
+            649.0,
+            1162.0,
+            950.0,
+            1572.0
+          ]
+        }
+      ],
+      "marks": {
+        "fixed-stage": {},
+        "rk-ground-shadow": {},
+        "chad-ground-shadow": {},
+        "rk": {
+          "support": [
+            602.194982,
+            1570.284991
+          ],
+          "left_sole": [
+            456.71,
+            1570.284991
+          ],
+          "right_sole": [
+            602.194982,
+            1570.284991
+          ]
+        },
+        "chad": {
+          "support": [
+            815.065,
+            1569.84
+          ],
+          "left_sole": [
+            758.3199999999999,
+            1569.84
+          ],
+          "right_sole": [
+            871.81,
+            1569.84
+          ]
+        }
+      }
+    },
+    {
+      "frame": 31,
+      "time": 1.2916666666666667,
+      "boxes": [
+        {
+          "layer": "rk",
+          "subject": "rk",
+          "bbox": [
+            349.21,
+            749.07,
+            688.69,
+            1572.9299999999998
+          ]
+        },
+        {
+          "layer": "rk",
+          "subject": "rk_alpha",
+          "bbox": [
+            348.0,
+            749.0,
+            690.0,
+            1573.0
+          ]
+        },
+        {
+          "layer": "chad",
+          "subject": "chad",
+          "bbox": [
+            649.51,
+            1161.51,
+            949.03,
+            1571.01
+          ]
+        },
+        {
+          "layer": "chad",
+          "subject": "chad_alpha",
+          "bbox": [
+            649.0,
+            1162.0,
+            950.0,
+            1572.0
+          ]
+        }
+      ],
+      "marks": {
+        "fixed-stage": {},
+        "rk-ground-shadow": {},
+        "chad-ground-shadow": {},
+        "rk": {
+          "support": [
+            601.772563,
+            1569.8249999999998
+          ],
+          "left_sole": [
+            447.940099,
+            1569.8249999999998
+          ],
+          "right_sole": [
+            601.772563,
+            1569.8249999999998
+          ]
+        },
+        "chad": {
+          "support": [
+            815.065,
+            1569.84
+          ],
+          "left_sole": [
+            758.3199999999999,
+            1569.84
+          ],
+          "right_sole": [
+            871.81,
+            1569.84
+          ]
+        }
+      }
+    },
+    {
+      "frame": 32,
+      "time": 1.3333333333333333,
+      "boxes": [
+        {
+          "layer": "rk",
+          "subject": "rk",
+          "bbox": [
+            349.21,
+            749.07,
+            688.69,
+            1572.9299999999998
+          ]
+        },
+        {
+          "layer": "rk",
+          "subject": "rk_alpha",
+          "bbox": [
+            348.0,
+            749.0,
+            690.0,
+            1573.0
+          ]
+        },
+        {
+          "layer": "chad",
+          "subject": "chad",
+          "bbox": [
+            649.51,
+            1161.51,
+            949.03,
+            1571.01
+          ]
+        },
+        {
+          "layer": "chad",
+          "subject": "chad_alpha",
+          "bbox": [
+            649.0,
+            1162.0,
+            950.0,
+            1572.0
+          ]
+        }
+      ],
+      "marks": {
+        "fixed-stage": {},
+        "rk-ground-shadow": {},
+        "chad-ground-shadow": {},
+        "rk": {
+          "support": [
+            601.772563,
+            1569.8249999999998
+          ],
+          "left_sole": [
+            447.940099,
+            1569.8249999999998
+          ],
+          "right_sole": [
+            601.772563,
+            1569.8249999999998
+          ]
+        },
+        "chad": {
+          "support": [
+            815.065,
+            1569.84
+          ],
+          "left_sole": [
+            758.3199999999999,
+            1569.84
+          ],
+          "right_sole": [
+            871.81,
+            1569.84
+          ]
+        }
+      }
+    },
+    {
+      "frame": 33,
+      "time": 1.375,
+      "boxes": [
+        {
+          "layer": "rk",
+          "subject": "rk",
+          "bbox": [
+            349.21,
+            749.07,
+            688.69,
+            1572.9299999999998
+          ]
+        },
+        {
+          "layer": "rk",
+          "subject": "rk_alpha",
+          "bbox": [
+            348.0,
+            749.0,
+            690.0,
+            1573.0
+          ]
+        },
+        {
+          "layer": "chad",
+          "subject": "chad",
+          "bbox": [
+            649.51,
+            1161.51,
+            949.03,
+            1571.01
+          ]
+        },
+        {
+          "layer": "chad",
+          "subject": "chad_alpha",
+          "bbox": [
+            649.0,
+            1162.0,
+            950.0,
+            1572.0
+          ]
+        }
+      ],
+      "marks": {
+        "fixed-stage": {},
+        "rk-ground-shadow": {},
+        "chad-ground-shadow": {},
+        "rk": {
+          "support": [
+            601.772563,
+            1569.8249999999998
+          ],
+          "left_sole": [
+            447.940099,
+            1569.8249999999998
+          ],
+          "right_sole": [
+            601.772563,
+            1569.8249999999998
+          ]
+        },
+        "chad": {
+          "support": [
+            815.065,
+            1569.84
+          ],
+          "left_sole": [
+            758.3199999999999,
+            1569.84
+          ],
+          "right_sole": [
+            871.81,
+            1569.84
+          ]
+        }
+      }
+    },
+    {
+      "frame": 34,
+      "time": 1.4166666666666667,
+      "boxes": [
+        {
+          "layer": "rk",
+          "subject": "rk",
+          "bbox": [
+            347.14,
+            763.21,
+            682.48,
+            1574.65
+          ]
+        },
+        {
+          "layer": "rk",
+          "subject": "rk_alpha",
+          "bbox": [
+            348.0,
+            763.0,
+            684.0,
+            1575.0
+          ]
+        },
+        {
+          "layer": "chad",
+          "subject": "chad",
+          "bbox": [
+            649.51,
+            1161.51,
+            949.03,
+            1571.01
+          ]
+        },
+        {
+          "layer": "chad",
+          "subject": "chad_alpha",
+          "bbox": [
+            649.0,
+            1162.0,
+            950.0,
+            1572.0
+          ]
+        }
+      ],
+      "marks": {
+        "fixed-stage": {},
+        "rk-ground-shadow": {},
+        "chad-ground-shadow": {},
+        "rk": {
+          "support": [
+            601.772563,
+            1570.284991
+          ],
+          "left_sole": [
+            451.517473,
+            1570.284991
+          ],
+          "right_sole": [
+            601.772563,
+            1570.284991
+          ]
+        },
+        "chad": {
+          "support": [
+            815.065,
+            1569.84
+          ],
+          "left_sole": [
+            758.3199999999999,
+            1569.84
+          ],
+          "right_sole": [
+            871.81,
+            1569.84
+          ]
+        }
+      }
+    },
+    {
+      "frame": 35,
+      "time": 1.4583333333333333,
+      "boxes": [
+        {
+          "layer": "rk",
+          "subject": "rk",
+          "bbox": [
+            347.14,
+            763.21,
+            682.48,
+            1574.65
+          ]
+        },
+        {
+          "layer": "rk",
+          "subject": "rk_alpha",
+          "bbox": [
+            348.0,
+            763.0,
+            684.0,
+            1575.0
+          ]
+        },
+        {
+          "layer": "chad",
+          "subject": "chad",
+          "bbox": [
+            649.51,
+            1161.51,
+            949.03,
+            1571.01
+          ]
+        },
+        {
+          "layer": "chad",
+          "subject": "chad_alpha",
+          "bbox": [
+            649.0,
+            1162.0,
+            950.0,
+            1572.0
+          ]
+        }
+      ],
+      "marks": {
+        "fixed-stage": {},
+        "rk-ground-shadow": {},
+        "chad-ground-shadow": {},
+        "rk": {
+          "support": [
+            601.772563,
+            1570.284991
+          ],
+          "left_sole": [
+            451.517473,
+            1570.284991
+          ],
+          "right_sole": [
+            601.772563,
+            1570.284991
+          ]
+        },
+        "chad": {
+          "support": [
+            815.065,
+            1569.84
+          ],
+          "left_sole": [
+            758.3199999999999,
+            1569.84
+          ],
+          "right_sole": [
+            871.81,
+            1569.84
+          ]
+        }
+      }
+    },
+    {
+      "frame": 36,
+      "time": 1.5,
+      "boxes": [
+        {
+          "layer": "rk",
+          "subject": "rk",
+          "bbox": [
+            347.14,
+            763.21,
+            682.48,
+            1574.65
+          ]
+        },
+        {
+          "layer": "rk",
+          "subject": "rk_alpha",
+          "bbox": [
+            348.0,
+            763.0,
+            684.0,
+            1575.0
+          ]
+        },
+        {
+          "layer": "chad",
+          "subject": "chad",
+          "bbox": [
+            649.51,
+            1161.51,
+            949.03,
+            1571.01
+          ]
+        },
+        {
+          "layer": "chad",
+          "subject": "chad_alpha",
+          "bbox": [
+            649.0,
+            1162.0,
+            950.0,
+            1572.0
+          ]
+        }
+      ],
+      "marks": {
+        "fixed-stage": {},
+        "rk-ground-shadow": {},
+        "chad-ground-shadow": {},
+        "rk": {
+          "support": [
+            601.772563,
+            1570.284991
+          ],
+          "left_sole": [
+            451.517473,
+            1570.284991
+          ],
+          "right_sole": [
+            601.772563,
+            1570.284991
+          ]
+        },
+        "chad": {
+          "support": [
+            815.065,
+            1569.84
+          ],
+          "left_sole": [
+            758.3199999999999,
+            1569.84
+          ],
+          "right_sole": [
+            871.81,
+            1569.84
+          ]
+        }
+      }
+    },
+    {
+      "frame": 37,
+      "time": 1.5416666666666667,
+      "boxes": [
+        {
+          "layer": "rk",
+          "subject": "rk",
+          "bbox": [
+            334.21,
+            763.21,
+            675.76,
+            1574.65
+          ]
+        },
+        {
+          "layer": "rk",
+          "subject": "rk_alpha",
+          "bbox": [
+            334.0,
+            764.0,
+            676.0,
+            1575.0
+          ]
+        },
+        {
+          "layer": "chad",
+          "subject": "chad",
+          "bbox": [
+            649.51,
+            1161.51,
+            949.03,
+            1571.01
+          ]
+        },
+        {
+          "layer": "chad",
+          "subject": "chad_alpha",
+          "bbox": [
+            649.0,
+            1162.0,
+            950.0,
+            1572.0
+          ]
+        }
+      ],
+      "marks": {
+        "fixed-stage": {},
+        "rk-ground-shadow": {},
+        "chad-ground-shadow": {},
+        "rk": {
+          "support": [
+            602.275,
+            1570.284991
+          ],
+          "left_sole": [
+            436.517473,
+            1570.284991
+          ],
+          "right_sole": [
+            602.275,
+            1570.284991
+          ]
+        },
+        "chad": {
+          "support": [
+            815.065,
+            1569.84
+          ],
+          "left_sole": [
+            758.3199999999999,
+            1569.84
+          ],
+          "right_sole": [
+            871.81,
+            1569.84
+          ]
+        }
+      }
+    },
+    {
+      "frame": 38,
+      "time": 1.5833333333333333,
+      "boxes": [
+        {
+          "layer": "rk",
+          "subject": "rk",
+          "bbox": [
+            334.21,
+            763.21,
+            675.76,
+            1574.65
+          ]
+        },
+        {
+          "layer": "rk",
+          "subject": "rk_alpha",
+          "bbox": [
+            334.0,
+            764.0,
+            676.0,
+            1575.0
+          ]
+        },
+        {
+          "layer": "chad",
+          "subject": "chad",
+          "bbox": [
+            649.51,
+            1161.51,
+            949.03,
+            1571.01
+          ]
+        },
+        {
+          "layer": "chad",
+          "subject": "chad_alpha",
+          "bbox": [
+            649.0,
+            1162.0,
+            950.0,
+            1572.0
+          ]
+        }
+      ],
+      "marks": {
+        "fixed-stage": {},
+        "rk-ground-shadow": {},
+        "chad-ground-shadow": {},
+        "rk": {
+          "support": [
+            602.275,
+            1570.284991
+          ],
+          "left_sole": [
+            436.517473,
+            1570.284991
+          ],
+          "right_sole": [
+            602.275,
+            1570.284991
+          ]
+        },
+        "chad": {
+          "support": [
+            815.065,
+            1569.84
+          ],
+          "left_sole": [
+            758.3199999999999,
+            1569.84
+          ],
+          "right_sole": [
+            871.81,
+            1569.84
+          ]
+        }
+      }
+    },
+    {
+      "frame": 39,
+      "time": 1.625,
+      "boxes": [
+        {
+          "layer": "rk",
+          "subject": "rk",
+          "bbox": [
+            334.21,
+            763.21,
+            675.76,
+            1574.65
+          ]
+        },
+        {
+          "layer": "rk",
+          "subject": "rk_alpha",
+          "bbox": [
+            334.0,
+            764.0,
+            676.0,
+            1575.0
+          ]
+        },
+        {
+          "layer": "chad",
+          "subject": "chad",
+          "bbox": [
+            649.51,
+            1161.51,
+            949.03,
+            1571.01
+          ]
+        },
+        {
+          "layer": "chad",
+          "subject": "chad_alpha",
+          "bbox": [
+            649.0,
+            1162.0,
+            950.0,
+            1572.0
+          ]
+        }
+      ],
+      "marks": {
+        "fixed-stage": {},
+        "rk-ground-shadow": {},
+        "chad-ground-shadow": {},
+        "rk": {
+          "support": [
+            602.275,
+            1570.284991
+          ],
+          "left_sole": [
+            436.517473,
+            1570.284991
+          ],
+          "right_sole": [
+            602.275,
+            1570.284991
+          ]
+        },
+        "chad": {
+          "support": [
+            815.065,
+            1569.84
+          ],
+          "left_sole": [
+            758.3199999999999,
+            1569.84
+          ],
+          "right_sole": [
+            871.81,
+            1569.84
+          ]
+        }
+      }
+    },
+    {
+      "frame": 40,
+      "time": 1.6666666666666667,
+      "boxes": [
+        {
+          "layer": "rk",
+          "subject": "rk",
+          "bbox": [
+            387.21,
+            759.21,
+            674.94,
+            1572.7199999999998
+          ]
+        },
+        {
+          "layer": "rk",
+          "subject": "rk_alpha",
+          "bbox": [
+            387.0,
+            759.0,
+            675.0,
+            1573.0
+          ]
+        },
+        {
+          "layer": "chad",
+          "subject": "chad",
+          "bbox": [
+            649.51,
+            1161.51,
+            949.03,
+            1571.01
+          ]
+        },
+        {
+          "layer": "chad",
+          "subject": "chad_alpha",
+          "bbox": [
+            649.0,
+            1162.0,
+            950.0,
+            1572.0
+          ]
+        }
+      ],
+      "marks": {
+        "fixed-stage": {},
+        "rk-ground-shadow": {},
+        "chad-ground-shadow": {},
+        "rk": {
+          "support": [
+            601.499919,
+            1569.749964
+          ],
+          "left_sole": [
+            457.499955,
+            1569.749964
+          ],
+          "right_sole": [
+            601.499919,
+            1569.749964
+          ]
+        },
+        "chad": {
+          "support": [
+            815.065,
+            1569.84
+          ],
+          "left_sole": [
+            758.3199999999999,
+            1569.84
+          ],
+          "right_sole": [
+            871.81,
+            1569.84
+          ]
+        }
+      }
+    },
+    {
+      "frame": 41,
+      "time": 1.7083333333333333,
+      "boxes": [
+        {
+          "layer": "rk",
+          "subject": "rk",
+          "bbox": [
+            384.0,
+            758.0,
+            677.94,
+            1573.58
+          ]
+        },
+        {
+          "layer": "rk",
+          "subject": "rk_alpha",
+          "bbox": [
+            384.0,
+            758.0,
+            678.0,
+            1574.0
+          ]
+        },
+        {
+          "layer": "chad",
+          "subject": "chad",
+          "bbox": [
+            649.51,
+            1161.51,
+            949.03,
+            1571.01
+          ]
+        },
+        {
+          "layer": "chad",
+          "subject": "chad_alpha",
+          "bbox": [
+            649.0,
+            1162.0,
+            950.0,
+            1572.0
+          ]
+        }
+      ],
+      "marks": {
+        "fixed-stage": {},
+        "rk-ground-shadow": {},
+        "chad-ground-shadow": {},
+        "rk": {
+          "support": [
+            601.9999799999999,
+            1570.00097
+          ]
+        },
+        "chad": {
+          "support": [
+            815.065,
+            1569.84
+          ],
+          "left_sole": [
+            758.3199999999999,
+            1569.84
+          ],
+          "right_sole": [
+            871.81,
+            1569.84
+          ]
+        }
+      }
+    },
+    {
+      "frame": 42,
+      "time": 1.75,
+      "boxes": [
+        {
+          "layer": "rk",
+          "subject": "rk",
+          "bbox": [
+            379.0,
+            757.0,
+            675.01,
+            1572.58
+          ]
+        },
+        {
+          "layer": "rk",
+          "subject": "rk_alpha",
+          "bbox": [
+            379.0,
+            757.0,
+            675.0,
+            1573.0
+          ]
+        },
+        {
+          "layer": "chad",
+          "subject": "chad",
+          "bbox": [
+            649.51,
+            1161.51,
+            949.03,
+            1571.01
+          ]
+        },
+        {
+          "layer": "chad",
+          "subject": "chad_alpha",
+          "bbox": [
+            649.0,
+            1162.0,
+            950.0,
+            1572.0
+          ]
+        }
+      ],
+      "marks": {
+        "fixed-stage": {},
+        "rk-ground-shadow": {},
+        "chad-ground-shadow": {},
+        "rk": {
+          "support": [
+            601.99903,
+            1570.0007799999998
+          ]
+        },
+        "chad": {
+          "support": [
+            815.065,
+            1569.84
+          ],
+          "left_sole": [
+            758.3199999999999,
+            1569.84
+          ],
+          "right_sole": [
+            871.81,
+            1569.84
+          ]
+        }
+      }
+    },
+    {
+      "frame": 43,
+      "time": 1.7916666666666667,
+      "boxes": [
+        {
+          "layer": "rk",
+          "subject": "rk",
+          "bbox": [
+            375.21,
+            757.21,
+            675.3599999999999,
+            1572.79
+          ]
+        },
+        {
+          "layer": "rk",
+          "subject": "rk_alpha",
+          "bbox": [
+            375.0,
+            758.0,
+            676.0,
+            1573.0
+          ]
+        },
+        {
+          "layer": "chad",
+          "subject": "chad",
+          "bbox": [
+            649.51,
+            1160.51,
+            950.2,
+            1571.1799999999998
+          ]
+        },
+        {
+          "layer": "chad",
+          "subject": "chad_alpha",
+          "bbox": [
+            650.0,
+            1160.0,
+            951.0,
+            1572.0
+          ]
+        }
+      ],
+      "marks": {
+        "fixed-stage": {},
+        "rk-ground-shadow": {},
+        "chad-ground-shadow": {},
+        "rk": {
+          "support": [
+            601.875,
+            1570.000054
+          ],
+          "left_sole": [
+            453.375063,
+            1570.000054
+          ],
+          "right_sole": [
+            601.875,
+            1570.000054
+          ]
+        },
+        "chad": {
+          "support": [
+            815.065,
+            1570.01
+          ],
+          "left_sole": [
+            758.3199999999999,
+            1570.01
+          ],
+          "right_sole": [
+            871.81,
+            1570.01
+          ]
+        }
+      }
+    },
+    {
+      "frame": 44,
+      "time": 1.8333333333333333,
+      "boxes": [
+        {
+          "layer": "rk",
+          "subject": "rk",
+          "bbox": [
+            375.21,
+            757.21,
+            675.3599999999999,
+            1572.79
+          ]
+        },
+        {
+          "layer": "rk",
+          "subject": "rk_alpha",
+          "bbox": [
+            375.0,
+            758.0,
+            676.0,
+            1573.0
+          ]
+        },
+        {
+          "layer": "chad",
+          "subject": "chad",
+          "bbox": [
+            649.51,
+            1160.51,
+            950.2,
+            1571.1799999999998
+          ]
+        },
+        {
+          "layer": "chad",
+          "subject": "chad_alpha",
+          "bbox": [
+            650.0,
+            1160.0,
+            951.0,
+            1572.0
+          ]
+        }
+      ],
+      "marks": {
+        "fixed-stage": {},
+        "rk-ground-shadow": {},
+        "chad-ground-shadow": {},
+        "rk": {
+          "support": [
+            601.875,
+            1570.000054
+          ],
+          "left_sole": [
+            453.375063,
+            1570.000054
+          ],
+          "right_sole": [
+            601.875,
+            1570.000054
+          ]
+        },
+        "chad": {
+          "support": [
+            815.065,
+            1570.01
+          ],
+          "left_sole": [
+            758.3199999999999,
+            1570.01
+          ],
+          "right_sole": [
+            871.81,
+            1570.01
+          ]
+        }
+      }
+    },
+    {
+      "frame": 45,
+      "time": 1.875,
+      "boxes": [
+        {
+          "layer": "rk",
+          "subject": "rk",
+          "bbox": [
+            349.21,
+            777.21,
+            713.53,
+            1572.09
+          ]
+        },
+        {
+          "layer": "rk",
+          "subject": "rk_alpha",
+          "bbox": [
+            349.0,
+            776.0,
+            713.0,
+            1573.0
+          ]
+        },
+        {
+          "layer": "chad",
+          "subject": "chad",
+          "bbox": [
+            649.51,
+            1160.51,
+            950.2,
+            1571.1799999999998
+          ]
+        },
+        {
+          "layer": "chad",
+          "subject": "chad_alpha",
+          "bbox": [
+            650.0,
+            1160.0,
+            951.0,
+            1572.0
+          ]
+        }
+      ],
+      "marks": {
+        "fixed-stage": {},
+        "rk-ground-shadow": {},
+        "chad-ground-shadow": {},
+        "rk": {
+          "support": [
+            601.75,
+            1569.7500719999998
+          ],
+          "left_sole": [
+            443.125072,
+            1569.7500719999998
+          ],
+          "right_sole": [
+            601.75,
+            1569.7500719999998
+          ]
+        },
+        "chad": {
+          "support": [
+            815.065,
+            1570.01
+          ],
+          "left_sole": [
+            758.3199999999999,
+            1570.01
+          ],
+          "right_sole": [
+            871.81,
+            1570.01
+          ]
+        }
+      }
+    },
+    {
+      "frame": 46,
+      "time": 1.9166666666666667,
+      "boxes": [
+        {
+          "layer": "rk",
+          "subject": "rk",
+          "bbox": [
+            349.21,
+            777.21,
+            713.53,
+            1572.09
+          ]
+        },
+        {
+          "layer": "rk",
+          "subject": "rk_alpha",
+          "bbox": [
+            349.0,
+            776.0,
+            713.0,
+            1573.0
+          ]
+        },
+        {
+          "layer": "chad",
+          "subject": "chad",
+          "bbox": [
+            641.51,
+            1160.34,
+            952.73,
+            1572.1799999999998
+          ]
+        },
+        {
+          "layer": "chad",
+          "subject": "chad_alpha",
+          "bbox": [
+            641.0,
+            1161.0,
+            952.0,
+            1572.0
+          ]
+        }
+      ],
+      "marks": {
+        "fixed-stage": {},
+        "rk-ground-shadow": {},
+        "chad-ground-shadow": {},
+        "rk": {
+          "support": [
+            601.75,
+            1569.7500719999998
+          ],
+          "left_sole": [
+            443.125072,
+            1569.7500719999998
+          ],
+          "right_sole": [
+            601.75,
+            1569.7500719999998
+          ]
+        },
+        "chad": {
+          "support": [
+            815.255,
+            1569.84
+          ],
+          "left_sole": [
+            757.34,
+            1569.84
+          ],
+          "right_sole": [
+            873.17,
+            1569.84
+          ]
+        }
+      }
+    },
+    {
+      "frame": 47,
+      "time": 1.9583333333333333,
+      "boxes": [
+        {
+          "layer": "rk",
+          "subject": "rk",
+          "bbox": [
+            336.21,
+            766.21,
+            694.3199999999999,
+            1573.51
+          ]
+        },
+        {
+          "layer": "rk",
+          "subject": "rk_alpha",
+          "bbox": [
+            336.0,
+            766.0,
+            695.0,
+            1574.0
+          ]
+        },
+        {
+          "layer": "chad",
+          "subject": "chad",
+          "bbox": [
+            641.51,
+            1160.34,
+            952.73,
+            1572.1799999999998
+          ]
+        },
+        {
+          "layer": "chad",
+          "subject": "chad_alpha",
+          "bbox": [
+            641.0,
+            1161.0,
+            952.0,
+            1572.0
+          ]
+        }
+      ],
+      "marks": {
+        "fixed-stage": {},
+        "rk-ground-shadow": {},
+        "chad-ground-shadow": {},
+        "rk": {
+          "support": [
+            602.249919,
+            1569.999901
+          ],
+          "left_sole": [
+            444.750036,
+            1569.999901
+          ],
+          "right_sole": [
+            602.249919,
+            1569.999901
+          ]
+        },
+        "chad": {
+          "support": [
+            815.255,
+            1569.84
+          ],
+          "left_sole": [
+            757.34,
+            1569.84
+          ],
+          "right_sole": [
+            873.17,
+            1569.84
+          ]
+        }
+      }
+    },
+    {
+      "frame": 48,
+      "time": 2.0,
+      "boxes": [
+        {
+          "layer": "rk",
+          "subject": "rk",
+          "bbox": [
+            324.0,
+            763.0,
+            698.67,
+            1574.44
+          ]
+        },
+        {
+          "layer": "rk",
+          "subject": "rk_alpha",
+          "bbox": [
+            324.0,
+            763.0,
+            699.0,
+            1574.0
+          ]
+        },
+        {
+          "layer": "chad",
+          "subject": "chad",
+          "bbox": [
+            648.51,
+            1165.51,
+            946.8599999999999,
+            1571.5
+          ]
+        },
+        {
+          "layer": "chad",
+          "subject": "chad_alpha",
+          "bbox": [
+            648.0,
+            1165.0,
+            947.0,
+            1572.0
+          ]
+        }
+      ],
+      "marks": {
+        "fixed-stage": {},
+        "rk-ground-shadow": {},
+        "chad-ground-shadow": {},
+        "rk": {
+          "support": [
+            602.001,
+            1569.99985
+          ]
+        },
+        "chad": {
+          "support": [
+            814.65,
+            1570.33
+          ],
+          "left_sole": [
+            757.905,
+            1570.33
+          ],
+          "right_sole": [
+            871.395,
+            1570.33
+          ]
+        }
+      }
+    },
+    {
+      "frame": 49,
+      "time": 2.0416666666666665,
+      "boxes": [
+        {
+          "layer": "rk",
+          "subject": "rk",
+          "bbox": [
+            300.21,
+            763.21,
+            703.8599999999999,
+            1572.58
+          ]
+        },
+        {
+          "layer": "rk",
+          "subject": "rk_alpha",
+          "bbox": [
+            301.0,
+            763.0,
+            704.0,
+            1573.0
+          ]
+        },
+        {
+          "layer": "chad",
+          "subject": "chad",
+          "bbox": [
+            648.51,
+            1165.51,
+            946.8599999999999,
+            1571.5
+          ]
+        },
+        {
+          "layer": "chad",
+          "subject": "chad_alpha",
+          "bbox": [
+            648.0,
+            1165.0,
+            947.0,
+            1572.0
+          ]
+        }
+      ],
+      "marks": {
+        "fixed-stage": {},
+        "rk-ground-shadow": {},
+        "chad-ground-shadow": {},
+        "rk": {
+          "support": [
+            601.395,
+            1569.889
+          ],
+          "left_sole": [
+            424.9275,
+            1569.889
+          ],
+          "right_sole": [
+            601.395,
+            1569.889
+          ]
+        },
+        "chad": {
+          "support": [
+            814.65,
+            1570.33
+          ],
+          "left_sole": [
+            757.905,
+            1570.33
+          ],
+          "right_sole": [
+            871.395,
+            1570.33
+          ]
+        }
+      }
+    },
+    {
+      "frame": 50,
+      "time": 2.0833333333333335,
+      "boxes": [
+        {
+          "layer": "rk",
+          "subject": "rk",
+          "bbox": [
+            305.0,
+            761.0,
+            696.23,
+            1572.44
+          ]
+        },
+        {
+          "layer": "rk",
+          "subject": "rk_alpha",
+          "bbox": [
+            305.0,
+            761.0,
+            696.0,
+            1572.0
+          ]
+        },
+        {
+          "layer": "chad",
+          "subject": "chad",
+          "bbox": [
+            641.51,
+            1160.34,
+            952.73,
+            1572.1799999999998
+          ]
+        },
+        {
+          "layer": "chad",
+          "subject": "chad_alpha",
+          "bbox": [
+            641.0,
+            1161.0,
+            952.0,
+            1572.0
+          ]
+        }
+      ],
+      "marks": {
+        "fixed-stage": {},
+        "rk-ground-shadow": {},
+        "chad-ground-shadow": {},
+        "rk": {
+          "support": [
+            601.99946,
+            1569.99947
+          ]
+        },
+        "chad": {
+          "support": [
+            815.255,
+            1569.84
+          ],
+          "left_sole": [
+            757.34,
+            1569.84
+          ],
+          "right_sole": [
+            873.17,
+            1569.84
+          ]
+        }
+      }
+    },
+    {
+      "frame": 51,
+      "time": 2.125,
+      "boxes": [
+        {
+          "layer": "rk",
+          "subject": "rk",
+          "bbox": [
+            308.21,
+            761.21,
+            684.95,
+            1572.65
+          ]
+        },
+        {
+          "layer": "rk",
+          "subject": "rk_alpha",
+          "bbox": [
+            309.0,
+            760.0,
+            685.0,
+            1573.0
+          ]
+        },
+        {
+          "layer": "chad",
+          "subject": "chad",
+          "bbox": [
+            641.51,
+            1160.34,
+            952.73,
+            1572.1799999999998
+          ]
+        },
+        {
+          "layer": "chad",
+          "subject": "chad_alpha",
+          "bbox": [
+            641.0,
+            1161.0,
+            952.0,
+            1572.0
+          ]
+        }
+      ],
+      "marks": {
+        "fixed-stage": {},
+        "rk-ground-shadow": {},
+        "chad-ground-shadow": {},
+        "rk": {
+          "support": [
+            601.4255,
+            1570.166
+          ],
+          "left_sole": [
+            429.512,
+            1570.166
+          ],
+          "right_sole": [
+            601.4255,
+            1570.166
+          ]
+        },
+        "chad": {
+          "support": [
+            815.255,
+            1569.84
+          ],
+          "left_sole": [
+            757.34,
+            1569.84
+          ],
+          "right_sole": [
+            873.17,
+            1569.84
+          ]
+        }
+      }
+    },
+    {
+      "frame": 52,
+      "time": 2.1666666666666665,
+      "boxes": [
+        {
+          "layer": "rk",
+          "subject": "rk",
+          "bbox": [
+            316.0,
+            763.0,
+            692.74,
+            1572.37
+          ]
+        },
+        {
+          "layer": "rk",
+          "subject": "rk_alpha",
+          "bbox": [
+            316.0,
+            763.0,
+            693.0,
+            1572.0
+          ]
+        },
+        {
+          "layer": "chad",
+          "subject": "chad",
+          "bbox": [
+            649.51,
+            1160.51,
+            950.2,
+            1571.1799999999998
+          ]
+        },
+        {
+          "layer": "chad",
+          "subject": "chad_alpha",
+          "bbox": [
+            650.0,
+            1160.0,
+            951.0,
+            1572.0
+          ]
+        }
+      ],
+      "marks": {
+        "fixed-stage": {},
+        "rk-ground-shadow": {},
+        "chad-ground-shadow": {},
+        "rk": {
+          "support": [
+            601.99948,
+            1569.99985
+          ]
+        },
+        "chad": {
+          "support": [
+            815.065,
+            1570.01
+          ],
+          "left_sole": [
+            758.3199999999999,
+            1570.01
+          ],
+          "right_sole": [
+            871.81,
+            1570.01
+          ]
+        }
+      }
+    },
+    {
+      "frame": 53,
+      "time": 2.2083333333333335,
+      "boxes": [
+        {
+          "layer": "rk",
+          "subject": "rk",
+          "bbox": [
+            316.0,
+            763.0,
+            692.74,
+            1572.37
+          ]
+        },
+        {
+          "layer": "rk",
+          "subject": "rk_alpha",
+          "bbox": [
+            316.0,
+            763.0,
+            693.0,
+            1572.0
+          ]
+        },
+        {
+          "layer": "chad",
+          "subject": "chad",
+          "bbox": [
+            649.51,
+            1160.51,
+            950.2,
+            1571.1799999999998
+          ]
+        },
+        {
+          "layer": "chad",
+          "subject": "chad_alpha",
+          "bbox": [
+            650.0,
+            1160.0,
+            951.0,
+            1572.0
+          ]
+        }
+      ],
+      "marks": {
+        "fixed-stage": {},
+        "rk-ground-shadow": {},
+        "chad-ground-shadow": {},
+        "rk": {
+          "support": [
+            601.99948,
+            1569.99985
+          ]
+        },
+        "chad": {
+          "support": [
+            815.065,
+            1570.01
+          ],
+          "left_sole": [
+            758.3199999999999,
+            1570.01
+          ],
+          "right_sole": [
+            871.81,
+            1570.01
+          ]
+        }
+      }
+    },
+    {
+      "frame": 54,
+      "time": 2.25,
+      "boxes": [
+        {
+          "layer": "rk",
+          "subject": "rk",
+          "bbox": [
+            325.0,
+            772.0,
+            707.95,
+            1573.09
+          ]
+        },
+        {
+          "layer": "rk",
+          "subject": "rk_alpha",
+          "bbox": [
+            325.0,
+            772.0,
+            708.0,
+            1573.0
+          ]
+        },
+        {
+          "layer": "chad",
+          "subject": "chad",
+          "bbox": [
+            649.51,
+            1160.51,
+            950.2,
+            1571.1799999999998
+          ]
+        },
+        {
+          "layer": "chad",
+          "subject": "chad_alpha",
+          "bbox": [
+            650.0,
+            1160.0,
+            951.0,
+            1572.0
+          ]
+        }
+      ],
+      "marks": {
+        "fixed-stage": {},
+        "rk-ground-shadow": {},
+        "chad-ground-shadow": {},
+        "rk": {
+          "support": [
+            601.99912,
+            1569.99949
+          ]
+        },
+        "chad": {
+          "support": [
+            815.065,
+            1570.01
+          ],
+          "left_sole": [
+            758.3199999999999,
+            1570.01
+          ],
+          "right_sole": [
+            871.81,
+            1570.01
+          ]
+        }
+      }
+    },
+    {
+      "frame": 55,
+      "time": 2.2916666666666665,
+      "boxes": [
+        {
+          "layer": "rk",
+          "subject": "rk",
+          "bbox": [
+            329.21,
+            775.14,
+            716.3,
+            1574.1599999999999
+          ]
+        },
+        {
+          "layer": "rk",
+          "subject": "rk_alpha",
+          "bbox": [
+            330.0,
+            776.0,
+            716.0,
+            1574.0
+          ]
+        },
+        {
+          "layer": "chad",
+          "subject": "chad",
+          "bbox": [
+            649.51,
+            1161.51,
+            949.03,
+            1571.01
+          ]
+        },
+        {
+          "layer": "chad",
+          "subject": "chad_alpha",
+          "bbox": [
+            649.0,
+            1162.0,
+            950.0,
+            1572.0
+          ]
+        }
+      ],
+      "marks": {
+        "fixed-stage": {},
+        "rk-ground-shadow": {},
+        "chad-ground-shadow": {},
+        "rk": {
+          "support": [
+            601.9325,
+            1570.2269999999999
+          ],
+          "left_sole": [
+            436.85,
+            1570.2269999999999
+          ],
+          "right_sole": [
+            601.9325,
+            1570.2269999999999
+          ]
+        },
+        "chad": {
+          "support": [
+            815.065,
+            1569.84
+          ],
+          "left_sole": [
+            758.3199999999999,
+            1569.84
+          ],
+          "right_sole": [
+            871.81,
+            1569.84
+          ]
+        }
+      }
+    },
+    {
+      "frame": 56,
+      "time": 2.3333333333333335,
+      "boxes": [
+        {
+          "layer": "rk",
+          "subject": "rk",
+          "bbox": [
+            340.0,
+            777.0,
+            720.88,
+            1573.9499999999998
+          ]
+        },
+        {
+          "layer": "rk",
+          "subject": "rk_alpha",
+          "bbox": [
+            340.0,
+            777.0,
+            721.0,
+            1574.0
+          ]
+        },
+        {
+          "layer": "chad",
+          "subject": "chad",
+          "bbox": [
+            649.51,
+            1161.51,
+            949.03,
+            1571.01
+          ]
+        },
+        {
+          "layer": "chad",
+          "subject": "chad_alpha",
+          "bbox": [
+            649.0,
+            1162.0,
+            950.0,
+            1572.0
+          ]
+        }
+      ],
+      "marks": {
+        "fixed-stage": {},
+        "rk-ground-shadow": {},
+        "chad-ground-shadow": {},
+        "rk": {
+          "support": [
+            601.9999,
+            1570.0004399999998
+          ]
+        },
+        "chad": {
+          "support": [
+            815.065,
+            1569.84
+          ],
+          "left_sole": [
+            758.3199999999999,
+            1569.84
+          ],
+          "right_sole": [
+            871.81,
+            1569.84
+          ]
+        }
+      }
+    },
+    {
+      "frame": 57,
+      "time": 2.375,
+      "boxes": [
+        {
+          "layer": "rk",
+          "subject": "rk",
+          "bbox": [
+            350.0,
+            779.0,
+            724.67,
+            1573.8799999999999
+          ]
+        },
+        {
+          "layer": "rk",
+          "subject": "rk_alpha",
+          "bbox": [
+            350.0,
+            779.0,
+            725.0,
+            1574.0
+          ]
+        },
+        {
+          "layer": "chad",
+          "subject": "chad",
+          "bbox": [
+            649.51,
+            1161.51,
+            949.03,
+            1571.01
+          ]
+        },
+        {
+          "layer": "chad",
+          "subject": "chad_alpha",
+          "bbox": [
+            649.0,
+            1162.0,
+            950.0,
+            1572.0
+          ]
+        }
+      ],
+      "marks": {
+        "fixed-stage": {},
+        "rk-ground-shadow": {},
+        "chad-ground-shadow": {},
+        "rk": {
+          "support": [
+            601.99973,
+            1570.0008199999997
+          ]
+        },
+        "chad": {
+          "support": [
+            815.065,
+            1569.84
+          ],
+          "left_sole": [
+            758.3199999999999,
+            1569.84
+          ],
+          "right_sole": [
+            871.81,
+            1569.84
+          ]
+        }
+      }
+    },
+    {
+      "frame": 58,
+      "time": 2.4166666666666665,
+      "boxes": [
+        {
+          "layer": "rk",
+          "subject": "rk",
+          "bbox": [
+            360.21,
+            779.21,
+            728.67,
+            1572.02
+          ]
+        },
+        {
+          "layer": "rk",
+          "subject": "rk_alpha",
+          "bbox": [
+            360.0,
+            780.0,
+            729.0,
+            1572.0
+          ]
+        },
+        {
+          "layer": "chad",
+          "subject": "chad",
+          "bbox": [
+            649.51,
+            1161.51,
+            949.03,
+            1571.01
+          ]
+        },
+        {
+          "layer": "chad",
+          "subject": "chad_alpha",
+          "bbox": [
+            649.0,
+            1162.0,
+            950.0,
+            1572.0
+          ]
+        }
+      ],
+      "marks": {
+        "fixed-stage": {},
+        "rk-ground-shadow": {},
+        "chad-ground-shadow": {},
+        "rk": {
+          "support": [
+            602.193,
+            1569.9499999999998
+          ],
+          "left_sole": [
+            439.3875,
+            1569.9499999999998
+          ],
+          "right_sole": [
+            602.193,
+            1569.9499999999998
+          ]
+        },
+        "chad": {
+          "support": [
+            815.065,
+            1569.84
+          ],
+          "left_sole": [
+            758.3199999999999,
+            1569.84
+          ],
+          "right_sole": [
+            871.81,
+            1569.84
+          ]
+        }
+      }
+    },
+    {
+      "frame": 59,
+      "time": 2.4583333333333335,
+      "boxes": [
+        {
+          "layer": "rk",
+          "subject": "rk",
+          "bbox": [
+            360.21,
+            779.21,
+            728.67,
+            1572.02
+          ]
+        },
+        {
+          "layer": "rk",
+          "subject": "rk_alpha",
+          "bbox": [
+            360.0,
+            780.0,
+            729.0,
+            1572.0
+          ]
+        },
+        {
+          "layer": "chad",
+          "subject": "chad",
+          "bbox": [
+            649.51,
+            1161.51,
+            949.03,
+            1571.01
+          ]
+        },
+        {
+          "layer": "chad",
+          "subject": "chad_alpha",
+          "bbox": [
+            649.0,
+            1162.0,
+            950.0,
+            1572.0
+          ]
+        }
+      ],
+      "marks": {
+        "fixed-stage": {},
+        "rk-ground-shadow": {},
+        "chad-ground-shadow": {},
+        "rk": {
+          "support": [
+            602.193,
+            1569.9499999999998
+          ],
+          "left_sole": [
+            439.3875,
+            1569.9499999999998
+          ],
+          "right_sole": [
+            602.193,
+            1569.9499999999998
+          ]
+        },
+        "chad": {
+          "support": [
+            815.065,
+            1569.84
+          ],
+          "left_sole": [
+            758.3199999999999,
+            1569.84
+          ],
+          "right_sole": [
+            871.81,
+            1569.84
+          ]
+        }
+      }
+    },
+    {
+      "frame": 60,
+      "time": 2.5,
+      "boxes": [
+        {
+          "layer": "rk",
+          "subject": "rk",
+          "bbox": [
+            360.21,
+            779.21,
+            728.67,
+            1572.02
+          ]
+        },
+        {
+          "layer": "rk",
+          "subject": "rk_alpha",
+          "bbox": [
+            360.0,
+            780.0,
+            729.0,
+            1572.0
+          ]
+        },
+        {
+          "layer": "chad",
+          "subject": "chad",
+          "bbox": [
+            649.51,
+            1161.51,
+            949.03,
+            1571.01
+          ]
+        },
+        {
+          "layer": "chad",
+          "subject": "chad_alpha",
+          "bbox": [
+            649.0,
+            1162.0,
+            950.0,
+            1572.0
+          ]
+        }
+      ],
+      "marks": {
+        "fixed-stage": {},
+        "rk-ground-shadow": {},
+        "chad-ground-shadow": {},
+        "rk": {
+          "support": [
+            602.193,
+            1569.9499999999998
+          ],
+          "left_sole": [
+            439.3875,
+            1569.9499999999998
+          ],
+          "right_sole": [
+            602.193,
+            1569.9499999999998
+          ]
+        },
+        "chad": {
+          "support": [
+            815.065,
+            1569.84
+          ],
+          "left_sole": [
+            758.3199999999999,
+            1569.84
+          ],
+          "right_sole": [
+            871.81,
+            1569.84
+          ]
+        }
+      }
+    },
+    {
+      "frame": 61,
+      "time": 2.5416666666666665,
+      "boxes": [
+        {
+          "layer": "rk",
+          "subject": "rk",
+          "bbox": [
+            371.21,
+            761.21,
+            681.71,
+            1572.65
+          ]
+        },
+        {
+          "layer": "rk",
+          "subject": "rk_alpha",
+          "bbox": [
+            371.0,
+            762.0,
+            681.0,
+            1574.0
+          ]
+        },
+        {
+          "layer": "chad",
+          "subject": "chad",
+          "bbox": [
+            649.51,
+            1161.51,
+            949.03,
+            1571.01
+          ]
+        },
+        {
+          "layer": "chad",
+          "subject": "chad_alpha",
+          "bbox": [
+            649.0,
+            1162.0,
+            950.0,
+            1572.0
+          ]
+        }
+      ],
+      "marks": {
+        "fixed-stage": {},
+        "rk-ground-shadow": {},
+        "chad-ground-shadow": {},
+        "rk": {
+          "support": [
+            601.4120089999999,
+            1569.967901
+          ],
+          "left_sole": [
+            432.71591,
+            1569.967901
+          ],
+          "right_sole": [
+            601.4120089999999,
+            1569.967901
+          ]
+        },
+        "chad": {
+          "support": [
+            815.065,
+            1569.84
+          ],
+          "left_sole": [
+            758.3199999999999,
+            1569.84
+          ],
+          "right_sole": [
+            871.81,
+            1569.84
+          ]
+        }
+      }
+    },
+    {
+      "frame": 62,
+      "time": 2.5833333333333335,
+      "boxes": [
+        {
+          "layer": "rk",
+          "subject": "rk",
+          "bbox": [
+            371.21,
+            761.21,
+            681.71,
+            1572.65
+          ]
+        },
+        {
+          "layer": "rk",
+          "subject": "rk_alpha",
+          "bbox": [
+            371.0,
+            762.0,
+            681.0,
+            1574.0
+          ]
+        },
+        {
+          "layer": "chad",
+          "subject": "chad",
+          "bbox": [
+            649.51,
+            1161.51,
+            949.03,
+            1571.01
+          ]
+        },
+        {
+          "layer": "chad",
+          "subject": "chad_alpha",
+          "bbox": [
+            649.0,
+            1162.0,
+            950.0,
+            1572.0
+          ]
+        }
+      ],
+      "marks": {
+        "fixed-stage": {},
+        "rk-ground-shadow": {},
+        "chad-ground-shadow": {},
+        "rk": {
+          "support": [
+            601.4120089999999,
+            1569.967901
+          ],
+          "left_sole": [
+            432.71591,
+            1569.967901
+          ],
+          "right_sole": [
+            601.4120089999999,
+            1569.967901
+          ]
+        },
+        "chad": {
+          "support": [
+            815.065,
+            1569.84
+          ],
+          "left_sole": [
+            758.3199999999999,
+            1569.84
+          ],
+          "right_sole": [
+            871.81,
+            1569.84
+          ]
+        }
+      }
+    },
+    {
+      "frame": 63,
+      "time": 2.625,
+      "boxes": [
+        {
+          "layer": "rk",
+          "subject": "rk",
+          "bbox": [
+            371.21,
+            761.21,
+            681.71,
+            1572.65
+          ]
+        },
+        {
+          "layer": "rk",
+          "subject": "rk_alpha",
+          "bbox": [
+            371.0,
+            762.0,
+            681.0,
+            1574.0
+          ]
+        },
+        {
+          "layer": "chad",
+          "subject": "chad",
+          "bbox": [
+            649.51,
+            1161.51,
+            949.03,
+            1571.01
+          ]
+        },
+        {
+          "layer": "chad",
+          "subject": "chad_alpha",
+          "bbox": [
+            649.0,
+            1162.0,
+            950.0,
+            1572.0
+          ]
+        }
+      ],
+      "marks": {
+        "fixed-stage": {},
+        "rk-ground-shadow": {},
+        "chad-ground-shadow": {},
+        "rk": {
+          "support": [
+            601.4120089999999,
+            1569.967901
+          ],
+          "left_sole": [
+            432.71591,
+            1569.967901
+          ],
+          "right_sole": [
+            601.4120089999999,
+            1569.967901
+          ]
+        },
+        "chad": {
+          "support": [
+            815.065,
+            1569.84
+          ],
+          "left_sole": [
+            758.3199999999999,
+            1569.84
+          ],
+          "right_sole": [
+            871.81,
+            1569.84
+          ]
+        }
+      }
+    },
+    {
+      "frame": 64,
+      "time": 2.6666666666666665,
+      "boxes": [
+        {
+          "layer": "rk",
+          "subject": "rk",
+          "bbox": [
+            371.21,
+            761.21,
+            681.71,
+            1572.65
+          ]
+        },
+        {
+          "layer": "rk",
+          "subject": "rk_alpha",
+          "bbox": [
+            371.0,
+            762.0,
+            681.0,
+            1574.0
+          ]
+        },
+        {
+          "layer": "chad",
+          "subject": "chad",
+          "bbox": [
+            649.51,
+            1161.51,
+            949.03,
+            1571.01
+          ]
+        },
+        {
+          "layer": "chad",
+          "subject": "chad_alpha",
+          "bbox": [
+            649.0,
+            1162.0,
+            950.0,
+            1572.0
+          ]
+        }
+      ],
+      "marks": {
+        "fixed-stage": {},
+        "rk-ground-shadow": {},
+        "chad-ground-shadow": {},
+        "rk": {
+          "support": [
+            601.4120089999999,
+            1569.967901
+          ],
+          "left_sole": [
+            432.71591,
+            1569.967901
+          ],
+          "right_sole": [
+            601.4120089999999,
+            1569.967901
+          ]
+        },
+        "chad": {
+          "support": [
+            815.065,
+            1569.84
+          ],
+          "left_sole": [
+            758.3199999999999,
+            1569.84
+          ],
+          "right_sole": [
+            871.81,
+            1569.84
+          ]
+        }
+      }
+    },
+    {
+      "frame": 65,
+      "time": 2.7083333333333335,
+      "boxes": [
+        {
+          "layer": "rk",
+          "subject": "rk",
+          "bbox": [
+            371.21,
+            761.21,
+            681.71,
+            1572.65
+          ]
+        },
+        {
+          "layer": "rk",
+          "subject": "rk_alpha",
+          "bbox": [
+            371.0,
+            762.0,
+            681.0,
+            1574.0
+          ]
+        },
+        {
+          "layer": "chad",
+          "subject": "chad",
+          "bbox": [
+            649.51,
+            1161.51,
+            949.03,
+            1571.01
+          ]
+        },
+        {
+          "layer": "chad",
+          "subject": "chad_alpha",
+          "bbox": [
+            649.0,
+            1162.0,
+            950.0,
+            1572.0
+          ]
+        }
+      ],
+      "marks": {
+        "fixed-stage": {},
+        "rk-ground-shadow": {},
+        "chad-ground-shadow": {},
+        "rk": {
+          "support": [
+            601.4120089999999,
+            1569.967901
+          ],
+          "left_sole": [
+            432.71591,
+            1569.967901
+          ],
+          "right_sole": [
+            601.4120089999999,
+            1569.967901
+          ]
+        },
+        "chad": {
+          "support": [
+            815.065,
+            1569.84
+          ],
+          "left_sole": [
+            758.3199999999999,
+            1569.84
+          ],
+          "right_sole": [
+            871.81,
+            1569.84
+          ]
+        }
+      }
+    },
+    {
+      "frame": 66,
+      "time": 2.75,
+      "boxes": [
+        {
+          "layer": "rk",
+          "subject": "rk",
+          "bbox": [
+            371.21,
+            761.21,
+            681.71,
+            1572.65
+          ]
+        },
+        {
+          "layer": "rk",
+          "subject": "rk_alpha",
+          "bbox": [
+            371.0,
+            762.0,
+            681.0,
+            1574.0
+          ]
+        },
+        {
+          "layer": "chad",
+          "subject": "chad",
+          "bbox": [
+            649.51,
+            1161.51,
+            949.03,
+            1571.01
+          ]
+        },
+        {
+          "layer": "chad",
+          "subject": "chad_alpha",
+          "bbox": [
+            649.0,
+            1162.0,
+            950.0,
+            1572.0
+          ]
+        }
+      ],
+      "marks": {
+        "fixed-stage": {},
+        "rk-ground-shadow": {},
+        "chad-ground-shadow": {},
+        "rk": {
+          "support": [
+            601.4120089999999,
+            1569.967901
+          ],
+          "left_sole": [
+            432.71591,
+            1569.967901
+          ],
+          "right_sole": [
+            601.4120089999999,
+            1569.967901
+          ]
+        },
+        "chad": {
+          "support": [
+            815.065,
+            1569.84
+          ],
+          "left_sole": [
+            758.3199999999999,
+            1569.84
+          ],
+          "right_sole": [
+            871.81,
+            1569.84
+          ]
+        }
+      }
+    },
+    {
+      "frame": 67,
+      "time": 2.7916666666666665,
+      "boxes": [
+        {
+          "layer": "rk",
+          "subject": "rk",
+          "bbox": [
+            371.21,
+            761.21,
+            681.71,
+            1572.65
+          ]
+        },
+        {
+          "layer": "rk",
+          "subject": "rk_alpha",
+          "bbox": [
+            371.0,
+            762.0,
+            681.0,
+            1574.0
+          ]
+        },
+        {
+          "layer": "chad",
+          "subject": "chad",
+          "bbox": [
+            649.51,
+            1161.51,
+            949.03,
+            1571.01
+          ]
+        },
+        {
+          "layer": "chad",
+          "subject": "chad_alpha",
+          "bbox": [
+            649.0,
+            1162.0,
+            950.0,
+            1572.0
+          ]
+        }
+      ],
+      "marks": {
+        "fixed-stage": {},
+        "rk-ground-shadow": {},
+        "chad-ground-shadow": {},
+        "rk": {
+          "support": [
+            601.4120089999999,
+            1569.967901
+          ],
+          "left_sole": [
+            432.71591,
+            1569.967901
+          ],
+          "right_sole": [
+            601.4120089999999,
+            1569.967901
+          ]
+        },
+        "chad": {
+          "support": [
+            815.065,
+            1569.84
+          ],
+          "left_sole": [
+            758.3199999999999,
+            1569.84
+          ],
+          "right_sole": [
+            871.81,
+            1569.84
+          ]
+        }
+      }
+    },
+    {
+      "frame": 68,
+      "time": 2.8333333333333335,
+      "boxes": [
+        {
+          "layer": "rk",
+          "subject": "rk",
+          "bbox": [
+            371.21,
+            761.21,
+            681.71,
+            1572.65
+          ]
+        },
+        {
+          "layer": "rk",
+          "subject": "rk_alpha",
+          "bbox": [
+            371.0,
+            762.0,
+            681.0,
+            1574.0
+          ]
+        },
+        {
+          "layer": "chad",
+          "subject": "chad",
+          "bbox": [
+            649.51,
+            1161.51,
+            949.03,
+            1571.01
+          ]
+        },
+        {
+          "layer": "chad",
+          "subject": "chad_alpha",
+          "bbox": [
+            649.0,
+            1162.0,
+            950.0,
+            1572.0
+          ]
+        }
+      ],
+      "marks": {
+        "fixed-stage": {},
+        "rk-ground-shadow": {},
+        "chad-ground-shadow": {},
+        "rk": {
+          "support": [
+            601.4120089999999,
+            1569.967901
+          ],
+          "left_sole": [
+            432.71591,
+            1569.967901
+          ],
+          "right_sole": [
+            601.4120089999999,
+            1569.967901
+          ]
+        },
+        "chad": {
+          "support": [
+            815.065,
+            1569.84
+          ],
+          "left_sole": [
+            758.3199999999999,
+            1569.84
+          ],
+          "right_sole": [
+            871.81,
+            1569.84
+          ]
+        }
+      }
+    },
+    {
+      "frame": 69,
+      "time": 2.875,
+      "boxes": [
+        {
+          "layer": "rk",
+          "subject": "rk",
+          "bbox": [
+            371.21,
+            761.21,
+            681.71,
+            1572.65
+          ]
+        },
+        {
+          "layer": "rk",
+          "subject": "rk_alpha",
+          "bbox": [
+            371.0,
+            762.0,
+            681.0,
+            1574.0
+          ]
+        },
+        {
+          "layer": "chad",
+          "subject": "chad",
+          "bbox": [
+            649.51,
+            1161.51,
+            949.03,
+            1571.01
+          ]
+        },
+        {
+          "layer": "chad",
+          "subject": "chad_alpha",
+          "bbox": [
+            649.0,
+            1162.0,
+            950.0,
+            1572.0
+          ]
+        }
+      ],
+      "marks": {
+        "fixed-stage": {},
+        "rk-ground-shadow": {},
+        "chad-ground-shadow": {},
+        "rk": {
+          "support": [
+            601.4120089999999,
+            1569.967901
+          ],
+          "left_sole": [
+            432.71591,
+            1569.967901
+          ],
+          "right_sole": [
+            601.4120089999999,
+            1569.967901
+          ]
+        },
+        "chad": {
+          "support": [
+            815.065,
+            1569.84
+          ],
+          "left_sole": [
+            758.3199999999999,
+            1569.84
+          ],
+          "right_sole": [
+            871.81,
+            1569.84
+          ]
+        }
+      }
+    },
+    {
+      "frame": 70,
+      "time": 2.9166666666666665,
+      "boxes": [
+        {
+          "layer": "rk",
+          "subject": "rk",
+          "bbox": [
+            371.21,
+            761.21,
+            681.71,
+            1572.65
+          ]
+        },
+        {
+          "layer": "rk",
+          "subject": "rk_alpha",
+          "bbox": [
+            371.0,
+            762.0,
+            681.0,
+            1574.0
+          ]
+        },
+        {
+          "layer": "chad",
+          "subject": "chad",
+          "bbox": [
+            649.51,
+            1161.51,
+            949.03,
+            1571.01
+          ]
+        },
+        {
+          "layer": "chad",
+          "subject": "chad_alpha",
+          "bbox": [
+            649.0,
+            1162.0,
+            950.0,
+            1572.0
+          ]
+        }
+      ],
+      "marks": {
+        "fixed-stage": {},
+        "rk-ground-shadow": {},
+        "chad-ground-shadow": {},
+        "rk": {
+          "support": [
+            601.4120089999999,
+            1569.967901
+          ],
+          "left_sole": [
+            432.71591,
+            1569.967901
+          ],
+          "right_sole": [
+            601.4120089999999,
+            1569.967901
+          ]
+        },
+        "chad": {
+          "support": [
+            815.065,
+            1569.84
+          ],
+          "left_sole": [
+            758.3199999999999,
+            1569.84
+          ],
+          "right_sole": [
+            871.81,
+            1569.84
+          ]
+        }
+      }
+    },
+    {
+      "frame": 71,
+      "time": 2.9583333333333335,
+      "boxes": [
+        {
+          "layer": "rk",
+          "subject": "rk",
+          "bbox": [
+            371.21,
+            761.21,
+            681.71,
+            1572.65
+          ]
+        },
+        {
+          "layer": "rk",
+          "subject": "rk_alpha",
+          "bbox": [
+            371.0,
+            762.0,
+            681.0,
+            1574.0
+          ]
+        },
+        {
+          "layer": "chad",
+          "subject": "chad",
+          "bbox": [
+            649.51,
+            1161.51,
+            949.03,
+            1571.01
+          ]
+        },
+        {
+          "layer": "chad",
+          "subject": "chad_alpha",
+          "bbox": [
+            649.0,
+            1162.0,
+            950.0,
+            1572.0
+          ]
+        }
+      ],
+      "marks": {
+        "fixed-stage": {},
+        "rk-ground-shadow": {},
+        "chad-ground-shadow": {},
+        "rk": {
+          "support": [
+            601.4120089999999,
+            1569.967901
+          ],
+          "left_sole": [
+            432.71591,
+            1569.967901
+          ],
+          "right_sole": [
+            601.4120089999999,
+            1569.967901
+          ]
+        },
+        "chad": {
+          "support": [
+            815.065,
+            1569.84
+          ],
+          "left_sole": [
+            758.3199999999999,
+            1569.84
+          ],
+          "right_sole": [
+            871.81,
+            1569.84
+          ]
+        }
+      }
+    },
+    {
+      "frame": 72,
+      "time": 3.0,
+      "boxes": [
+        {
+          "layer": "rk",
+          "subject": "rk",
+          "bbox": [
+            371.21,
+            761.21,
+            681.71,
+            1572.65
+          ]
+        },
+        {
+          "layer": "rk",
+          "subject": "rk_alpha",
+          "bbox": [
+            371.0,
+            762.0,
+            681.0,
+            1574.0
+          ]
+        },
+        {
+          "layer": "chad",
+          "subject": "chad",
+          "bbox": [
+            649.51,
+            1161.51,
+            949.03,
+            1571.01
+          ]
+        },
+        {
+          "layer": "chad",
+          "subject": "chad_alpha",
+          "bbox": [
+            649.0,
+            1162.0,
+            950.0,
+            1572.0
+          ]
+        }
+      ],
+      "marks": {
+        "fixed-stage": {},
+        "rk-ground-shadow": {},
+        "chad-ground-shadow": {},
+        "rk": {
+          "support": [
+            601.4120089999999,
+            1569.967901
+          ],
+          "left_sole": [
+            432.71591,
+            1569.967901
+          ],
+          "right_sole": [
+            601.4120089999999,
+            1569.967901
+          ]
+        },
+        "chad": {
+          "support": [
+            815.065,
+            1569.84
+          ],
+          "left_sole": [
+            758.3199999999999,
+            1569.84
+          ],
+          "right_sole": [
+            871.81,
+            1569.84
+          ]
+        }
+      }
+    },
+    {
+      "frame": 73,
+      "time": 3.0416666666666665,
+      "boxes": [
+        {
+          "layer": "rk",
+          "subject": "rk",
+          "bbox": [
+            371.21,
+            761.21,
+            681.71,
+            1572.65
+          ]
+        },
+        {
+          "layer": "rk",
+          "subject": "rk_alpha",
+          "bbox": [
+            371.0,
+            762.0,
+            681.0,
+            1574.0
+          ]
+        },
+        {
+          "layer": "chad",
+          "subject": "chad",
+          "bbox": [
+            649.51,
+            1161.51,
+            949.03,
+            1571.01
+          ]
+        },
+        {
+          "layer": "chad",
+          "subject": "chad_alpha",
+          "bbox": [
+            649.0,
+            1162.0,
+            950.0,
+            1572.0
+          ]
+        }
+      ],
+      "marks": {
+        "fixed-stage": {},
+        "rk-ground-shadow": {},
+        "chad-ground-shadow": {},
+        "rk": {
+          "support": [
+            601.4120089999999,
+            1569.967901
+          ],
+          "left_sole": [
+            432.71591,
+            1569.967901
+          ],
+          "right_sole": [
+            601.4120089999999,
+            1569.967901
+          ]
+        },
+        "chad": {
+          "support": [
+            815.065,
+            1569.84
+          ],
+          "left_sole": [
+            758.3199999999999,
+            1569.84
+          ],
+          "right_sole": [
+            871.81,
+            1569.84
+          ]
+        }
+      }
+    },
+    {
+      "frame": 74,
+      "time": 3.0833333333333335,
+      "boxes": [
+        {
+          "layer": "rk",
+          "subject": "rk",
+          "bbox": [
+            371.21,
+            761.21,
+            681.71,
+            1572.65
+          ]
+        },
+        {
+          "layer": "rk",
+          "subject": "rk_alpha",
+          "bbox": [
+            371.0,
+            762.0,
+            681.0,
+            1574.0
+          ]
+        },
+        {
+          "layer": "chad",
+          "subject": "chad",
+          "bbox": [
+            649.51,
+            1161.51,
+            949.03,
+            1571.01
+          ]
+        },
+        {
+          "layer": "chad",
+          "subject": "chad_alpha",
+          "bbox": [
+            649.0,
+            1162.0,
+            950.0,
+            1572.0
+          ]
+        }
+      ],
+      "marks": {
+        "fixed-stage": {},
+        "rk-ground-shadow": {},
+        "chad-ground-shadow": {},
+        "rk": {
+          "support": [
+            601.4120089999999,
+            1569.967901
+          ],
+          "left_sole": [
+            432.71591,
+            1569.967901
+          ],
+          "right_sole": [
+            601.4120089999999,
+            1569.967901
+          ]
+        },
+        "chad": {
+          "support": [
+            815.065,
+            1569.84
+          ],
+          "left_sole": [
+            758.3199999999999,
+            1569.84
+          ],
+          "right_sole": [
+            871.81,
+            1569.84
+          ]
+        }
+      }
+    },
+    {
+      "frame": 75,
+      "time": 3.125,
+      "boxes": [
+        {
+          "layer": "rk",
+          "subject": "rk",
+          "bbox": [
+            371.21,
+            761.21,
+            681.71,
+            1572.65
+          ]
+        },
+        {
+          "layer": "rk",
+          "subject": "rk_alpha",
+          "bbox": [
+            371.0,
+            762.0,
+            681.0,
+            1574.0
+          ]
+        },
+        {
+          "layer": "chad",
+          "subject": "chad",
+          "bbox": [
+            649.51,
+            1161.51,
+            949.03,
+            1571.01
+          ]
+        },
+        {
+          "layer": "chad",
+          "subject": "chad_alpha",
+          "bbox": [
+            649.0,
+            1162.0,
+            950.0,
+            1572.0
+          ]
+        }
+      ],
+      "marks": {
+        "fixed-stage": {},
+        "rk-ground-shadow": {},
+        "chad-ground-shadow": {},
+        "rk": {
+          "support": [
+            601.4120089999999,
+            1569.967901
+          ],
+          "left_sole": [
+            432.71591,
+            1569.967901
+          ],
+          "right_sole": [
+            601.4120089999999,
+            1569.967901
+          ]
+        },
+        "chad": {
+          "support": [
+            815.065,
+            1569.84
+          ],
+          "left_sole": [
+            758.3199999999999,
+            1569.84
+          ],
+          "right_sole": [
+            871.81,
+            1569.84
+          ]
+        }
+      }
+    },
+    {
+      "frame": 76,
+      "time": 3.1666666666666665,
+      "boxes": [
+        {
+          "layer": "rk",
+          "subject": "rk",
+          "bbox": [
+            371.21,
+            761.21,
+            681.71,
+            1572.65
+          ]
+        },
+        {
+          "layer": "rk",
+          "subject": "rk_alpha",
+          "bbox": [
+            371.0,
+            762.0,
+            681.0,
+            1574.0
+          ]
+        },
+        {
+          "layer": "chad",
+          "subject": "chad",
+          "bbox": [
+            649.51,
+            1161.51,
+            949.03,
+            1571.01
+          ]
+        },
+        {
+          "layer": "chad",
+          "subject": "chad_alpha",
+          "bbox": [
+            649.0,
+            1162.0,
+            950.0,
+            1572.0
+          ]
+        }
+      ],
+      "marks": {
+        "fixed-stage": {},
+        "rk-ground-shadow": {},
+        "chad-ground-shadow": {},
+        "rk": {
+          "support": [
+            601.4120089999999,
+            1569.967901
+          ],
+          "left_sole": [
+            432.71591,
+            1569.967901
+          ],
+          "right_sole": [
+            601.4120089999999,
+            1569.967901
+          ]
+        },
+        "chad": {
+          "support": [
+            815.065,
+            1569.84
+          ],
+          "left_sole": [
+            758.3199999999999,
+            1569.84
+          ],
+          "right_sole": [
+            871.81,
+            1569.84
+          ]
+        }
+      }
+    },
+    {
+      "frame": 77,
+      "time": 3.2083333333333335,
+      "boxes": [
+        {
+          "layer": "rk",
+          "subject": "rk",
+          "bbox": [
+            371.21,
+            761.21,
+            681.71,
+            1572.65
+          ]
+        },
+        {
+          "layer": "rk",
+          "subject": "rk_alpha",
+          "bbox": [
+            371.0,
+            762.0,
+            681.0,
+            1574.0
+          ]
+        },
+        {
+          "layer": "chad",
+          "subject": "chad",
+          "bbox": [
+            649.51,
+            1161.51,
+            949.03,
+            1571.01
+          ]
+        },
+        {
+          "layer": "chad",
+          "subject": "chad_alpha",
+          "bbox": [
+            649.0,
+            1162.0,
+            950.0,
+            1572.0
+          ]
+        }
+      ],
+      "marks": {
+        "fixed-stage": {},
+        "rk-ground-shadow": {},
+        "chad-ground-shadow": {},
+        "rk": {
+          "support": [
+            601.4120089999999,
+            1569.967901
+          ],
+          "left_sole": [
+            432.71591,
+            1569.967901
+          ],
+          "right_sole": [
+            601.4120089999999,
+            1569.967901
+          ]
+        },
+        "chad": {
+          "support": [
+            815.065,
+            1569.84
+          ],
+          "left_sole": [
+            758.3199999999999,
+            1569.84
+          ],
+          "right_sole": [
+            871.81,
+            1569.84
+          ]
+        }
+      }
+    },
+    {
+      "frame": 78,
+      "time": 3.25,
+      "boxes": [
+        {
+          "layer": "rk",
+          "subject": "rk",
+          "bbox": [
+            371.21,
+            761.21,
+            681.71,
+            1572.65
+          ]
+        },
+        {
+          "layer": "rk",
+          "subject": "rk_alpha",
+          "bbox": [
+            371.0,
+            762.0,
+            681.0,
+            1574.0
+          ]
+        },
+        {
+          "layer": "chad",
+          "subject": "chad",
+          "bbox": [
+            649.51,
+            1161.51,
+            949.03,
+            1571.01
+          ]
+        },
+        {
+          "layer": "chad",
+          "subject": "chad_alpha",
+          "bbox": [
+            649.0,
+            1162.0,
+            950.0,
+            1572.0
+          ]
+        }
+      ],
+      "marks": {
+        "fixed-stage": {},
+        "rk-ground-shadow": {},
+        "chad-ground-shadow": {},
+        "rk": {
+          "support": [
+            601.4120089999999,
+            1569.967901
+          ],
+          "left_sole": [
+            432.71591,
+            1569.967901
+          ],
+          "right_sole": [
+            601.4120089999999,
+            1569.967901
+          ]
+        },
+        "chad": {
+          "support": [
+            815.065,
+            1569.84
+          ],
+          "left_sole": [
+            758.3199999999999,
+            1569.84
+          ],
+          "right_sole": [
+            871.81,
+            1569.84
+          ]
+        }
+      }
+    },
+    {
+      "frame": 79,
+      "time": 3.2916666666666665,
+      "boxes": [
+        {
+          "layer": "rk",
+          "subject": "rk",
+          "bbox": [
+            371.21,
+            761.21,
+            681.71,
+            1572.65
+          ]
+        },
+        {
+          "layer": "rk",
+          "subject": "rk_alpha",
+          "bbox": [
+            371.0,
+            762.0,
+            681.0,
+            1574.0
+          ]
+        },
+        {
+          "layer": "chad",
+          "subject": "chad",
+          "bbox": [
+            649.51,
+            1161.51,
+            949.03,
+            1571.01
+          ]
+        },
+        {
+          "layer": "chad",
+          "subject": "chad_alpha",
+          "bbox": [
+            649.0,
+            1162.0,
+            950.0,
+            1572.0
+          ]
+        }
+      ],
+      "marks": {
+        "fixed-stage": {},
+        "rk-ground-shadow": {},
+        "chad-ground-shadow": {},
+        "rk": {
+          "support": [
+            601.4120089999999,
+            1569.967901
+          ],
+          "left_sole": [
+            432.71591,
+            1569.967901
+          ],
+          "right_sole": [
+            601.4120089999999,
+            1569.967901
+          ]
+        },
+        "chad": {
+          "support": [
+            815.065,
+            1569.84
+          ],
+          "left_sole": [
+            758.3199999999999,
+            1569.84
+          ],
+          "right_sole": [
+            871.81,
+            1569.84
+          ]
+        }
+      }
+    },
+    {
+      "frame": 80,
+      "time": 3.3333333333333335,
+      "boxes": [
+        {
+          "layer": "rk",
+          "subject": "rk",
+          "bbox": [
+            371.21,
+            761.21,
+            681.71,
+            1572.65
+          ]
+        },
+        {
+          "layer": "rk",
+          "subject": "rk_alpha",
+          "bbox": [
+            371.0,
+            762.0,
+            681.0,
+            1574.0
+          ]
+        },
+        {
+          "layer": "chad",
+          "subject": "chad",
+          "bbox": [
+            649.51,
+            1161.51,
+            949.03,
+            1571.01
+          ]
+        },
+        {
+          "layer": "chad",
+          "subject": "chad_alpha",
+          "bbox": [
+            649.0,
+            1162.0,
+            950.0,
+            1572.0
+          ]
+        }
+      ],
+      "marks": {
+        "fixed-stage": {},
+        "rk-ground-shadow": {},
+        "chad-ground-shadow": {},
+        "rk": {
+          "support": [
+            601.4120089999999,
+            1569.967901
+          ],
+          "left_sole": [
+            432.71591,
+            1569.967901
+          ],
+          "right_sole": [
+            601.4120089999999,
+            1569.967901
+          ]
+        },
+        "chad": {
+          "support": [
+            815.065,
+            1569.84
+          ],
+          "left_sole": [
+            758.3199999999999,
+            1569.84
+          ],
+          "right_sole": [
+            871.81,
+            1569.84
+          ]
+        }
+      }
+    },
+    {
+      "frame": 81,
+      "time": 3.375,
+      "boxes": [
+        {
+          "layer": "rk",
+          "subject": "rk",
+          "bbox": [
+            371.21,
+            761.21,
+            681.71,
+            1572.65
+          ]
+        },
+        {
+          "layer": "rk",
+          "subject": "rk_alpha",
+          "bbox": [
+            371.0,
+            762.0,
+            681.0,
+            1574.0
+          ]
+        },
+        {
+          "layer": "chad",
+          "subject": "chad",
+          "bbox": [
+            649.51,
+            1161.51,
+            949.03,
+            1571.01
+          ]
+        },
+        {
+          "layer": "chad",
+          "subject": "chad_alpha",
+          "bbox": [
+            649.0,
+            1162.0,
+            950.0,
+            1572.0
+          ]
+        }
+      ],
+      "marks": {
+        "fixed-stage": {},
+        "rk-ground-shadow": {},
+        "chad-ground-shadow": {},
+        "rk": {
+          "support": [
+            601.4120089999999,
+            1569.967901
+          ],
+          "left_sole": [
+            432.71591,
+            1569.967901
+          ],
+          "right_sole": [
+            601.4120089999999,
+            1569.967901
+          ]
+        },
+        "chad": {
+          "support": [
+            815.065,
+            1569.84
+          ],
+          "left_sole": [
+            758.3199999999999,
+            1569.84
+          ],
+          "right_sole": [
+            871.81,
+            1569.84
+          ]
+        }
+      }
+    },
+    {
+      "frame": 82,
+      "time": 3.4166666666666665,
+      "boxes": [
+        {
+          "layer": "rk",
+          "subject": "rk",
+          "bbox": [
+            371.21,
+            761.21,
+            681.71,
+            1572.65
+          ]
+        },
+        {
+          "layer": "rk",
+          "subject": "rk_alpha",
+          "bbox": [
+            371.0,
+            762.0,
+            681.0,
+            1574.0
+          ]
+        },
+        {
+          "layer": "chad",
+          "subject": "chad",
+          "bbox": [
+            649.51,
+            1161.51,
+            949.03,
+            1571.01
+          ]
+        },
+        {
+          "layer": "chad",
+          "subject": "chad_alpha",
+          "bbox": [
+            649.0,
+            1162.0,
+            950.0,
+            1572.0
+          ]
+        }
+      ],
+      "marks": {
+        "fixed-stage": {},
+        "rk-ground-shadow": {},
+        "chad-ground-shadow": {},
+        "rk": {
+          "support": [
+            601.4120089999999,
+            1569.967901
+          ],
+          "left_sole": [
+            432.71591,
+            1569.967901
+          ],
+          "right_sole": [
+            601.4120089999999,
+            1569.967901
+          ]
+        },
+        "chad": {
+          "support": [
+            815.065,
+            1569.84
+          ],
+          "left_sole": [
+            758.3199999999999,
+            1569.84
+          ],
+          "right_sole": [
+            871.81,
+            1569.84
+          ]
+        }
+      }
+    },
+    {
+      "frame": 83,
+      "time": 3.4583333333333335,
+      "boxes": [
+        {
+          "layer": "rk",
+          "subject": "rk",
+          "bbox": [
+            371.21,
+            761.21,
+            681.71,
+            1572.65
+          ]
+        },
+        {
+          "layer": "rk",
+          "subject": "rk_alpha",
+          "bbox": [
+            371.0,
+            762.0,
+            681.0,
+            1574.0
+          ]
+        },
+        {
+          "layer": "chad",
+          "subject": "chad",
+          "bbox": [
+            649.51,
+            1161.51,
+            949.03,
+            1571.01
+          ]
+        },
+        {
+          "layer": "chad",
+          "subject": "chad_alpha",
+          "bbox": [
+            649.0,
+            1162.0,
+            950.0,
+            1572.0
+          ]
+        }
+      ],
+      "marks": {
+        "fixed-stage": {},
+        "rk-ground-shadow": {},
+        "chad-ground-shadow": {},
+        "rk": {
+          "support": [
+            601.4120089999999,
+            1569.967901
+          ],
+          "left_sole": [
+            432.71591,
+            1569.967901
+          ],
+          "right_sole": [
+            601.4120089999999,
+            1569.967901
+          ]
+        },
+        "chad": {
+          "support": [
+            815.065,
+            1569.84
+          ],
+          "left_sole": [
+            758.3199999999999,
+            1569.84
+          ],
+          "right_sole": [
+            871.81,
+            1569.84
+          ]
+        }
+      }
+    },
+    {
+      "frame": 84,
+      "time": 3.5,
+      "boxes": [
+        {
+          "layer": "rk",
+          "subject": "rk",
+          "bbox": [
+            371.21,
+            761.21,
+            681.71,
+            1572.65
+          ]
+        },
+        {
+          "layer": "rk",
+          "subject": "rk_alpha",
+          "bbox": [
+            371.0,
+            762.0,
+            681.0,
+            1574.0
+          ]
+        },
+        {
+          "layer": "chad",
+          "subject": "chad",
+          "bbox": [
+            649.51,
+            1161.51,
+            949.03,
+            1571.01
+          ]
+        },
+        {
+          "layer": "chad",
+          "subject": "chad_alpha",
+          "bbox": [
+            649.0,
+            1162.0,
+            950.0,
+            1572.0
+          ]
+        }
+      ],
+      "marks": {
+        "fixed-stage": {},
+        "rk-ground-shadow": {},
+        "chad-ground-shadow": {},
+        "rk": {
+          "support": [
+            601.4120089999999,
+            1569.967901
+          ],
+          "left_sole": [
+            432.71591,
+            1569.967901
+          ],
+          "right_sole": [
+            601.4120089999999,
+            1569.967901
+          ]
+        },
+        "chad": {
+          "support": [
+            815.065,
+            1569.84
+          ],
+          "left_sole": [
+            758.3199999999999,
+            1569.84
+          ],
+          "right_sole": [
+            871.81,
+            1569.84
+          ]
+        }
+      }
+    },
+    {
+      "frame": 85,
+      "time": 3.5416666666666665,
+      "boxes": [
+        {
+          "layer": "rk",
+          "subject": "rk",
+          "bbox": [
+            371.21,
+            761.21,
+            681.71,
+            1572.65
+          ]
+        },
+        {
+          "layer": "rk",
+          "subject": "rk_alpha",
+          "bbox": [
+            371.0,
+            762.0,
+            681.0,
+            1574.0
+          ]
+        },
+        {
+          "layer": "chad",
+          "subject": "chad",
+          "bbox": [
+            649.51,
+            1161.51,
+            949.03,
+            1571.01
+          ]
+        },
+        {
+          "layer": "chad",
+          "subject": "chad_alpha",
+          "bbox": [
+            649.0,
+            1162.0,
+            950.0,
+            1572.0
+          ]
+        }
+      ],
+      "marks": {
+        "fixed-stage": {},
+        "rk-ground-shadow": {},
+        "chad-ground-shadow": {},
+        "rk": {
+          "support": [
+            601.4120089999999,
+            1569.967901
+          ],
+          "left_sole": [
+            432.71591,
+            1569.967901
+          ],
+          "right_sole": [
+            601.4120089999999,
+            1569.967901
+          ]
+        },
+        "chad": {
+          "support": [
+            815.065,
+            1569.84
+          ],
+          "left_sole": [
+            758.3199999999999,
+            1569.84
+          ],
+          "right_sole": [
+            871.81,
+            1569.84
+          ]
+        }
+      }
+    },
+    {
+      "frame": 86,
+      "time": 3.5833333333333335,
+      "boxes": [
+        {
+          "layer": "rk",
+          "subject": "rk",
+          "bbox": [
+            371.21,
+            761.21,
+            681.71,
+            1572.65
+          ]
+        },
+        {
+          "layer": "rk",
+          "subject": "rk_alpha",
+          "bbox": [
+            371.0,
+            762.0,
+            681.0,
+            1574.0
+          ]
+        },
+        {
+          "layer": "chad",
+          "subject": "chad",
+          "bbox": [
+            649.51,
+            1161.51,
+            949.03,
+            1571.01
+          ]
+        },
+        {
+          "layer": "chad",
+          "subject": "chad_alpha",
+          "bbox": [
+            649.0,
+            1162.0,
+            950.0,
+            1572.0
+          ]
+        }
+      ],
+      "marks": {
+        "fixed-stage": {},
+        "rk-ground-shadow": {},
+        "chad-ground-shadow": {},
+        "rk": {
+          "support": [
+            601.4120089999999,
+            1569.967901
+          ],
+          "left_sole": [
+            432.71591,
+            1569.967901
+          ],
+          "right_sole": [
+            601.4120089999999,
+            1569.967901
+          ]
+        },
+        "chad": {
+          "support": [
+            815.065,
+            1569.84
+          ],
+          "left_sole": [
+            758.3199999999999,
+            1569.84
+          ],
+          "right_sole": [
+            871.81,
+            1569.84
+          ]
+        }
+      }
+    },
+    {
+      "frame": 87,
+      "time": 3.625,
+      "boxes": [
+        {
+          "layer": "rk",
+          "subject": "rk",
+          "bbox": [
+            371.21,
+            761.21,
+            681.71,
+            1572.65
+          ]
+        },
+        {
+          "layer": "rk",
+          "subject": "rk_alpha",
+          "bbox": [
+            371.0,
+            762.0,
+            681.0,
+            1574.0
+          ]
+        },
+        {
+          "layer": "chad",
+          "subject": "chad",
+          "bbox": [
+            649.51,
+            1161.51,
+            949.03,
+            1571.01
+          ]
+        },
+        {
+          "layer": "chad",
+          "subject": "chad_alpha",
+          "bbox": [
+            649.0,
+            1162.0,
+            950.0,
+            1572.0
+          ]
+        }
+      ],
+      "marks": {
+        "fixed-stage": {},
+        "rk-ground-shadow": {},
+        "chad-ground-shadow": {},
+        "rk": {
+          "support": [
+            601.4120089999999,
+            1569.967901
+          ],
+          "left_sole": [
+            432.71591,
+            1569.967901
+          ],
+          "right_sole": [
+            601.4120089999999,
+            1569.967901
+          ]
+        },
+        "chad": {
+          "support": [
+            815.065,
+            1569.84
+          ],
+          "left_sole": [
+            758.3199999999999,
+            1569.84
+          ],
+          "right_sole": [
+            871.81,
+            1569.84
+          ]
+        }
+      }
+    },
+    {
+      "frame": 88,
+      "time": 3.6666666666666665,
+      "boxes": [
+        {
+          "layer": "rk",
+          "subject": "rk",
+          "bbox": [
+            371.21,
+            761.21,
+            681.71,
+            1572.65
+          ]
+        },
+        {
+          "layer": "rk",
+          "subject": "rk_alpha",
+          "bbox": [
+            371.0,
+            762.0,
+            681.0,
+            1574.0
+          ]
+        },
+        {
+          "layer": "chad",
+          "subject": "chad",
+          "bbox": [
+            649.51,
+            1161.51,
+            949.03,
+            1571.01
+          ]
+        },
+        {
+          "layer": "chad",
+          "subject": "chad_alpha",
+          "bbox": [
+            649.0,
+            1162.0,
+            950.0,
+            1572.0
+          ]
+        }
+      ],
+      "marks": {
+        "fixed-stage": {},
+        "rk-ground-shadow": {},
+        "chad-ground-shadow": {},
+        "rk": {
+          "support": [
+            601.4120089999999,
+            1569.967901
+          ],
+          "left_sole": [
+            432.71591,
+            1569.967901
+          ],
+          "right_sole": [
+            601.4120089999999,
+            1569.967901
+          ]
+        },
+        "chad": {
+          "support": [
+            815.065,
+            1569.84
+          ],
+          "left_sole": [
+            758.3199999999999,
+            1569.84
+          ],
+          "right_sole": [
+            871.81,
+            1569.84
+          ]
+        }
+      }
+    },
+    {
+      "frame": 89,
+      "time": 3.7083333333333335,
+      "boxes": [
+        {
+          "layer": "rk",
+          "subject": "rk",
+          "bbox": [
+            371.21,
+            761.21,
+            681.71,
+            1572.65
+          ]
+        },
+        {
+          "layer": "rk",
+          "subject": "rk_alpha",
+          "bbox": [
+            371.0,
+            762.0,
+            681.0,
+            1574.0
+          ]
+        },
+        {
+          "layer": "chad",
+          "subject": "chad",
+          "bbox": [
+            649.51,
+            1161.51,
+            949.03,
+            1571.01
+          ]
+        },
+        {
+          "layer": "chad",
+          "subject": "chad_alpha",
+          "bbox": [
+            649.0,
+            1162.0,
+            950.0,
+            1572.0
+          ]
+        }
+      ],
+      "marks": {
+        "fixed-stage": {},
+        "rk-ground-shadow": {},
+        "chad-ground-shadow": {},
+        "rk": {
+          "support": [
+            601.4120089999999,
+            1569.967901
+          ],
+          "left_sole": [
+            432.71591,
+            1569.967901
+          ],
+          "right_sole": [
+            601.4120089999999,
+            1569.967901
+          ]
+        },
+        "chad": {
+          "support": [
+            815.065,
+            1569.84
+          ],
+          "left_sole": [
+            758.3199999999999,
+            1569.84
+          ],
+          "right_sole": [
+            871.81,
+            1569.84
+          ]
+        }
+      }
+    }
+  ]
+}

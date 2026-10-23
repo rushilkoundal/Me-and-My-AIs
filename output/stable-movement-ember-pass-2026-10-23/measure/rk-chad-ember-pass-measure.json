@@ -1,0 +1,58 @@
+{
+  "file": "rk-chad-ember-pass.mp4",
+  "duration_s": 3.75,
+  "fps": 24.0,
+  "cuts": 2,
+  "frames_with_visible_change_pct": 40.4,
+  "holds_ge_12f_pct_time": 32.2,
+  "integrated_lufs": -14.0,
+  "true_peak_dbtp": -1.2,
+  "sound_hits_per_s": 1.33,
+  "strong_hits_on_visible_change_pct": 100.0,
+  "music_bed_pct": 12.3,
+  "near_silence_pct": 14.5,
+  "vs_ember": {
+    "integrated_lufs": {
+      "value": -14.0,
+      "ember_min": -14.4,
+      "ember_median": -14.1,
+      "ember_max": -14.0,
+      "status": "in range"
+    },
+    "frames_with_visible_change_pct": {
+      "value": 40.4,
+      "ember_min": 46.6,
+      "ember_median": 61.5,
+      "ember_max": 87.8,
+      "status": "below"
+    },
+    "holds_ge_12f_pct_time": {
+      "value": 32.2,
+      "ember_min": 0.0,
+      "ember_median": 22.2,
+      "ember_max": 41.2,
+      "status": "in range"
+    },
+    "sound_hits_per_s": {
+      "value": 1.33,
+      "ember_min": 1.5,
+      "ember_median": 2.4,
+      "ember_max": 4.9,
+      "status": "below"
+    },
+    "strong_hits_on_visible_change_pct": {
+      "value": 100.0,
+      "ember_min": 91.8,
+      "ember_median": 100.0,
+      "ember_max": 100.0,
+      "status": "in range"
+    },
+    "near_silence_pct": {
+      "value": 14.5,
+      "ember_min": 0.1,
+      "ember_median": 17.5,
+      "ember_max": 32.6,
+      "status": "in range"
+    }
+  }
+}

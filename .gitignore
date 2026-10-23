@@ -1,0 +1,12 @@
+.DS_Store
+__pycache__/
+*.pyc
+*.premaster.wav
+*.limited.wav
+*.trim.wav
+# Local-only binaries and model weights
+tools/rife/
+tools/animatediff/
+# Third-party benchmark reels are for private study only
+**/ember-benchmark-study*/
+**/reels/

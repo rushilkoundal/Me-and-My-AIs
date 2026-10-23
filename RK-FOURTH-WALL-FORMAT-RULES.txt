@@ -1,0 +1,70 @@
+RK ANIMATED AI PARODY — FOURTH-WALL TREATMENT
+Original treatment approved: 8 October 2026. Scope updated: 12 October 2026.
+Status: optional treatment within the captioned-dialogue format. The standing purpose, two formats and sharing priority are in YOUTUBE_CHANNEL_WORKING_MEMORY.md and take precedence.
+
+SCOPE
+Use this treatment when a brief direct audience address helps the captioned-dialogue episode establish a recognisable AI experience. It is not required in every episode and does not apply to the music/SFX-driven physical-comedy format. The characters embody the creator's real AI experiences and frustrations; a roommate relationship is not the premise. Existing clips do not require retroactive changes.
+
+CORE FORMAT
+When this treatment is chosen, RK speaks directly to the audience about a specific recognisable AI experience or problem. The frame visibly closes around him; he leans out of the scene toward us. Once his short opening line finishes, the frame opens back up and the actual incident begins. The episode delivers the problem or promise introduced in his address. Recognition and a clear consequence should make someone want to send the clip; no request to like, subscribe, comment or share belongs in the video.
+
+OPENING VISUAL WHEN THIS TREATMENT IS CHOSEN
+1. Use the established minimal setting: clean white background with one thin dark-grey horizontal ground line; white above and below the line. RK and relevant story props are already present. Do not add furnished rooms, scenery, textures or decor unless explicitly requested.
+2. A solid black rectangle slides down from the top while another slides up from the bottom. The visible scene window becomes smaller inside the unchanged vertical 9:16 canvas. Do not squash or resize the entire finished video.
+3. The BOTTOM rectangle sits IN FRONT OF RK. It covers his legs/lower body as it rises.
+4. The TOP rectangle sits BEHIND RK but in front of the background. RK's head/upper silhouette visibly overlaps its lower edge as he leans toward the audience. His face remains readable and unobscured.
+5. RK looks into the camera, leans forward slightly and addresses the viewer. Use a subtle perspective push and a quick comic stretch-zoom accent. Preserve his recognizable face and body proportions after the accent settles.
+6. The bars move and the comic accent happens DURING the opening line. This is the story's opening, not a separate bumper before the story starts.
+7. When the audience address ends, both bars retract to their original offscreen positions. The camera/pose settles back into the normal scene as RK turns to the relevant AI character, or cut to that character when RK opened alone. Preserve spatial continuity across the transition.
+
+COMPOSITING ORDER — BACK TO FRONT
+Clean white background, single ground line, props and other characters as staged
+Top black rectangle
+RK cutout/character layer
+Bottom black rectangle
+Readable captions or deliberate foreground comic accents, if used
+
+Keep RK separable from the background so the asymmetric overlap can be controlled. Composite the bars and frame transition in the edit rather than relying on generated footage to maintain exact masking. Adjust the bar depth and RK framing shot by shot; the required result is head/upper silhouette over the top edge and lower body behind the bottom bar. Other characters remain within the scene unless a particular gag calls for otherwise.
+
+COMIC MOTION AND SOUND
+When this opening treatment is used, include the comic zoom/stretch accent and the transition back to the scene. Pair them with short, purposeful comic sound effects: for example a frame-closing whoosh, a brief pop/boing on RK's lean, and a reverse whoosh on release. These are sound roles, not a requirement to use all three samples in every episode. Keep speech dominant; place accents around important words rather than over them. Settle motion during the line so the audience can read RK's expression. Avoid continuous shake or stretching throughout his speech.
+
+WRITING AND PACING
+Use one concise, conversational audience address. It may be a question, confession, complaint or warning; do not force every episode to begin with 'Have you ever...'. Prefer a specific recognizable frustration over explaining AI tools or the series premise.
+Move directly from the address into the action. Avoid stacking a long explanation, 'let's find out', and a second explanation of the same setup.
+An initial editorial target is roughly 2–3 seconds for the address and moving-frame treatment together. This is adjustable to natural delivery, not a platform rule. The audience should already be seeing story information while RK speaks.
+The action must fulfil the opening promise. Escalation should add a new complication or consequence rather than only repeat the same joke with cosmetic variations.
+An ending glance or aside to the audience is optional. A second bar transition is not mandatory. Finish after the payoff and necessary reaction.
+
+FIXED SIGNATURE / EPISODE VARIATION
+Fixed: RK's direct audience connection; top bar behind RK; bottom bar over RK; slight forward lean; comic zoom/stretch and sound accent; bars retract into the scene.
+Variable: wording, emotional delivery, props, setting, AI character, background business, specific sound samples, problem, escalation and payoff.
+Keep the established cast identity and hand-drawn visual style. Visual reference: output/character-bible-2026-10-03/approved-cast-reference.png.
+
+HAIRCUT — FIRST APPLICATION
+Proposed opening, subject to script refinement: 'You ever ask ChatGPT to change ONE thing?'
+Updated 9 October: the haircut opening is RK ALONE, empty-handed, centered in medium framing. No reference photo and no ChatGPT in the opening. RK makes a small forward lean and one natural palm-up gesture while asking the viewer the question quickly and sincerely.
+The bars retract at the end of the direct address; cut into the next scene with ChatGPT for the haircut request. Do not make RK turn toward an absent character in the solo opening. Then the haircut options become progressively stranger.
+Match the final joke to the wording: if the opening promises unwanted changes beyond the haircut, the scene must visibly deliver such a change. The previously suggested ChatGPT-face ending and final dialogue are optional ideas, not approved requirements.
+
+PRE-EXPORT CHECK WHEN THIS TREATMENT IS USED
+- RK looks at the viewer and visibly crosses the top frame boundary.
+- Bottom bar masks his lower body; top bar never masks his face.
+- Bars retract fully and the scene resumes without a distracting pose/position jump.
+- Speech is clear above sound effects; captions remain legible on a phone.
+- Comic motion supports the delivery and settles quickly.
+- The opening adds a clear story promise without delaying the action.
+- Cast identity is consistent; the episode has its own situation and payoff.
+
+TESTING
+Test the two formats using the comparison in YOUTUBE_CHANNEL_WORKING_MEMORY.md. Actual sharing is the primary audience outcome; exposure, engaged views, stayed-to-watch and retention provide supporting context. This fourth-wall treatment is an optional execution choice, not a proven solution to a view plateau. Small samples leave creative performance uncertain. Refine timing and delivery while keeping the specific AI behaviour and recognisable emotion clear.
+
+HEART CONTINUITY — approved 9 October 2026
+The red heart stays on RK's anatomical LEFT chest (viewer's RIGHT in a front-facing shot), matching shot01-rk-solo-v3.png and the user-approved chest crop. Preserve its shape, red color, size relative to the shirt, and placement relative to neckline and left armhole in every new frame and animation. It is attached to the garment: it follows torso rotation and perspective naturally, never slides, recenters, switches sides or duplicates. Do not mirror the character in a way that reverses this placement. Do not draw the heart on the back of the shirt; allow natural occlusion in side/back views.
+
+NATURAL ACTING — user direction, 9 October 2026
+Keep the current opening clip; no regeneration requested for this feedback. For future animation, prioritize a motivated character action over generic presenter gestures. Example: RK briefly rests one hand against his chin in thought, tilts his head slightly, then asks the viewer his question as part of that thought. Use when appropriate to the scene, not as a mandatory repeated gesture in every episode.
+Plan a simple action with anticipation, contact/hold and release. Let dialogue and expression grow from the action. Keep gestures restrained and slightly varied in timing; avoid repeated palm pumping, constant eyebrow movement, symmetrical hand waving, mechanical nodding and continuous motion merely to keep the character moving. Stillness is part of the performance. Natural refers to believable acting within the approved hand-drawn style, not photorealistic rendering. For chin contact, preserve finger anatomy and clear lip visibility; inspect hand-to-face contact for clipping. This is the preferred direction to test, not a guarantee of natural generated motion.
+
+ACTING CLARIFICATION — 9 October 2026
+Select each physical action from the specific dialogue, intention and situation. No universal chin-touch, head tilt or palm-up gesture. Design the starting pose to support that action and use only the movement needed to convey the thought. Haircut request example: briefly indicate his own hair while asking ChatGPT, then lower the hand and wait. The listening character reacts after the request rather than performing continuously.
