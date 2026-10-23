@@ -10,3 +10,5 @@ tools/animatediff/
 # Third-party benchmark reels are for private study only
 **/ember-benchmark-study*/
 **/reels/
+# Episode work (ideas, scripts, art, renders) stays local
+episodes/

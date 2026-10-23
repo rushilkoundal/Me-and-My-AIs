@@ -12,7 +12,7 @@ Agents start with [AGENTS.md](AGENTS.md).
 | `output/character-bible-2026-10-03/` | Approved cast reference and character sheets |
 | `output/stable-movement-*-2026-10-23/` | Worked examples: RK/Chad walk-stop-react test, smoothed, then Ember-style effects and sound |
 | `tools/sfx/kenney/` | Kenney CC0 sound packs (Impact, Interface, UI, RPG) with `LICENSES.json` |
-| `episodes/` | One folder per episode; the current one is `i-just-wanted-milk-and-eggs` |
+| `episodes/` | Local-only working folders, one per episode (git-ignored; ideas are pitched in chat) |
 
 Rebuild the Ember-style example: `python3 output/stable-movement-ember-pass-2026-10-23/build_ember_pass.py`.
 The two earlier examples render from their `scene.json` with

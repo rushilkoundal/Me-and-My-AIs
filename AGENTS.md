@@ -9,7 +9,9 @@ protagonist; Chad (ChatGPT), Claude and Grok are the AI characters.
    audience, Ember benchmark, workflow, voices, publishing rules). It overrides older docs.
 2. The skill `.codex/skills/stable-character-animation/SKILL.md`: how every video is made.
    Use it for scene staging, drawings, assembly, smoothing, effects, sound and checks.
-3. The current episode brief: `episodes/i-just-wanted-milk-and-eggs/BRIEF.md`.
+
+This repo holds knowledge and fundamentals only. Episode ideas, scripts and briefs are
+pitched by the creator in the chat; don't commit them here.
 
 Character identity authority: `output/character-bible-2026-10-03/approved-cast-reference.png`
 (per-character sheets beside it). Attach these to every image-generation prompt.
@@ -25,7 +27,10 @@ Character identity authority: `output/character-bible-2026-10-03/approved-cast-r
 - Ember (instagram.com/emberer00) is the benchmark for style, motion and sound. Copy the
   approach only: never use Ember's characters, artwork, music or audio, and never add its
   reels to this repo.
-- Keep each episode's work in `episodes/<slug>/` (art, cels, manifests, audio, renders).
+- Build each episode in `episodes/<slug>/` (art, cels, manifests, audio, renders). That
+  folder is git-ignored: episode work stays local and is never pushed.
+- Commit only reusable improvements: skill fixes, new rules or references learned from an
+  episode, licensed sound additions. Keep them free of episode-specific story content.
 - Run `measure_video.py` on every render and report anything outside Ember's range.
 - Never publish, post or upload anything without the creator's explicit approval.
 - The repo is public: no credentials, personal data or unreleased third-party material.
