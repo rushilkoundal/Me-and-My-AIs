@@ -40,7 +40,9 @@ permission to publish, contact a creator or purchase services.
 1. Define the starting pose, motivated action, result and reaction. For channel stories,
    ground the incident in recognisable AI use. Select cast by the idea.
 2. Read [visual system](references/visual-system.md) and choose one camera, floor plane,
-   actor scale, prop support and colour hierarchy per shot.
+   actor scale, prop support and colour hierarchy per shot. Apply its flexible
+   60–30–10 palette guide: preserve the pale field, faint depth cues, approved character
+   colors and a concentrated story accent; never force exact area quotas.
 3. Plan the drawings that communicate the action. Read [motion and audio](references/motion-and-audio.md)
    for contacts, exposures and speech. Use complete redrawn bodies or interacting pairs.
    Don't rotate detached raster limbs as a substitute for authored natural action.
@@ -96,6 +98,9 @@ numpy, scipy and a local `rife-ncnn-vulkan` with a model folder; candidates stil
 visual review. Details and calibration: [smoothing](references/smoothing.md).
 
 ## Delivery checks
+
+- Review the palette at phone size: quiet pale scenery, faint depth cues, readable
+  character colors and a clear story accent. Use 60–30–10 flexibly; preserve quiet space.
 
 - Both full bodies and important hand/prop contacts remain visible inside the chosen
   mobile safe area. The background fills 9:16 without black bars.

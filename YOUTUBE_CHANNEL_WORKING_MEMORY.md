@@ -75,6 +75,7 @@ Set by the creator on 23 October 2026: **Ember (https://www.instagram.com/embere
 - **Depth:** overlap, value and perspective; distant figures and objects are smaller and paler; soft contact shadows ground characters and props.
 - **Characters:** confident dark outlines and flat fills; identifying clothing colour stays strong against the quiet background.
 - **Selective colour:** colour goes to the characters and the object the joke depends on; inactive scenery stays muted. An important prop can gain saturation at its reveal.
+- **Palette planning:** use 60–30–10 as a flexible guide, not an exact area quota or a measured Ember ratio. Preserve the dominant pale neutral field, faint environmental line art for depth, approved character colors and a small concentrated accent on the story focus. Sparse shots may have much more than 60% neutral background; never add clutter to meet the ratio. See the animation skill’s visual system.
 - **Props:** every prop is held, resting or falling for a reason, with visible support and a contact shadow. Never decorative floating objects.
 - **Scale:** wide shots keep characters small (about 12-20% of frame height) in sparse scenery; medium shots for acting and dialogue; close inserts for the payoff.
 - **Motion (measured, 12 reels):** mostly moving on 1s (median 61% of frames change), holds for reactions (median 22% of runtime), anticipation before every impact, hard cuts between wide and inserts, drawn effects (speed lines, impact frames, shake, flashes).

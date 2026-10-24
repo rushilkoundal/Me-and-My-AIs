@@ -51,6 +51,29 @@ when the relationship reads. Author layer splits or keep the interaction in one 
 - Inactive scenery can be muted; an important object can gain saturation at its reveal.
   Motivate the change. Colour directs attention rather than decorating every object.
 
+## Palette planning: flexible 60–30–10
+
+Use Ember’s sparse color hierarchy: a dominant pale neutral field, faint environmental
+line art for depth, clear character colors, and a small concentrated accent on the
+story focus. Use 60–30–10 as a flexible palette-planning guide; preserve quiet space
+rather than forcing exact proportions. Keep distant elements paler and lower in
+contrast, and preserve approved character colors.
+
+The conventional guide describes approximate visible color area: 60% dominant base,
+30% secondary colors and 10% accent. These are not percentages of viewer attention,
+and the saved Ember study does not establish that Ember uses this exact ratio.
+Sparse wide shots may have much more than 60% neutral background. Do not enlarge
+characters, add scenery or increase saturation merely to meet a quota.
+
+- Plan the dominant base, supporting colors and story accent for each shot. Keep
+  inactive scenery quiet; a key prop can carry the accent when the action needs it.
+- Use minimal environmental lines, perspective, overlap and soft contact shadows
+  to establish depth without competing with faces, hands or the active object.
+- Keep the palette consistent within a shot. Motivate accent changes at reveals
+  or deliberate cuts; brief impact frames and payoff style breaks may depart from it.
+- Review opening, action and payoff frames at phone size. Check that the story focus
+  reads clearly and that background details or unrelated bright objects do not compete.
+
 ## Props
 
 Record owner/support, size, orientation and drawing before animation. Every prop is
